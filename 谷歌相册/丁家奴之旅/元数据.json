@@ -1,0 +1,66 @@
+{
+  "title": "丁家奴之旅",
+  "description": "",
+  "access": "protected",
+  "date": {
+    "timestamp": "1458581093",
+    "formatted": "2016年3月21日 UTC 17:24:53"
+  },
+  "location": "",
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "enrichments": [{
+    "locationEnrichment": {
+      "location": [{
+        "name": "热浪岛海滩度假村",
+        "description": "Pulau Redang, 瓜拉丁加奴, 登嘉楼, 马来西亚",
+        "latitudeE7": 57721911,
+        "longitudeE7": 1030330059
+      }]
+    }
+  }, {
+    "mapEnrichment": {
+      "origin": [{
+        "name": "クアラ・トレンガヌ",
+        "description": "トレンガヌ",
+        "latitudeE7": 53296240,
+        "longitudeE7": 1031370142
+      }],
+      "destination": [{
+        "name": "クアラトレンガヌ",
+        "description": "トレンガヌ州",
+        "latitudeE7": 53375161,
+        "longitudeE7": 1031373771
+      }]
+    }
+  }, {
+    "locationEnrichment": {
+      "location": [{
+        "name": "丁加奴唐人街",
+        "description": "Jalan Kampung Cina, Kampung Banggul, 瓜拉丁加奴, 登嘉楼, 马来西亚",
+        "latitudeE7": 53310423,
+        "longitudeE7": 1031323941
+      }]
+    }
+  }, {
+    "mapEnrichment": {
+      "origin": [{
+        "name": "クアラ・トレンガヌ",
+        "description": "トレンガヌ",
+        "latitudeE7": 53296240,
+        "longitudeE7": 1031370142
+      }],
+      "destination": [{
+        "name": "クアラトレンガヌ",
+        "description": "トレンガヌ州",
+        "latitudeE7": 53363889,
+        "longitudeE7": 1031369444
+      }]
+    }
+  }]
+}

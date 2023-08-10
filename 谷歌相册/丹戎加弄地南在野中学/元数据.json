@@ -1,0 +1,36 @@
+{
+  "title": "丹戎加弄地南在野中学",
+  "description": "",
+  "access": "protected",
+  "date": {
+    "timestamp": "1455754024",
+    "formatted": "2016年2月18日 UTC 00:07:04"
+  },
+  "location": "",
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "enrichments": [{
+    "locationEnrichment": {
+      "location": [{
+        "name": "丹戎加弄",
+        "description": "雪兰莪, 马来西亚",
+        "latitudeE7": 34264090,
+        "longitudeE7": 1011767141
+      }]
+    }
+  }, {
+    "locationEnrichment": {
+      "location": [{
+        "name": "SMK Tiram Jaya",
+        "description": "Tanjong Karang",
+        "latitudeE7": 34344830,
+        "longitudeE7": 1012362559
+      }]
+    }
+  }]
+}

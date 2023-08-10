@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20211010_225658_821.webp",
+  "description": "",
+  "imageViews": "14",
+  "creationTime": {
+    "timestamp": "1639331468",
+    "formatted": "2021年12月12日 UTC 17:51:08"
+  },
+  "photoTakenTime": {
+    "timestamp": "1633874220",
+    "formatted": "2021年10月10日 UTC 13:57:00"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/0IxY355G0JuRPBuWLzO2FyfDh3HfqgZ7fPlXur_fzKANZzknHVoV2gXESuw6zMTgsPJu2eJUFOtZxMyaSimR-9CDmCiErxAhK1K7UVM6",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

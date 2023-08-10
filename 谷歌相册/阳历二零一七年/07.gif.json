@@ -1,0 +1,36 @@
+{
+  "title": "07.gif",
+  "description": "",
+  "imageViews": "25",
+  "creationTime": {
+    "timestamp": "1504268918",
+    "formatted": "2017年9月1日 UTC 12:28:38"
+  },
+  "photoTakenTime": {
+    "timestamp": "1503472549",
+    "formatted": "2017年8月23日 UTC 07:15:49"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/bjUfP7poZBPmf6Pj5bpYYlr3hA240nkguXhzvs_z0xbr-IuhNbPsIWUGoORDrj6Hs4ufWNiHeIqICfZmhA9tS6EOkJhzcYkT0s18dJZh",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

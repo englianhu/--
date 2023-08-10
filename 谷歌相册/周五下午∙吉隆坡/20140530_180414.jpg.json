@@ -1,0 +1,33 @@
+{
+  "title": "20140530_180414.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1440321776",
+    "formatted": "2015年8月23日 UTC 09:22:56"
+  },
+  "photoTakenTime": {
+    "timestamp": "1401440654",
+    "formatted": "2014年5月30日 UTC 09:04:14"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/EB5NlnPRSCf32GRY5Nd24KffTuKBM9Iw4UZHcBLpzlUoT0ViPfTKM34mnzZr-ERgWRv_pEAoywd5xy6C26Tj5xM0VFmELueRajfKeQU",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

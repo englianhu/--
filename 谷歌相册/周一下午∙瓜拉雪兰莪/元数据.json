@@ -1,0 +1,36 @@
+{
+  "title": "周一下午•瓜拉雪兰莪",
+  "description": "",
+  "access": "protected",
+  "date": {
+    "timestamp": "1535947472",
+    "formatted": "2018年9月3日 UTC 04:04:32"
+  },
+  "location": "",
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "enrichments": [{
+    "locationEnrichment": {
+      "location": [{
+        "name": "Tanjung Karang",
+        "description": "スランゴル",
+        "latitudeE7": 34264090,
+        "longitudeE7": 1011767141
+      }]
+    }
+  }, {
+    "locationEnrichment": {
+      "location": [{
+        "name": "クアラ・スランゴル",
+        "description": "スランゴル",
+        "latitudeE7": 33401840,
+        "longitudeE7": 1012497620
+      }]
+    }
+  }]
+}

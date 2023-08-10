@@ -1,0 +1,36 @@
+{
+  "title": "Finding Nemo - Shark Tale.jpeg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1639328865",
+    "formatted": "2021年12月12日 UTC 17:07:45"
+  },
+  "photoTakenTime": {
+    "timestamp": "1631340590",
+    "formatted": "2021年9月11日 UTC 06:09:50"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/whQCL5_EJ1MDBQCNNuGBIAaz1cfXCzE_4gsiE3dDA2i56aBNLT8RPBQjdsSFPVDzrh7KcFnQBhNoSRlhlDvN3YSy7v9cKoQu_HCUMt41",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "数码海洋",
+  "description": "",
+  "access": "protected",
+  "date": {
+    "timestamp": "1442656089",
+    "formatted": "2015年9月19日 UTC 09:48:09"
+  },
+  "location": "",
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Shiny.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1688605304",
+    "formatted": "2023年7月6日 UTC 01:01:44"
+  },
+  "photoTakenTime": {
+    "timestamp": "1595412676",
+    "formatted": "2020年7月22日 UTC 10:11:16"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/2t_EYrTgp73nGclW-57VopveTI1y_cjzFVvBo45asxvY8ODOy123oBge-6tYzHZhaLSaDELMbMAQU2cCXR7TNLgJ7DibaeEQtWlydCbU",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "sportmarket.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1600602244",
+    "formatted": "2020年9月20日 UTC 11:44:04"
+  },
+  "photoTakenTime": {
+    "timestamp": "1600589344",
+    "formatted": "2020年9月20日 UTC 08:09:04"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/_f7AGGbm9ALFgCYKOIYY9ExkmJWzYm3z_i35nz-_y6Jp0fYi5vsZSze7OjRKfMgDkpGnGZs0hyoPOpBMRb1y686e3OJiWvANf7oV8MGe",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

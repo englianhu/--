@@ -1,0 +1,39 @@
+{
+  "title": "O1CN01NHN3As22X88ve44om_!!2340627129.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1599615137",
+    "formatted": "2020年9月9日 UTC 01:32:17"
+  },
+  "photoTakenTime": {
+    "timestamp": "1599478269",
+    "formatted": "2020年9月7日 UTC 11:31:09"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/Jp-tme1Wocsv08rxY7FRh2msAFlib5bdk3veO67oC54eZiPowHvB1sBjh6YT9TJVWEk2xQc-nP-NevqKHYMrF1EBpXU0o-2tNeUpfgKv",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "oddshero.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1600602244",
+    "formatted": "2020年9月20日 UTC 11:44:04"
+  },
+  "photoTakenTime": {
+    "timestamp": "1600589286",
+    "formatted": "2020年9月20日 UTC 08:08:06"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Q61EIZmthRmy0dpSDrIxbeCXrZBIcGgRHCClqsROWLQOnWTY1Vx9acjvRngQjLPtMjgnjyM5m-IrwL3VyKm8cUkV4HUEb6TJuG3ZNzMv",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

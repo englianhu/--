@@ -1,0 +1,36 @@
+{
+  "title": "拜心女王.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1599615133",
+    "formatted": "2020年9月9日 UTC 01:32:13"
+  },
+  "photoTakenTime": {
+    "timestamp": "1599406247",
+    "formatted": "2020年9月6日 UTC 15:30:47"
+  },
+  "geoData": {
+    "latitude": 3.008479,
+    "longitude": 101.66098,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.008479,
+    "longitude": 101.66098,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/aV1WXw0T1HrNYLjkGAP-86o5BoVYXIy0w7ZNro5g_nSooU-XPmSuPfhq2Qaj5kpxUqDw2j74N1ZUZlG-bm6Us41vSKZIcEc9tal-BQeS",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

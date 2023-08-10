@@ -1,0 +1,36 @@
+{
+  "title": "犀利哥.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1599921828",
+    "formatted": "2020年9月12日 UTC 14:43:48"
+  },
+  "photoTakenTime": {
+    "timestamp": "1599920734",
+    "formatted": "2020年9月12日 UTC 14:25:34"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/EilATvLpqfRhG4X18ODKvHNmukYeyi1HZ2YzgaeyGor3ADXLhQPwEwD3JJ0_9yjCiVB77E3Qojm5AgQE9G33muxPXjeh102rqB6zkJyS",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

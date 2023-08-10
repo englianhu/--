@@ -1,0 +1,39 @@
+{
+  "title": "统计之都 - ryo.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1636216611",
+    "formatted": "2021年11月6日 UTC 16:36:51"
+  },
+  "photoTakenTime": {
+    "timestamp": "1598769066",
+    "formatted": "2020年8月30日 UTC 06:31:06"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/-AVVKZKzbYbvar4dfO24iXr3UFG0u9_iGaO5yY5UMLCYVGLxbLx6mjMavwFpEuMCMWnSReXg81HoIaXXgwq3NAcltvZ9JdyzaVBjsDNT",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

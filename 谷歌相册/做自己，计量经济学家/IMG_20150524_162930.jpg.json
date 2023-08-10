@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20150524_162930.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1603734100",
+    "formatted": "2020年10月26日 UTC 17:41:40"
+  },
+  "photoTakenTime": {
+    "timestamp": "1432452570",
+    "formatted": "2015年5月24日 UTC 07:29:30"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/OSZ81h2o08oOTmL8kKG0h5G0RL2SyEzRpmkz66ihbO10Vbpl6oHooDHdMmooLNQ_tbsyq_p0Mz82OhWp8L7JeLEaTLdQks0dMdS0KUmv",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

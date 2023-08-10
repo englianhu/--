@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20151227_131447155.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1603734091",
+    "formatted": "2020年10月26日 UTC 17:41:31"
+  },
+  "photoTakenTime": {
+    "timestamp": "1451189687",
+    "formatted": "2015年12月27日 UTC 04:14:47"
+  },
+  "geoData": {
+    "latitude": 3.2013889,
+    "longitude": 101.30555559999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.2013889,
+    "longitude": 101.30555559999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/_Sm4rZC4TIj3vjT39Nlk2nyoIiF2GbhJEH77EQnEdOfTCV9M-sl7rQVLkvjQF7X_8DAC-v86odJoWH80Y9W2DHd3uc8oKNJSSPK4A6qJ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

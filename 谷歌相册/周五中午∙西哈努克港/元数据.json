@@ -1,0 +1,36 @@
+{
+  "title": "周五中午•西哈努克港",
+  "description": "",
+  "access": "protected",
+  "date": {
+    "timestamp": "1519960756",
+    "formatted": "2018年3月2日 UTC 03:19:16"
+  },
+  "location": "",
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "enrichments": [{
+    "locationEnrichment": {
+      "location": [{
+        "name": "西哈努克經濟特區",
+        "description": "柬埔寨",
+        "latitudeE7": 106097816,
+        "longitudeE7": 1036284517
+      }]
+    }
+  }, {
+    "locationEnrichment": {
+      "location": [{
+        "name": "西哈努克經濟特區",
+        "description": "柬埔寨",
+        "latitudeE7": 106097816,
+        "longitudeE7": 1036284517
+      }]
+    }
+  }]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Screenshot_2020-08-10-18-45-01-383_com.instagram.android.png",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1599615064",
+    "formatted": "2020年9月9日 UTC 01:31:04"
+  },
+  "photoTakenTime": {
+    "timestamp": "1597052701",
+    "formatted": "2020年8月10日 UTC 09:45:01"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/zZ79W_mpNq049Z8KP3cUNfgg4LiWGopbinDSgLgao5ID2ZrwvaxNI31qgGcfOsEIL4X4BUH9_yW_pXZRy3-M10f2tb8H8y_yLFPJ1hVR",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

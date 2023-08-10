@@ -1,0 +1,27 @@
+{
+  "title": "八打灵在野",
+  "description": "",
+  "access": "protected",
+  "date": {
+    "timestamp": "1453533559",
+    "formatted": "2016年1月23日 UTC 07:19:19"
+  },
+  "location": "",
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "enrichments": [{
+    "locationEnrichment": {
+      "location": [{
+        "name": "八打灵再也",
+        "description": "雪兰莪, 马来西亚",
+        "latitudeE7": 31278871,
+        "longitudeE7": 1015944885
+      }]
+    }
+  }]
+}

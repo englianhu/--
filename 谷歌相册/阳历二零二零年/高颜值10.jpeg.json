@@ -1,0 +1,36 @@
+{
+  "title": "高颜值10.jpeg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1608187804",
+    "formatted": "2020年12月17日 UTC 06:50:04"
+  },
+  "photoTakenTime": {
+    "timestamp": "1608134130",
+    "formatted": "2020年12月16日 UTC 15:55:30"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/tuDd9IperJJN1IdOxmEaW203bWCJcKStZROO-evkNHacKVoTp6j0CZaGU6HGKZ-vI9LGWcRYNzaTHXYAU15AXWZd7mXh9kXkKiR_f-EG",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

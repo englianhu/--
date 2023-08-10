@@ -1,0 +1,36 @@
+{
+  "title": "大胃王.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1599615192",
+    "formatted": "2020年9月9日 UTC 01:33:12"
+  },
+  "photoTakenTime": {
+    "timestamp": "1599478270",
+    "formatted": "2020年9月7日 UTC 11:31:10"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/HW0GmAe08lT5dOwL43I8F_07Sf6jqh0bzfvB4SXYDZNFneO_n9P9jZNNz6E34cvVkwEWGK93oly2ElgvGbQfUNN7Rz7EVR2wtI1w977s",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

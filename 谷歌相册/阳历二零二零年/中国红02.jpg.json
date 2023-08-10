@@ -1,0 +1,39 @@
+{
+  "title": "中国红02.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1604856571",
+    "formatted": "2020年11月8日 UTC 17:29:31"
+  },
+  "photoTakenTime": {
+    "timestamp": "1604855294",
+    "formatted": "2020年11月8日 UTC 17:08:14"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/WJVjID1Lve1VqVPmir9J0EUK0dzo9uBomReWMYz52q6YpP9OX4GE4vQrUZF-miVRlpwiCIN9b47A0hTLH9Fl1be5u1VyQrKlKq1_3v1z",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

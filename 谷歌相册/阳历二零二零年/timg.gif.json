@@ -1,0 +1,36 @@
+{
+  "title": "timg.gif",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1607441840",
+    "formatted": "2020年12月8日 UTC 15:37:20"
+  },
+  "photoTakenTime": {
+    "timestamp": "1607434469",
+    "formatted": "2020年12月8日 UTC 13:34:29"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Z4J66ENxi7yKxOTRPubLv_7v5DeJ08DnDK83APSw2L5b00FiQVp3L4GE4-5kavWqVdf3bRag6zJNwa5zLkgvK0B8HRg1fXv6mZRQ0ssX",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

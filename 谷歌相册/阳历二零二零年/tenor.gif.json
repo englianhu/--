@@ -1,0 +1,36 @@
+{
+  "title": "tenor.gif",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1609345314",
+    "formatted": "2020年12月30日 UTC 16:21:54"
+  },
+  "photoTakenTime": {
+    "timestamp": "1608961726",
+    "formatted": "2020年12月26日 UTC 05:48:46"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/KD734DJA_EUKzQWMLAlM87pyKZO7ZbHg9BQmYepZeWUnDIaPpMBLXzz0Y0TVQxMZIfv8ZL2Fpowtvm7IsjAPd43hm3VH-WWcV1Qo0xKT",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

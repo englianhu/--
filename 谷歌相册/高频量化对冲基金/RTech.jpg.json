@@ -1,0 +1,33 @@
+{
+  "title": "RTech.jpg",
+  "description": "",
+  "imageViews": "32",
+  "creationTime": {
+    "timestamp": "1646565258",
+    "formatted": "2022年3月6日 UTC 11:14:18"
+  },
+  "photoTakenTime": {
+    "timestamp": "1610485820",
+    "formatted": "2021年1月12日 UTC 21:10:20"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/bzhEAFXjTy7C2Ou9tGRtCLv9zI0QI6yTZshvQiB3FBL4NWgfdC5EVocNV4djXFb5q8UZ8nI-lJLIRO2sE9j2SCP5X39JWKPzUuN_3H5m",
+  "googlePhotosOrigin": {
+    "driveDesktopUploader": {
+      "version": "BACKUP_AND_SYNC"
+    }
+  }
+}

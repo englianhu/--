@@ -1,0 +1,36 @@
+{
+  "title": "germany_colors_wpo.jpg",
+  "description": "",
+  "imageViews": "19",
+  "creationTime": {
+    "timestamp": "1476699860",
+    "formatted": "2016年10月17日 UTC 10:24:20"
+  },
+  "photoTakenTime": {
+    "timestamp": "1334887605",
+    "formatted": "2012年4月20日 UTC 02:06:45"
+  },
+  "geoData": {
+    "latitude": 52.5167,
+    "longitude": 13.3833,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 52.5167,
+    "longitude": 13.3833,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/14UIwVFBnJPy99Pw-e13iEmZLEJ8__xBgji7Vj1AFv3DbCun1uLKA9AML1ldZ_3evyPpGfSTjYdO_nAeFrqVfqNQG2frS2b47qcaFDUH",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Pictures"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

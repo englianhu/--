@@ -1,0 +1,36 @@
+{
+  "title": "海底光纜.png",
+  "description": "",
+  "imageViews": "22",
+  "creationTime": {
+    "timestamp": "1512615010",
+    "formatted": "2017年12月7日 UTC 02:50:10"
+  },
+  "photoTakenTime": {
+    "timestamp": "1508581640",
+    "formatted": "2017年10月21日 UTC 10:27:20"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/rjYQkMFF2hKz_a3PzBpeu7QPS1ehddWf86UIKCSprHFpFW1pJASLeQdZhCgz4rlhC8CBs8ew1Q86dJI7J18Wlt0hSBCVCq46v4RI93Bj",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

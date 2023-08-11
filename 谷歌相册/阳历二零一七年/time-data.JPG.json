@@ -1,0 +1,33 @@
+{
+  "title": "time-data.JPG",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1604160518",
+    "formatted": "2020年10月31日 UTC 16:08:38"
+  },
+  "photoTakenTime": {
+    "timestamp": "1509910432",
+    "formatted": "2017年11月5日 UTC 19:33:52"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/V_o48Y7kGe073-loqvNdIm6EK9SB6o5hcXkdN94hn0KADWz9RvZmKC8WdJ-TRUWNxA_Y3mh8CHXRllBXdcJzHCCoooUcyN-PcGggxpfN",
+  "googlePhotosOrigin": {
+    "driveDesktopUploader": {
+      "version": "BACKUP_AND_SYNC"
+    }
+  }
+}

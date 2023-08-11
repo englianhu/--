@@ -1,0 +1,31 @@
+{
+  "title": "Screenshot_2017-08-13-04-57-48.png",
+  "description": "",
+  "imageViews": "33",
+  "creationTime": {
+    "timestamp": "1502569817",
+    "formatted": "2017年8月12日 UTC 20:30:17"
+  },
+  "photoTakenTime": {
+    "timestamp": "1502569809",
+    "formatted": "2017年8月12日 UTC 20:30:09"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/j6hPsmUfXiThh-ROy_uHkBdRjQ5JJtEPt_XVUMPSlaf61q3ErBY31eqU_wZjGxJRrEaAIICdlXgQurwMLjp6iI-MGecEoXYq0bu4yuTB"
+}

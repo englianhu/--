@@ -1,0 +1,33 @@
+{
+  "title": "splash.png",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1609344745",
+    "formatted": "2020年12月30日 UTC 16:12:25"
+  },
+  "photoTakenTime": {
+    "timestamp": "1565962221",
+    "formatted": "2019年8月16日 UTC 13:30:21"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/kRaQSt7KctCZd3duIMkl7Mh4wGL-BYJt2PR27wGUiVbmafRVIC5IlNhVg5sKeuYFZGddU5RNdQN9fq9nPq1F0vYaG0vk92fmQ-v6L-jb",
+  "googlePhotosOrigin": {
+    "driveDesktopUploader": {
+      "version": "BACKUP_AND_SYNC"
+    }
+  }
+}

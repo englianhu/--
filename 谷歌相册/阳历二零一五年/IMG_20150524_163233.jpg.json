@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20150524_163233.jpg",
+  "description": "",
+  "imageViews": "38",
+  "creationTime": {
+    "timestamp": "1432461687",
+    "formatted": "2015年5月24日 UTC 10:01:27"
+  },
+  "photoTakenTime": {
+    "timestamp": "1432452755",
+    "formatted": "2015年5月24日 UTC 07:32:35"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/TzBV_vEExGNRbvQhD9vJARdfd4rhtkZqTJ8NcGJkJp5iVNUFXO_HeSF23XWYf154NxsQ_SGq3dQVlquruYu8ZyMy2kfasE4m7ZRrgME",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

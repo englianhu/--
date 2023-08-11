@@ -1,0 +1,36 @@
+{
+  "title": "20151019_185220.jpg",
+  "description": "",
+  "imageViews": "25",
+  "creationTime": {
+    "timestamp": "1445257753",
+    "formatted": "2015年10月19日 UTC 12:29:13"
+  },
+  "photoTakenTime": {
+    "timestamp": "1445248339",
+    "formatted": "2015年10月19日 UTC 09:52:19"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/dkX_Adb6bfnCE6rmkVczJuRNE8XBzS_k7BhSyF5eWTS5UGwt4zNK8bZMboFGn-yUocIG4Pf9zRpBa6z11RnVrmVdLeGiBqo-2zSdFkI",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

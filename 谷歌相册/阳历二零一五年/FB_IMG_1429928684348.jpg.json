@@ -1,0 +1,36 @@
+{
+  "title": "FB_IMG_1429928684348.jpg",
+  "description": "",
+  "imageViews": "42",
+  "creationTime": {
+    "timestamp": "1429943210",
+    "formatted": "2015年4月25日 UTC 06:26:50"
+  },
+  "photoTakenTime": {
+    "timestamp": "1429928684",
+    "formatted": "2015年4月25日 UTC 02:24:44"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/CZ-8u-9QbGr8iR3kv4tkTjwGW4vzT6EejCYYybDAyb6jpfkV3_3IolWsU55AJPE9vVn17gONziG35KC_Lib74-zb5F93dkcuAHyCBXk",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

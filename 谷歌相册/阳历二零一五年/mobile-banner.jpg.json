@@ -1,0 +1,36 @@
+{
+  "title": "mobile-banner.jpg",
+  "description": "",
+  "imageViews": "46",
+  "creationTime": {
+    "timestamp": "1429679195",
+    "formatted": "2015年4月22日 UTC 05:06:35"
+  },
+  "photoTakenTime": {
+    "timestamp": "1429671529",
+    "formatted": "2015年4月22日 UTC 02:58:49"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/aH8W5AKS0ZvJXtcankTWoGRvq3DbLpOGGKzBLpD18wryS1Uira2flPkqJebysd5ZOiQNx5DU8_w25u_rC0Tchi-f6Yeni7bqq7J8eu8",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20150309_140434.jpg",
+  "description": "",
+  "imageViews": "55",
+  "creationTime": {
+    "timestamp": "1426076558",
+    "formatted": "2015年3月11日 UTC 12:22:38"
+  },
+  "photoTakenTime": {
+    "timestamp": "1425877474",
+    "formatted": "2015年3月9日 UTC 05:04:34"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/lq140jTZ_RkdhfZrdhp6xIFeKekmg6vCgZmFHuDOKbXlc7npWMct0uYTjYtteiE3bvQqPJV0gOtalwGBueLpUpux2TqhD59sN_n3L4w",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

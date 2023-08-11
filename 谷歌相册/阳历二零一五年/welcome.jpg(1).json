@@ -1,0 +1,36 @@
+{
+  "title": "welcome.jpg",
+  "description": "",
+  "imageViews": "44",
+  "creationTime": {
+    "timestamp": "1437220023",
+    "formatted": "2015年7月18日 UTC 11:47:03"
+  },
+  "photoTakenTime": {
+    "timestamp": "1437218488",
+    "formatted": "2015年7月18日 UTC 11:21:28"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/NbFRlDKs6iNV5ECAjrj8ciq6NnqBpXF4BP6JTjXJiW-p2lI7emNUDV1U6lKPZHL2RzF11zOYQ2K68BEwXuLuvU-I0TPeF6JJvtzBFqs",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "picture"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

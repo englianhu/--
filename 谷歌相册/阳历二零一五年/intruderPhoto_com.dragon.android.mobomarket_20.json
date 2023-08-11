@@ -1,0 +1,36 @@
+{
+  "title": "intruderPhoto_com.dragon.android.mobomarket_20150926204505.jpg",
+  "description": "",
+  "imageViews": "26",
+  "creationTime": {
+    "timestamp": "1448701208",
+    "formatted": "2015年11月28日 UTC 09:00:08"
+  },
+  "photoTakenTime": {
+    "timestamp": "1443267967",
+    "formatted": "2015年9月26日 UTC 11:46:07"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/MBNwsqK59NgPMSjBNK-clEOs_sYoWPT4KZnfts4_utjGIZR-b8v97-6_xglpWGCq6iwCCumN9J7TQBJ9-ubnMeuw6p9PEwJ-nyg2CAw",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "com.cleanmaster.mguard_cn"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "20151021_174613.jpg",
+  "description": "",
+  "imageViews": "26",
+  "creationTime": {
+    "timestamp": "1445434837",
+    "formatted": "2015年10月21日 UTC 13:40:37"
+  },
+  "photoTakenTime": {
+    "timestamp": "1445417173",
+    "formatted": "2015年10月21日 UTC 08:46:13"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Y2Y1JSqryBnkfanFrgTIK8MNKxjnEGHNsxicdszQVOIKX4JhqHlLhh_NKCz2wID5NdaonM_8KWv-1D6jdZfZJEeZpd6pVIL0TH1gRjc",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20151227_131447155-COLLAGE.jpg",
+  "description": "",
+  "imageViews": "43",
+  "creationTime": {
+    "timestamp": "1451257286",
+    "formatted": "2015年12月27日 UTC 23:01:26"
+  },
+  "photoTakenTime": {
+    "timestamp": "1451189725",
+    "formatted": "2015年12月27日 UTC 04:15:25"
+  },
+  "geoData": {
+    "latitude": 3.2013889,
+    "longitude": 101.30555559999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.2013889,
+    "longitude": 101.30555559999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/xOIgoTclCO8rFIbUrfag_-uM7Bwix3cnPV3iuF7rNFcjsFRTuL02ybmUXxj8YGw6Iv8t6oQS5UXGeAC14zHOWQ8oMYZF8wnMfZ9_BuZf",
+  "googlePhotosOrigin": {
+    "composition": {
+      "type": "AUTO"
+    }
+  }
+}

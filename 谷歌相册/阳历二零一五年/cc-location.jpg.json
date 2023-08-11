@@ -1,0 +1,28 @@
+{
+  "title": "cc-location.jpg",
+  "description": "",
+  "imageViews": "37",
+  "creationTime": {
+    "timestamp": "1445188692",
+    "formatted": "2015年10月18日 UTC 17:18:12"
+  },
+  "photoTakenTime": {
+    "timestamp": "1445167020",
+    "formatted": "2015年10月18日 UTC 11:17:00"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/iC2PJ_maUD3D7eSwRHKgUIBKpv6FkpLFQvpEb_UFtuDuvo5lCYQGAnpkftkHDjk9-ucpEvxicY7Lax8P28LkLLF1WNXn95k2m1xvv7Y"
+}

@@ -1,0 +1,36 @@
+{
+  "title": "20151021_170433.jpg",
+  "description": "",
+  "imageViews": "40",
+  "creationTime": {
+    "timestamp": "1445434743",
+    "formatted": "2015年10月21日 UTC 13:39:03"
+  },
+  "photoTakenTime": {
+    "timestamp": "1445414672",
+    "formatted": "2015年10月21日 UTC 08:04:32"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/_TQPik-n0rB1ZR0ApQC1tOxoMIyU-m_FwcPTWw-fIfAshIzLDNcopK_rqFIbqtD_i9Ea6_FXHmtrBXex-0zCTyVYTbJCOSafNZaYTXg",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

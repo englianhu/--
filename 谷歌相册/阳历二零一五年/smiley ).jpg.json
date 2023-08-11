@@ -1,0 +1,36 @@
+{
+  "title": "smiley ).jpg",
+  "description": "",
+  "imageViews": "62",
+  "creationTime": {
+    "timestamp": "1431561402",
+    "formatted": "2015年5月13日 UTC 23:56:42"
+  },
+  "photoTakenTime": {
+    "timestamp": "1431521365",
+    "formatted": "2015年5月13日 UTC 12:49:25"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/j5qSXp_tpJJUmM3d1XsMu30awIXI42nnIMv4m-jowpHUq0iexajNn6niBpwwLtHZq6hnFAM6C9IxS6MhVW3cpZLVoDqPryDIkW638cY",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

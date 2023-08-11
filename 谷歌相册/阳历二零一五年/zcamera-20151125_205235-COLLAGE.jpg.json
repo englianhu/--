@@ -1,0 +1,36 @@
+{
+  "title": "zcamera-20151125_205235-COLLAGE.jpg",
+  "description": "",
+  "imageViews": "18",
+  "creationTime": {
+    "timestamp": "1599751127",
+    "formatted": "2020年9月10日 UTC 15:18:47"
+  },
+  "photoTakenTime": {
+    "timestamp": "1448452463",
+    "formatted": "2015年11月25日 UTC 11:54:23"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/cPfkbr6GSVwKOsz99acG_shaB2pIECL9Udd1w9uQ78rxOrxbXzTn4b0VFonk3fr3yNQoxpPw0JWwLqedU8AGjbenUod1lUuTTRaqGi8",
+  "googlePhotosOrigin": {
+    "composition": {
+      "type": "AUTO"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20150315_180428.jpg",
+  "description": "",
+  "imageViews": "57",
+  "creationTime": {
+    "timestamp": "1426428147",
+    "formatted": "2015年3月15日 UTC 14:02:27"
+  },
+  "photoTakenTime": {
+    "timestamp": "1426410269",
+    "formatted": "2015年3月15日 UTC 09:04:29"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/JWkNSmvvXYuOg-HUeoC3TLSZgp9Bsv6V9phtQIm75wbrPbJAq3Q4VT6hR9PKgb6QMvdu1erlJf6GFx8DoJAGFiLNqtcBzUXcOrfj5Kk",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

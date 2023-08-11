@@ -1,0 +1,36 @@
+{
+  "title": "20150621_015159.jpg",
+  "description": "",
+  "imageViews": "50",
+  "creationTime": {
+    "timestamp": "1434819163",
+    "formatted": "2015年6月20日 UTC 16:52:43"
+  },
+  "photoTakenTime": {
+    "timestamp": "1434819118",
+    "formatted": "2015年6月20日 UTC 16:51:58"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/FWFwh3z8rl7TinBevAvQu6ZHbPbWEeNtRxK1T2IUU3qJLp9H6n5U3QCc_rmet7f6F1-Dy8JVzXC4Jy9Ru-HglUHEM-RmOzrnXnyePP03",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

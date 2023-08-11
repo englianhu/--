@@ -1,0 +1,36 @@
+{
+  "title": "GPlay_EarthDay_v02_r01.gif",
+  "description": "",
+  "imageViews": "69",
+  "creationTime": {
+    "timestamp": "1429725094",
+    "formatted": "2015年4月22日 UTC 17:51:34"
+  },
+  "photoTakenTime": {
+    "timestamp": "1429719356",
+    "formatted": "2015年4月22日 UTC 16:15:56"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/CvtZGeSk4ewJx5AEkY3RjxzOnHeVSqz5twKSNdOzQmpZcHN4X67iSAAgKaj1XH7c_uAYthDfLASUrYgEdN6L-vA3Ghvk4YQ3KOI21E8",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

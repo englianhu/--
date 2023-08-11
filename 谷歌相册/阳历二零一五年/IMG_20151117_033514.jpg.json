@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20151117_033514.jpg",
+  "description": "",
+  "imageViews": "28",
+  "creationTime": {
+    "timestamp": "1447698923",
+    "formatted": "2015年11月16日 UTC 18:35:23"
+  },
+  "photoTakenTime": {
+    "timestamp": "1447698915",
+    "formatted": "2015年11月16日 UTC 18:35:15"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/DJYZNXpuanX84V9GNY3E1rCATqpd_wS43Hyre5hOBrh91SXC6oEn3bflf3MbleWFLInIk72k2rnp5-tV6Vnx--cWohOAZkuuoecg4aw",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20150425_222752.jpg",
+  "description": "",
+  "imageViews": "49",
+  "creationTime": {
+    "timestamp": "1429974787",
+    "formatted": "2015年4月25日 UTC 15:13:07"
+  },
+  "photoTakenTime": {
+    "timestamp": "1429968472",
+    "formatted": "2015年4月25日 UTC 13:27:52"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/jW20BCo0sRu1Or4gPIhS0J8uNgiszabXrmP2fuVHkXVckXRTWO8z69v76PdsIRGNGDhe9v6caHfnDnXKPW1Guz1iT7bKw0E5_6NcS5E",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

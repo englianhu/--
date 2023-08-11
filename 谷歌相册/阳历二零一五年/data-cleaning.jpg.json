@@ -1,0 +1,36 @@
+{
+  "title": "data-cleaning.jpg",
+  "description": "",
+  "imageViews": "44",
+  "creationTime": {
+    "timestamp": "1430895881",
+    "formatted": "2015年5月6日 UTC 07:04:41"
+  },
+  "photoTakenTime": {
+    "timestamp": "1430891401",
+    "formatted": "2015年5月6日 UTC 05:50:01"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/kYyJkOfRGxGUBLngskWpaHTgy-97kE9gvHg3IkbV4xOuEj4KG8M95rQt7CKwEoTiRbtGFdEphiFvMi72aDcnHgj_r1EQ6NoOjz7kDBc",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

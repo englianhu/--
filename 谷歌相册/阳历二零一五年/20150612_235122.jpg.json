@@ -1,0 +1,36 @@
+{
+  "title": "20150612_235122.jpg",
+  "description": "",
+  "imageViews": "42",
+  "creationTime": {
+    "timestamp": "1434120720",
+    "formatted": "2015年6月12日 UTC 14:52:00"
+  },
+  "photoTakenTime": {
+    "timestamp": "1434120682",
+    "formatted": "2015年6月12日 UTC 14:51:22"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/toQeEDfCrDnAoNE8VspEWpekAWjjvh3A1850wuKz0gw83jWwi9rgsLDk-9sa3QqbfvXGAmnNBpL9OeaHmST2CBwjo8Ci7uncZ2k1yu8",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

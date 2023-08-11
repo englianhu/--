@@ -1,0 +1,36 @@
+{
+  "title": "20151015_130347.jpg",
+  "description": "",
+  "imageViews": "28",
+  "creationTime": {
+    "timestamp": "1444971117",
+    "formatted": "2015年10月16日 UTC 04:51:57"
+  },
+  "photoTakenTime": {
+    "timestamp": "1444881826",
+    "formatted": "2015年10月15日 UTC 04:03:46"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/tcfQ9ClL2glIxakOanxVWZ97REfzDFC4t02ODXNcuH82sgdAIWmes2wZCbBocORv66VgYlSDwj1hnc3ZeIkJarzzFcBj84yi2lBWSzs",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

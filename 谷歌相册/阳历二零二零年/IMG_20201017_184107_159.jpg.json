@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20201017_184107_159.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1602927686",
+    "formatted": "2020年10月17日 UTC 09:41:26"
+  },
+  "photoTakenTime": {
+    "timestamp": "1602927667",
+    "formatted": "2020年10月17日 UTC 09:41:07"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/T51ylQ0P9V_0tK4zJoyIKnCsSFxclea72XDKqGE6Yz8-gvhsXLjeBxthZeg0JH_XjZRYprwvEvdnShmVjz0fXo_NY_hUr-VpdvaMubyQ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

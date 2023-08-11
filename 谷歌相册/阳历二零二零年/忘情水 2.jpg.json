@@ -1,0 +1,36 @@
+{
+  "title": "忘情水 2.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1601468692",
+    "formatted": "2020年9月30日 UTC 12:24:52"
+  },
+  "photoTakenTime": {
+    "timestamp": "1601456949",
+    "formatted": "2020年9月30日 UTC 09:09:09"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/TJ2XgGlsILfUoB4zV4eecFpaSUSM86LxQoPzwWLD1r23K45tpRFWTOwNPCpMzeRmJ_s-eSywLiyL7vJrHhyNKe4wXqdCTS5I3FWbifJO",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

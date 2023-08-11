@@ -1,0 +1,39 @@
+{
+  "title": "IMG-20201004-WA0003.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1601947161",
+    "formatted": "2020年10月6日 UTC 01:19:21"
+  },
+  "photoTakenTime": {
+    "timestamp": "1601738903",
+    "formatted": "2020年10月3日 UTC 15:28:23"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/wS1cQkUQcLskS7v33vEB8ZZgoUTUxwqVQN6lqG7xABi8mBUY_me4nF6HlmORcakoGWhuPW8U1N1Xqqdq6VCwh7ypKXz0c5_Gp35caLT6",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WhatsApp Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

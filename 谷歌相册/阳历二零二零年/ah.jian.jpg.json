@@ -1,0 +1,36 @@
+{
+  "title": "ah.jian.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1602098431",
+    "formatted": "2020年10月7日 UTC 19:20:31"
+  },
+  "photoTakenTime": {
+    "timestamp": "1602045117",
+    "formatted": "2020年10月7日 UTC 04:31:57"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/v0qvaI1LZdCEITLjWOz7Ensf8wc2LXpR12DHJwv70aZCqec34pF3uKSjNeVRMyrRzLIkgvB8I_9mS6UuuA-SiP25bP28x3XGJV2AsFIc",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

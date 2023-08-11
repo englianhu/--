@@ -1,0 +1,36 @@
+{
+  "title": "mellioniun.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1608092361",
+    "formatted": "2020年12月16日 UTC 04:19:21"
+  },
+  "photoTakenTime": {
+    "timestamp": "1608011832",
+    "formatted": "2020年12月15日 UTC 05:57:12"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/7jlWkZ56TjKHmUdKGtAZV1lLdJv--nVJJR5HRhKBaH0hOawKDMlKQfyMJ11D2oHfRHoYustJh_fLyt-em8-a6HdJKLZljw89fbeTRO0v",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

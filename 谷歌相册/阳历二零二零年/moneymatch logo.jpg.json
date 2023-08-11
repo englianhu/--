@@ -1,0 +1,36 @@
+{
+  "title": "moneymatch logo.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1601452781",
+    "formatted": "2020年9月30日 UTC 07:59:41"
+  },
+  "photoTakenTime": {
+    "timestamp": "1601444314",
+    "formatted": "2020年9月30日 UTC 05:38:34"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/opJFmSDgFq4h1xfQGSkdfNLMdMCgFblDn-vM9udB72r4r5ajc5iAHgL1BwjwL5k-cz_iDqLswy0Fd6GWmjKF5q8BqBScggCNnN1CBi7A",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

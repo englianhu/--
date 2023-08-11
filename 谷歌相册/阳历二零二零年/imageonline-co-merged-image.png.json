@@ -1,0 +1,36 @@
+{
+  "title": "imageonline-co-merged-image.png",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1601947169",
+    "formatted": "2020年10月6日 UTC 01:19:29"
+  },
+  "photoTakenTime": {
+    "timestamp": "1601779952",
+    "formatted": "2020年10月4日 UTC 02:52:32"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/ekTF0nEZplj7kScYdhJwyZ82I_FSOxZjPZYjNgSSJh_pL2agz4zCvScm3SioiAYRw1f4Bip1NvPlezbEHWD7GUo8TL6lZepHwVSWZ7AV",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Pictures"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

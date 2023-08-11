@@ -1,0 +1,36 @@
+{
+  "title": "Screenshot_2020-08-09-11-29-17-522_com.instagram.android.png",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1599615056",
+    "formatted": "2020年9月9日 UTC 01:30:56"
+  },
+  "photoTakenTime": {
+    "timestamp": "1596940157",
+    "formatted": "2020年8月9日 UTC 02:29:17"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/QHOl06izBxBuIjVBoFO7shOETmq-acTfA-Acf66NxpIdJKHtjmd1O6M8uJh_Ra4t8RVBrFSiVD4pZyb9ungaCT3NaA9Ito5FIIPKDnT6",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

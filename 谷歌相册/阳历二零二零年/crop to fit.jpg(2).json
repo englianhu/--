@@ -1,0 +1,39 @@
+{
+  "title": "crop to fit.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1688605312",
+    "formatted": "2023年7月6日 UTC 01:01:52"
+  },
+  "photoTakenTime": {
+    "timestamp": "1609165340",
+    "formatted": "2020年12月28日 UTC 14:22:20"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/l0VcZQBF61Qb3yMqKmNo_CNpnIidbuFTfH63Jl0Nvk1Fg9a60RZMIOlOh_C-ByynZxgGd2GnnpPgbMg2LLdLSBKi82iMt3v3vSdXcd_E",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

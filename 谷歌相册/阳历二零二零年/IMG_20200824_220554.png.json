@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20200824_220554.png",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1599615232",
+    "formatted": "2020年9月9日 UTC 01:33:52"
+  },
+  "photoTakenTime": {
+    "timestamp": "1599478273",
+    "formatted": "2020年9月7日 UTC 11:31:13"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/mKdfT2NkiLT2SLX1iOjYO2IBfRNpahJRheK_0qbnd3eZmJRFD7J5g3HKgqw8p8TMV_s1qGGYrqAYsl4v2PdEmq5zysTVB86FXc0oZCfH",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

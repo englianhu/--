@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20201221_152254_926.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1608535414",
+    "formatted": "2020年12月21日 UTC 07:23:34"
+  },
+  "photoTakenTime": {
+    "timestamp": "1608531782",
+    "formatted": "2020年12月21日 UTC 06:23:02"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/DcyLGQNph2hX8w9K_L_DwzI8EAcec26VG87RRFxtPkYE6MCY2yg_wR-qt0RQ-zxvo9sa_DxKsyMdeSWgEeQe6-H5_L6UcqX0RxRSLkBN",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20201021_141501.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1603277436",
+    "formatted": "2020年10月21日 UTC 10:50:36"
+  },
+  "photoTakenTime": {
+    "timestamp": "1603257252",
+    "formatted": "2020年10月21日 UTC 05:14:12"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/btQZkgePl-SVUqKV-KGX0doMQmEWR0Ekic4H79FE4jhbxGhvhd2aUeYFymy-s9uad6c3MVXlthJY-a4m5gNJ9D7lmgdhsvr0P3nh-Q6_",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

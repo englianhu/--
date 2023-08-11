@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20201210_143146_699.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1607586105",
+    "formatted": "2020年12月10日 UTC 07:41:45"
+  },
+  "photoTakenTime": {
+    "timestamp": "1607578309",
+    "formatted": "2020年12月10日 UTC 05:31:49"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/zbwQurKIvgDE5SbzJromCIR_HZT0p5Yv849__OiWyg4nltEkrYlL8CwHW3xUl7PIKU3MEwewl1n3I3gOF6GVcZG7vnv9qIDCt0DTqA19",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "美女24.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1605942187",
+    "formatted": "2020年11月21日 UTC 07:03:07"
+  },
+  "photoTakenTime": {
+    "timestamp": "1588405101",
+    "formatted": "2020年5月2日 UTC 07:38:21"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Zx19wEA3TBdZ1gI7xjgMO_-dsRvyfnVjzXVhA3tahygntCL1XUdOsLyNAOpFoq0cWiCF3tYFVp1AUgoscgD1Nd0j58ZL_BxW-ePOrrdo",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

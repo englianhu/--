@@ -1,0 +1,36 @@
+{
+  "title": "ダウンロード.png",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1605087635",
+    "formatted": "2020年11月11日 UTC 09:40:35"
+  },
+  "photoTakenTime": {
+    "timestamp": "1605070050",
+    "formatted": "2020年11月11日 UTC 04:47:30"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/zP06OluyG2Px0W8eDPEbIeDbjkaSSvBOzvsjNs06G2sfV7x-3LRozMsgA9jycK_8gTLKRjlqDMYnOCbYJ8V9-k8XfKuqt4czZV2gRIcX",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

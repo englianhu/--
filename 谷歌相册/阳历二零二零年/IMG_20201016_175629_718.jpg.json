@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20201016_175629_718.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1602893805",
+    "formatted": "2020年10月17日 UTC 00:16:45"
+  },
+  "photoTakenTime": {
+    "timestamp": "1602838591",
+    "formatted": "2020年10月16日 UTC 08:56:31"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/0onSmqjiHYhPnbXohkzGKvhOlGSLwoMKq0DI9XE1OGVECGJ64VxId8XaY6tLfOh7bgtiYitTIVjubGf5-rhtogZfU3tUYEMSmhZ59u5m",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

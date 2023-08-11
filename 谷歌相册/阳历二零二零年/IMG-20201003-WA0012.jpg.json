@@ -1,0 +1,36 @@
+{
+  "title": "IMG-20201003-WA0012.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1601947109",
+    "formatted": "2020年10月6日 UTC 01:18:29"
+  },
+  "photoTakenTime": {
+    "timestamp": "1601731904",
+    "formatted": "2020年10月3日 UTC 13:31:44"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/6mC1aYXzy2UeP7dtCRi4jBfH02E9rtAhPo4rhab2A95ky5EnMySwV7m0HtizbQlEA1EhnkhDGqsBZuS8j4O9Vmi3hs63pTfewxgn11wp",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WhatsApp Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20201123_103806_760.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1606099029",
+    "formatted": "2020年11月23日 UTC 02:37:09"
+  },
+  "photoTakenTime": {
+    "timestamp": "1606095488",
+    "formatted": "2020年11月23日 UTC 01:38:08"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/uP25MLkMnYY1zGuh-NHM_NNOJxqrwnTgz0jHWiF7N0rWbH7sG5VAVO6-op1rJjrOVfzFl88zqqGUVw98K9_l7frb-x-y7gfo3GdYXTth",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

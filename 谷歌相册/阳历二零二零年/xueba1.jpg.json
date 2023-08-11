@@ -1,0 +1,36 @@
+{
+  "title": "xueba1.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1609052258",
+    "formatted": "2020年12月27日 UTC 06:57:38"
+  },
+  "photoTakenTime": {
+    "timestamp": "1609041710",
+    "formatted": "2020年12月27日 UTC 04:01:50"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/X-6Xx2U4uqaCspChp3pdOKRUQoomoQKdDN8AyepQTNbP2Gotdvwlp8E1ec-bxNlYs-lVLkqZsBTFxTOpZesqEeTM7LsvxbIVjqQuo-Qk",
+  "googlePhotosOrigin": {
+    "driveDesktopUploader": {
+      "version": "BACKUP_AND_SYNC"
+    }
+  }
+}

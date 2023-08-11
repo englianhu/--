@@ -1,0 +1,39 @@
+{
+  "title": "Jo 素颜.png",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1600624441",
+    "formatted": "2020年9月20日 UTC 17:54:01"
+  },
+  "photoTakenTime": {
+    "timestamp": "1600621208",
+    "formatted": "2020年9月20日 UTC 17:00:08"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/jbhGvIq6OO8CJSwAZ1ElShrhDiS7LZ4MSitP9NCTkYxbgoWAgepDaNbjbqAbwiiK6X2DlUoAwdbcjLqwOFi8kxM7fUK776V63Z8A2zce",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20201204_172050_699.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1607071732",
+    "formatted": "2020年12月4日 UTC 08:48:52"
+  },
+  "photoTakenTime": {
+    "timestamp": "1607070050",
+    "formatted": "2020年12月4日 UTC 08:20:50"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Tln7mkxQNiIxeutnJ52xvzFW3lpEZC7w_FCyldQ3Ds2xh18fKi6bFEHSq3vEG0YfMyerkB9C2gp6xISwgrDEZpf0ed37KBISwp0vudhk",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

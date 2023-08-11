@@ -1,0 +1,36 @@
+{
+  "title": "Deriv.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1604698909",
+    "formatted": "2020年11月6日 UTC 21:41:49"
+  },
+  "photoTakenTime": {
+    "timestamp": "1604645696",
+    "formatted": "2020年11月6日 UTC 06:54:56"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/XEW-KWDSyuzv1lcu69lSdttVSQo30uQqivsmUeLhh29ip7hKQpnZ1I12EqdI_51kMl_ZixOUf8pdwn5u40dPqzL3ri_mw4l7GR5ufyJe",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

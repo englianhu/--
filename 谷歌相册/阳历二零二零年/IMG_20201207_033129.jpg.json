@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20201207_033129.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1607279517",
+    "formatted": "2020年12月6日 UTC 18:31:57"
+  },
+  "photoTakenTime": {
+    "timestamp": "1607248382",
+    "formatted": "2020年12月6日 UTC 09:53:02"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/Ueh1_0teRx_YdTgoljrFWd8Psa_FmpnKGoGWgt-kIJttxDbAL0sa01g4fopoBtdqMg6EfYa0hxFpBwyfid2CJuixdxHZUpLnFWelBiiK",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

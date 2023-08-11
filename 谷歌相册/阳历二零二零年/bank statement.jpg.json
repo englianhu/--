@@ -1,0 +1,36 @@
+{
+  "title": "bank statement.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1600524519",
+    "formatted": "2020年9月19日 UTC 14:08:39"
+  },
+  "photoTakenTime": {
+    "timestamp": "1600491533",
+    "formatted": "2020年9月19日 UTC 04:58:53"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/7oWIykViWq4led7kQ_O8JZj4ep2Cs6eXYNQMduQXedaIWuAdYR6X26PEofNMIJoYmbzDzEtvAnz0Q9V2fUds6GaXkOw3618mLad_nhmS",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20201002_230907.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1601661468",
+    "formatted": "2020年10月2日 UTC 17:57:48"
+  },
+  "photoTakenTime": {
+    "timestamp": "1601647733",
+    "formatted": "2020年10月2日 UTC 14:08:53"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/VFRty7XyFLPAReedjLtZXsWs5PEf29gLOOKRzqHaDYNT0HvljwoWMdGR0fJszni4p84UuRQw5cfzWZr8Yd-sOOxGUMhPy99GhnkkcmdR",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

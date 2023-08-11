@@ -1,0 +1,36 @@
+{
+  "title": "SYV2.png",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1599615247",
+    "formatted": "2020年9月9日 UTC 01:34:07"
+  },
+  "photoTakenTime": {
+    "timestamp": "1599478273",
+    "formatted": "2020年9月7日 UTC 11:31:13"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/z8FXVS_d00E1f7UEyyrxgRXICxTAQ87jIK95eixuRiyii2tQpCYhZKYvnZHu9c9RIRo0Z1YK48qpRYpDwrnFRvCL4FWdCmEk5s5cSTEl",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

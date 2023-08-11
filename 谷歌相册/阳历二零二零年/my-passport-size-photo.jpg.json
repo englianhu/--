@@ -1,0 +1,39 @@
+{
+  "title": "my-passport-size-photo.jpg",
+  "description": "",
+  "imageViews": "10",
+  "creationTime": {
+    "timestamp": "1588438987",
+    "formatted": "2020年5月2日 UTC 17:03:07"
+  },
+  "photoTakenTime": {
+    "timestamp": "1588438914",
+    "formatted": "2020年5月2日 UTC 17:01:54"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/2gP6j349YHO6ClhbnX9C0ekH_OIy_MdRZDwX6gexo2M3WPr4LgTKiG8GeSQuDGSd-V22GtMo9E9EHTv4ne2zfuIQ58vrqZLNoY1R0AoL",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "蔡卓宜2.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1599615153",
+    "formatted": "2020年9月9日 UTC 01:32:33"
+  },
+  "photoTakenTime": {
+    "timestamp": "1599478269",
+    "formatted": "2020年9月7日 UTC 11:31:09"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/29vboGqprNdD1_cWgXVszyHoerHY5en4ben3TI1w7-oB5oZp0Lnz7AjKt8XpV2zcnWWi-NzKHVfGlhWgDUyvcZSoOPISNu_FXg1mw0H4",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

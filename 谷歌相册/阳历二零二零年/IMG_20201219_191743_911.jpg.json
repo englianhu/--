@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20201219_191743_911.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1608429620",
+    "formatted": "2020年12月20日 UTC 02:00:20"
+  },
+  "photoTakenTime": {
+    "timestamp": "1608373064",
+    "formatted": "2020年12月19日 UTC 10:17:44"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/jbdewVLyBprs-RuFOMNaxFR3Xa9GWIX3QLDKap9CKA0DjysKq0l3sq2dPKdufG3wTwQ3NaTwiqmAbGMBAQ8LenvBFpOcR_mntumm1zos",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

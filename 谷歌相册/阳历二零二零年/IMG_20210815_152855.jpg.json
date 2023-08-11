@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20210815_152855.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1629024085",
+    "formatted": "2021年8月15日 UTC 10:41:25"
+  },
+  "photoTakenTime": {
+    "timestamp": "1599478279",
+    "formatted": "2020年9月7日 UTC 11:31:19"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/LMLMUY8YJCn_IylF4PMVWeqDQi05O8_x3UTIqf5cBaNWWreJ1RkzwlJo3TVgZqEj5lK2lS1HuzUWhT_L1tfjC948D9ZjPHR8IRDPuwCb",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

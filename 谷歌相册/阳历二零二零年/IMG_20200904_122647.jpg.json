@@ -1,0 +1,37 @@
+{
+  "title": "IMG_20200904_122647.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1599749850",
+    "formatted": "2020年9月10日 UTC 14:57:30"
+  },
+  "photoTakenTime": {
+    "timestamp": "1599190007",
+    "formatted": "2020年9月4日 UTC 03:26:47"
+  },
+  "geoData": {
+    "latitude": 3.22308,
+    "longitude": 101.584628,
+    "altitude": 21.832,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.22308,
+    "longitude": 101.584628,
+    "altitude": 21.832,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/zRegtvCtz1xPnqSlVPv_Y9NllzqkGFSknZXTshUUiRVsRa2c-rmVuiIjScJaqkXW3QxC0YLj4WObUxkPzoaPV5H5IK5d6D3il8PKQyBP",
+  "googlePhotosOrigin": {
+    "webUpload": {
+      "computerUpload": {
+      }
+    }
+  }
+}

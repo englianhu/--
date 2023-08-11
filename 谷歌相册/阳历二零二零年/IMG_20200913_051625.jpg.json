@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20200913_051625.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1599941800",
+    "formatted": "2020年9月12日 UTC 20:16:40"
+  },
+  "photoTakenTime": {
+    "timestamp": "1599941528",
+    "formatted": "2020年9月12日 UTC 20:12:08"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/mHuUh5ziKKtAZ5V59bOJ6OJsQP7M88v804aT6IpN2Hpb8Z82WjmebwANc8mFpW9YWTJXS7SMcyPI5EVZICOrXQcrgrQMgQgS4cLIitSi",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

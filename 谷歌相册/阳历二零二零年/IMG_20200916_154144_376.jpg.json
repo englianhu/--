@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20200916_154144_376.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1600238523",
+    "formatted": "2020年9月16日 UTC 06:42:03"
+  },
+  "photoTakenTime": {
+    "timestamp": "1600238506",
+    "formatted": "2020年9月16日 UTC 06:41:46"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/5D8XvkUOJf3EukILfeoWVQQLs7VFp-IDzOD8rIh0cY5HaABdY7JplZdULapNvc27N6phsrnQEzscKgrLb31NknDN470MoX6-2-5fyi6n",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

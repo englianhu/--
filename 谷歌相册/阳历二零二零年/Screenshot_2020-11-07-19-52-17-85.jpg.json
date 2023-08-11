@@ -1,0 +1,36 @@
+{
+  "title": "Screenshot_2020-11-07-19-52-17-85.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1604746531",
+    "formatted": "2020年11月7日 UTC 10:55:31"
+  },
+  "photoTakenTime": {
+    "timestamp": "1604746337",
+    "formatted": "2020年11月7日 UTC 10:52:17"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/f5WcPT987-we86VwTINdkEYTINdPyNsnt8aXBw6zKtyVKgWkzthu5yg-BV-4cQj9LpH4vcJoYIkRCaDpTQFG1i_7umSHE76sEDywNcgP",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

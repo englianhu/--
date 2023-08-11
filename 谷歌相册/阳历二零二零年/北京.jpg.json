@@ -1,0 +1,39 @@
+{
+  "title": "北京.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1608187771",
+    "formatted": "2020年12月17日 UTC 06:49:31"
+  },
+  "photoTakenTime": {
+    "timestamp": "1608134007",
+    "formatted": "2020年12月16日 UTC 15:53:27"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/OGvUjbkyAYUNES-djwjQRbQVQyJvSWvp8y9pZxMVtfVuUhnjYXFl95xjAi-_0cJo6G3KQATnfGwyXlOmXUoY0T6gVHqYEFQpBDgVpJ7J",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

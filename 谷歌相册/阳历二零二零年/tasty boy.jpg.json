@@ -1,0 +1,36 @@
+{
+  "title": "tasty boy.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1601947107",
+    "formatted": "2020年10月6日 UTC 01:18:27"
+  },
+  "photoTakenTime": {
+    "timestamp": "1601708016",
+    "formatted": "2020年10月3日 UTC 06:53:36"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/zL2likVv9rLuGwQsyVoRmBS_mgXmQ-YugsmgU4VawlgYn7IhZC_Ulq8SEuSvRe_2Cj70fr3Qz7OXARHuItUadIOoBb_LyEh3l3v-yWnU",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Pictures"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

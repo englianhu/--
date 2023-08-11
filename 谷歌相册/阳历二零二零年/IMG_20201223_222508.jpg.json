@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20201223_222508.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1608730220",
+    "formatted": "2020年12月23日 UTC 13:30:20"
+  },
+  "photoTakenTime": {
+    "timestamp": "1608729776",
+    "formatted": "2020年12月23日 UTC 13:22:56"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/So8ELAfmCNkvSD4DotY2ez6r5eJW4sEZ1EGC5_ToRmxBtoNqNxDV5PxajrIt2YmsD41Nn8qz10oedf5ma1ujTLDBq7Zoiao3EvkR7qe9",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Pictures"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

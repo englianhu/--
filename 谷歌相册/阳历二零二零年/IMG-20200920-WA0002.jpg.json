@@ -1,0 +1,39 @@
+{
+  "title": "IMG-20200920-WA0002.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1600898620",
+    "formatted": "2020年9月23日 UTC 22:03:40"
+  },
+  "photoTakenTime": {
+    "timestamp": "1600596852",
+    "formatted": "2020年9月20日 UTC 10:14:12"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/cfH0x4Tk8fdO2zXWGARz1BZIUie-GEKFCl2_5bTuy4IxVSCyDH-MxmdL4f5HnACgxwqYCveqlg20v5qOFrU-WfPRWtdKfQfuiXMOF-6n",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

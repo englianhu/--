@@ -1,0 +1,36 @@
+{
+  "title": "asianconnect.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1600602248",
+    "formatted": "2020年9月20日 UTC 11:44:08"
+  },
+  "photoTakenTime": {
+    "timestamp": "1600590176",
+    "formatted": "2020年9月20日 UTC 08:22:56"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/hOEcrpMavqnRS8o-vshtZJ0ECpsBelJV2dT0a8I9JAGz4ksg6bTAdaP_ZlSFQJJDvCRG4oFyBH7Sfu9Ii_x-2ldge71Mh5ZRhCheaiQQ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

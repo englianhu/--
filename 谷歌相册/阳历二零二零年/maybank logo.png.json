@@ -1,0 +1,39 @@
+{
+  "title": "maybank logo.png",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1599615291",
+    "formatted": "2020年9月9日 UTC 01:34:51"
+  },
+  "photoTakenTime": {
+    "timestamp": "1599492573",
+    "formatted": "2020年9月7日 UTC 15:29:33"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/6vtbqn7rgaR3Z0vbe7oWMXWk1nZoZ58DV2n2xO6LwT7FB_9CVo8wzvykN2nP8nOScYLimo6Odj5ekYgmvv6x5Ozpxw_4Ct3_IQwNNuwe",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

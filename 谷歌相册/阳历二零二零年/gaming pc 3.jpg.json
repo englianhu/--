@@ -1,0 +1,36 @@
+{
+  "title": "gaming pc 3.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1604637972",
+    "formatted": "2020年11月6日 UTC 04:46:12"
+  },
+  "photoTakenTime": {
+    "timestamp": "1604552928",
+    "formatted": "2020年11月5日 UTC 05:08:48"
+  },
+  "geoData": {
+    "latitude": 3.0335109,
+    "longitude": 101.6654205,
+    "altitude": 51.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.0335109,
+    "longitude": 101.6654205,
+    "altitude": 51.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/GZh6bD21mFwtESbsGlblzxUjZ_mRS0Cd4BYnPGfD9TbWu3mAy4s21YsslpyNaUGKjluJMG4sqgiguXZBCABkwRTjcHEJ1nyo4YrEF5pY",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

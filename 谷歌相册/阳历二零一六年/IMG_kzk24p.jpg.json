@@ -1,0 +1,39 @@
+{
+  "title": "IMG_kzk24p.jpg",
+  "description": "",
+  "imageViews": "40",
+  "creationTime": {
+    "timestamp": "1476699899",
+    "formatted": "2016年10月17日 UTC 10:24:59"
+  },
+  "photoTakenTime": {
+    "timestamp": "1476278818",
+    "formatted": "2016年10月12日 UTC 13:26:58"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/hDh7nBgPzaIIqAnSl7M_mbNTXHjSxREugRdmbUwDfi4laQObzrd7crsqw3Qy3SGmjcVewTQvD4lqAEP82NDLfs7INEAgXxmkG8jTEh6I",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Twitter"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

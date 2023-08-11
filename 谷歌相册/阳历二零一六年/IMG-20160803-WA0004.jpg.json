@@ -1,0 +1,39 @@
+{
+  "title": "IMG-20160803-WA0004.jpg",
+  "description": "",
+  "imageViews": "37",
+  "creationTime": {
+    "timestamp": "1470222883",
+    "formatted": "2016年8月3日 UTC 11:14:43"
+  },
+  "photoTakenTime": {
+    "timestamp": "1470219991",
+    "formatted": "2016年8月3日 UTC 10:26:31"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/mPzghbc1VMGlnitoZ0JqxkzB2VwsVXZmhdSEuMgv61EbKVSOB7R7TfONNx6wbOrBM0njMsDFK_LOjeYYQ2z0DVMt8CFJeumBpQ9cg3xd",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WhatsApp Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

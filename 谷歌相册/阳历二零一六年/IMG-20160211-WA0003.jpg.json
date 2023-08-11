@@ -1,0 +1,39 @@
+{
+  "title": "IMG-20160211-WA0003.jpg",
+  "description": "",
+  "imageViews": "31",
+  "creationTime": {
+    "timestamp": "1455117648",
+    "formatted": "2016年2月10日 UTC 15:20:48"
+  },
+  "photoTakenTime": {
+    "timestamp": "1455117365",
+    "formatted": "2016年2月10日 UTC 15:16:05"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/WFqi337Mm8FkwVytq_hJ8bD5nC8mwjJfOuw64cfrqc0J2NqvHERVTzCYQeDbrn_PhToHX93-_KuJvDFMY-2RF3iuBU-MTPv3gsdW620m",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WhatsApp Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

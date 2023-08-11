@@ -1,0 +1,36 @@
+{
+  "title": "japan-region.png",
+  "description": "",
+  "imageViews": "24",
+  "creationTime": {
+    "timestamp": "1466525680",
+    "formatted": "2016年6月21日 UTC 16:14:40"
+  },
+  "photoTakenTime": {
+    "timestamp": "1466522955",
+    "formatted": "2016年6月21日 UTC 15:29:15"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Xq8R525Uk0QnlC2dNd-OKoiYMLcXrwn3vyTx0F2vdSFcCOmm9ZOjqz7ZKL5hYtJNKYkhe3QrjbVVrz1bZzymTV8q8OZRVqrNS2LGow-t",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

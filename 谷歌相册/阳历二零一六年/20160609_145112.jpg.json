@@ -1,0 +1,36 @@
+{
+  "title": "20160609_145112.jpg",
+  "description": "",
+  "imageViews": "25",
+  "creationTime": {
+    "timestamp": "1465500816",
+    "formatted": "2016年6月9日 UTC 19:33:36"
+  },
+  "photoTakenTime": {
+    "timestamp": "1465451471",
+    "formatted": "2016年6月9日 UTC 05:51:11"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/jyG86xofxNL4yKV5P7Re75wTMDp221bh3gkLVtveQJ0jnxfMiCtdH1EsitExr1pMPO78oD944QF7Gm_IxVkvgUyCQLydxTfRTKS6KfSc",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

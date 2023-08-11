@@ -1,0 +1,37 @@
+{
+  "title": "科研.jpg",
+  "description": "",
+  "imageViews": "22",
+  "creationTime": {
+    "timestamp": "1482889878",
+    "formatted": "2016年12月28日 UTC 01:51:18"
+  },
+  "photoTakenTime": {
+    "timestamp": "1470667966",
+    "formatted": "2016年8月8日 UTC 14:52:46"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/Te6koXs8-Kbar0GJTJ3l1CW30KAqZbhW_aW-JoKISeWil0ZyjbmnK_J6SUX6Gcce0RPSPbTB2NSPJ26qPCETadVDa-H-ONZ4N06Hu504",
+  "googlePhotosOrigin": {
+    "webUpload": {
+      "computerUpload": {
+      }
+    }
+  }
+}

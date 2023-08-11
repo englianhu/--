@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160525_101639662.jpg",
+  "description": "",
+  "imageViews": "28",
+  "creationTime": {
+    "timestamp": "1464143982",
+    "formatted": "2016年5月25日 UTC 02:39:42"
+  },
+  "photoTakenTime": {
+    "timestamp": "1464138999",
+    "formatted": "2016年5月25日 UTC 01:16:39"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/6fAL48yZfjBerSGccqK2Vb9yXbWNPbkNAwHpVvdAhSwmQVbKWxk7itRdgSex3IMUBpdHcQReCp0DEnyKMds97TChso3wlEBwIihSLKh0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

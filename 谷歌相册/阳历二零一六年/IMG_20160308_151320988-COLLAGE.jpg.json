@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160308_151320988-COLLAGE.jpg",
+  "description": "",
+  "imageViews": "16",
+  "creationTime": {
+    "timestamp": "1599751120",
+    "formatted": "2020年9月10日 UTC 15:18:40"
+  },
+  "photoTakenTime": {
+    "timestamp": "1457417606",
+    "formatted": "2016年3月8日 UTC 06:13:26"
+  },
+  "geoData": {
+    "latitude": 3.3213888999999996,
+    "longitude": 101.2722222,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.3213888999999996,
+    "longitude": 101.2722222,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/wPSd0OkIp1h2QFRGmVahiWkmPAAbk3JpmIv4oHToxGTfzonWoqAjgf-GFTd0vu7vFUwsizLcHoPsgA64IRNeNQ5dcdmJkO2sgfCNw-2W",
+  "googlePhotosOrigin": {
+    "composition": {
+      "type": "AUTO"
+    }
+  }
+}

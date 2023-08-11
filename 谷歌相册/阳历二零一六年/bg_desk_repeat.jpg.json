@@ -1,0 +1,36 @@
+{
+  "title": "bg_desk_repeat.jpg",
+  "description": "",
+  "imageViews": "16",
+  "creationTime": {
+    "timestamp": "1456904773",
+    "formatted": "2016年3月2日 UTC 07:46:13"
+  },
+  "photoTakenTime": {
+    "timestamp": "1456898412",
+    "formatted": "2016年3月2日 UTC 06:00:12"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/bUGJDAT8tnXlLMzVTUXImWoA0k2sxaxLh-ZnNCIwErNyUKOrD4kV26aE-DSUw1cdGS7BvB0Wwz_RMON8c4fiB2MwaPm50bP4ZJS5-kr1",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "img"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

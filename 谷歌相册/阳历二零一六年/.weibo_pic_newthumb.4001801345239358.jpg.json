@@ -1,0 +1,36 @@
+{
+  "title": ".weibo_pic_newthumb.4001801345239358.jpg",
+  "description": "",
+  "imageViews": "29",
+  "creationTime": {
+    "timestamp": "1469596962",
+    "formatted": "2016年7月27日 UTC 05:22:42"
+  },
+  "photoTakenTime": {
+    "timestamp": "1469587266",
+    "formatted": "2016年7月27日 UTC 02:41:06"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/L2x9x3XEnkm0_-xKcii7M2TPNhaz2CaZ7YFVwhKTeqELER2VBLgxB57i2nH93ij_HXPChRUhmpw-DGEria4-iTdtWBvzA2wtVGloCRuo",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "weibo"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

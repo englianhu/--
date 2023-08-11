@@ -1,0 +1,36 @@
+{
+  "title": "20160531_085525.jpg",
+  "description": "",
+  "imageViews": "23",
+  "creationTime": {
+    "timestamp": "1465130468",
+    "formatted": "2016年6月5日 UTC 12:41:08"
+  },
+  "photoTakenTime": {
+    "timestamp": "1464652525",
+    "formatted": "2016年5月30日 UTC 23:55:25"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/315Q72Q2K9wcXDvD6mxzjBzQf6gapyYMPfSYnQM1vY1FbuDU66UOEWM8oZcAIknbr6AUY2AYFW3L-_K7BuFmUw8A-EUJupHviiQboxyD",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

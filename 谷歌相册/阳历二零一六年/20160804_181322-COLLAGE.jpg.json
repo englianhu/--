@@ -1,0 +1,36 @@
+{
+  "title": "20160804_181322-COLLAGE.jpg",
+  "description": "",
+  "imageViews": "87",
+  "creationTime": {
+    "timestamp": "1470303055",
+    "formatted": "2016年8月4日 UTC 09:30:55"
+  },
+  "photoTakenTime": {
+    "timestamp": "1470302009",
+    "formatted": "2016年8月4日 UTC 09:13:29"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/fO68d3cHNWIamQ2ARWnEZP8u4IfwSPOCjTx78TbqW6iu7YIogvP-Bx0RcaEgj3IN8ZuHO-gZ-3g50Z-LZRPdbw4wrjYYFvFBh1WrclWO",
+  "googlePhotosOrigin": {
+    "composition": {
+      "type": "AUTO"
+    }
+  }
+}

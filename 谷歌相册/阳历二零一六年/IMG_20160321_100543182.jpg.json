@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160321_100543182.jpg",
+  "description": "",
+  "imageViews": "26",
+  "creationTime": {
+    "timestamp": "1458543953",
+    "formatted": "2016年3月21日 UTC 07:05:53"
+  },
+  "photoTakenTime": {
+    "timestamp": "1458522343",
+    "formatted": "2016年3月21日 UTC 01:05:43"
+  },
+  "geoData": {
+    "latitude": 5.7706423000000004,
+    "longitude": 103.0325927,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 5.7706423000000004,
+    "longitude": 103.0325927,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Skz1hEesb51fl_qHPk7zgUK9PRBmEeyUyKLkVnPI4PqPaElxvUmsqIR67cccr2rCCnBVKk6nQmIa6bfgcVnZ-ExC4fZyytWpJTuKOVm9",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

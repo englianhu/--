@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160406_114921521-COLLAGE.jpg",
+  "description": "",
+  "imageViews": "24",
+  "creationTime": {
+    "timestamp": "1459919478",
+    "formatted": "2016年4月6日 UTC 05:11:18"
+  },
+  "photoTakenTime": {
+    "timestamp": "1459910981",
+    "formatted": "2016年4月6日 UTC 02:49:41"
+  },
+  "geoData": {
+    "latitude": 5.6427778,
+    "longitude": 100.48972219999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 5.6427778,
+    "longitude": 100.48972219999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/_9UY9eHWuVykVqpEqN0Zt52vwXiAeeJJsXDpLjPkdWzWckScGNHPsVmTvn6wIbPLRsEiG78izJRdPu2JUI2Th3jerbt_v5yCBN3Np7G5",
+  "googlePhotosOrigin": {
+    "composition": {
+      "type": "AUTO"
+    }
+  }
+}

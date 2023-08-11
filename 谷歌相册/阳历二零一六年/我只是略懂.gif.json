@@ -1,0 +1,36 @@
+{
+  "title": "我只是略懂.gif",
+  "description": "",
+  "imageViews": "34",
+  "creationTime": {
+    "timestamp": "1460940291",
+    "formatted": "2016年4月18日 UTC 00:44:51"
+  },
+  "photoTakenTime": {
+    "timestamp": "1460940121",
+    "formatted": "2016年4月18日 UTC 00:42:01"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/mltBKS3EqsjEiuzG4K309Z9W99aaH4NhO0bA68eHe2SQC3RCXiEcvvgaZMOBR8vjUtRXFi-y-o2cHKHxe8PxIolncc0_hIFM0E7jQDVL",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

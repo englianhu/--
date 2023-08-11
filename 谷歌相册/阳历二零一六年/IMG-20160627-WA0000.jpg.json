@@ -1,0 +1,36 @@
+{
+  "title": "IMG-20160627-WA0000.jpg",
+  "description": "",
+  "imageViews": "28",
+  "creationTime": {
+    "timestamp": "1502779617",
+    "formatted": "2017年8月15日 UTC 06:46:57"
+  },
+  "photoTakenTime": {
+    "timestamp": "1471154582",
+    "formatted": "2016年8月14日 UTC 06:03:02"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Dqff7wZSlnEt88bTnP5gRPljcuP8khLn6gxJKP-Qao8jLO4pk94cy7S10Z-Z6K-ZL-zir7pMvUcBwu9QMX9QlvyTpn7sPvRa2jEwTmTH",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

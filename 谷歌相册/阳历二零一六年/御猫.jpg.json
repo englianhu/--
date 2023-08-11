@@ -1,0 +1,32 @@
+{
+  "title": "御猫.jpg",
+  "description": "",
+  "imageViews": "26",
+  "creationTime": {
+    "timestamp": "1451808678",
+    "formatted": "2016年1月3日 UTC 08:11:18"
+  },
+  "photoTakenTime": {
+    "timestamp": "1451808674",
+    "formatted": "2016年1月3日 UTC 08:11:14"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/obsLVixOo-sL-FwsTcZDVM9PWGHaWiin8YkUPW_tsBV__dQh4CnVGwGIPSs1GD_26jw_W73sZ6_O_ILNCfc1ZfgAspOzmDnY0zTyoKxM",
+  "googlePhotosOrigin": {
+    "photosDesktopUploader": {
+    }
+  }
+}

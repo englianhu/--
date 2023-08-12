@@ -1,0 +1,36 @@
+{
+  "title": "IMG-20141126-WA0000.jpg",
+  "description": "",
+  "imageViews": "63",
+  "creationTime": {
+    "timestamp": "1417196440",
+    "formatted": "2014年11月28日 UTC 17:40:40"
+  },
+  "photoTakenTime": {
+    "timestamp": "1416934112",
+    "formatted": "2014年11月25日 UTC 16:48:32"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/kGmSwya_SF9Gw5-4jiFfGtA87z1eZ6FTl1MVhyppwFE15lfdd6gE9C2SAuEKMmQtjm2K6H7lOr6KuTikDSHX4bihZfSfoGz80d8QSNQ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WhatsApp Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

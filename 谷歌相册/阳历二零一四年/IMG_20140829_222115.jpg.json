@@ -1,0 +1,33 @@
+{
+  "title": "IMG_20140829_222115.jpg",
+  "description": "",
+  "imageViews": "73",
+  "creationTime": {
+    "timestamp": "1409320000",
+    "formatted": "2014年8月29日 UTC 13:46:40"
+  },
+  "photoTakenTime": {
+    "timestamp": "1409318476",
+    "formatted": "2014年8月29日 UTC 13:21:16"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/MgNUuwykt5Z0ErLAt5tXD1b6OJSAtG7VjJ1Ecb1ch9kCiVLJbvnuM3kUcYCXtBpKDAxnuRkaP7sP33saHP1utK4mf9H7O4XduOixZhk",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

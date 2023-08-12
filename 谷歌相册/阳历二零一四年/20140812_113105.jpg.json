@@ -1,0 +1,33 @@
+{
+  "title": "20140812_113105.jpg",
+  "description": "",
+  "imageViews": "49",
+  "creationTime": {
+    "timestamp": "1407888426",
+    "formatted": "2014年8月13日 UTC 00:07:06"
+  },
+  "photoTakenTime": {
+    "timestamp": "1407814265",
+    "formatted": "2014年8月12日 UTC 03:31:05"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/gmhtFs6vWl9FWUc_7a4GcPIrwRvK3b26tyBw4krBHWBtVwZ4EzHQzvCkZeNNERnQbGw2n15WPg8MyvOUp9UvHiEhT8dpIwUh1PfKPaZ0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

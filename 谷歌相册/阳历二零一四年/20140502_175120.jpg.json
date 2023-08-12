@@ -1,0 +1,33 @@
+{
+  "title": "20140502_175120.jpg",
+  "description": "",
+  "imageViews": "202",
+  "creationTime": {
+    "timestamp": "1399026717",
+    "formatted": "2014年5月2日 UTC 10:31:57"
+  },
+  "photoTakenTime": {
+    "timestamp": "1399020679",
+    "formatted": "2014年5月2日 UTC 08:51:19"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/2V0GV81t6KdIaxf6Nkt_8xZjeQi3ExiWjUr4h2qaLlnp7-EWApCyFGkG_hvB6WjoJawJUGKmrgF9dDtp8qZ5q4s0DBQ5nwpW-p9ywwY",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

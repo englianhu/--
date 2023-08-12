@@ -1,0 +1,36 @@
+{
+  "title": "shy.jpg",
+  "description": "",
+  "imageViews": "13",
+  "creationTime": {
+    "timestamp": "1533390025",
+    "formatted": "2018年8月4日 UTC 13:40:25"
+  },
+  "photoTakenTime": {
+    "timestamp": "1415854534",
+    "formatted": "2014年11月13日 UTC 04:55:34"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/NuTT1WiFBQWyy45Riz7c46cUK3TS2313ET43fL9X1Ya-VXcymXYycSBG3a2_Xo0DsNRtGZ5sbq52IORCdCbrkbN7cAXDjzFBlM69cp7I",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Facebook"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

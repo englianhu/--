@@ -1,0 +1,33 @@
+{
+  "title": "download (1).jpg",
+  "description": "",
+  "imageViews": "62",
+  "creationTime": {
+    "timestamp": "1404359285",
+    "formatted": "2014年7月3日 UTC 03:48:05"
+  },
+  "photoTakenTime": {
+    "timestamp": "1404358918",
+    "formatted": "2014年7月3日 UTC 03:41:58"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/hcfHGIuVyz4XTByEnvttb7dEAMeX8cUv6o9lm9zsTX5hy3QqUI0Qyh7Vk_CIAbqg2V-_YBYy5CBWs9f2YVdkt6uoimGGZo1z3RueePY",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

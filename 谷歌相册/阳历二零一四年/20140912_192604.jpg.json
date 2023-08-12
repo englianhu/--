@@ -1,0 +1,33 @@
+{
+  "title": "20140912_192604.jpg",
+  "description": "",
+  "imageViews": "52",
+  "creationTime": {
+    "timestamp": "1410518456",
+    "formatted": "2014年9月12日 UTC 10:40:56"
+  },
+  "photoTakenTime": {
+    "timestamp": "1410517564",
+    "formatted": "2014年9月12日 UTC 10:26:04"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/ra1FJnLATDmAWPECFnkpTg0_YJU0kiy3cKHyhHixDwaNDI_f2WUwHCRdQJJ6bOO8yyfO4BTa4_dV0i5DylbCAHd7f11kSPSbkf4hQxY",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

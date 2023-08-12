@@ -1,0 +1,33 @@
+{
+  "title": "C360_2014-07-28-14-12-23-829.jpg",
+  "description": "",
+  "imageViews": "83",
+  "creationTime": {
+    "timestamp": "1406540439",
+    "formatted": "2014年7月28日 UTC 09:40:39"
+  },
+  "photoTakenTime": {
+    "timestamp": "1406524343",
+    "formatted": "2014年7月28日 UTC 05:12:23"
+  },
+  "geoData": {
+    "latitude": 3.3399823,
+    "longitude": 101.2512162,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.3399823,
+    "longitude": 101.2512162,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/a6GpFDoFkecIyRFjxhKHEAC4zyzAMEIXPPqlbPRH-VbodTESz25aJ_c3iHHyT4hNYInOAk_nKAGmKvdtRcx1V-6ll15qwZvjZSgjoLY",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

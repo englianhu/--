@@ -1,0 +1,33 @@
+{
+  "title": "20140530_175926.jpg",
+  "description": "",
+  "imageViews": "84",
+  "creationTime": {
+    "timestamp": "1401448278",
+    "formatted": "2014年5月30日 UTC 11:11:18"
+  },
+  "photoTakenTime": {
+    "timestamp": "1401440365",
+    "formatted": "2014年5月30日 UTC 08:59:25"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/MkBm4wR3oVTf3-T2t-QkCZPMiBhQA87bpXV7yJfa9DYN7P9qHyn4t_-3zqcjHr0o5yFnIH-aa62PwAiSXQxUeypgmV2gViboOx1MGu0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

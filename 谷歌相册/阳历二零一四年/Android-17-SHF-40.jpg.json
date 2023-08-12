@@ -1,0 +1,36 @@
+{
+  "title": "Android-17-SHF-40.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1634639087",
+    "formatted": "2021年10月19日 UTC 10:24:47"
+  },
+  "photoTakenTime": {
+    "timestamp": "1415383045",
+    "formatted": "2014年11月7日 UTC 17:57:25"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/uq6iTNiahbBzsK1y-ADOSES24uZKGWdGWtw9_cqUc-LavuobYRAsgI4QYcwMUM6L_nADooWD0yEIXBOhwnUvsmVpSIVvTM25beX-95E2",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "C360_2014-07-01-14-00-31-703.jpg",
+  "description": "",
+  "imageViews": "81",
+  "creationTime": {
+    "timestamp": "1404190895",
+    "formatted": "2014年7月1日 UTC 05:01:35"
+  },
+  "photoTakenTime": {
+    "timestamp": "1404190831",
+    "formatted": "2014年7月1日 UTC 05:00:31"
+  },
+  "geoData": {
+    "latitude": 3.0085142,
+    "longitude": 101.66132979999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.0085142,
+    "longitude": 101.66132979999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/3z9nXW56oxXdIBT48Hhi08A6-rLKvUzWSXq4HxEeIuaDjpnDARTKHOG0ttgBwWL7IpbsmpJyMdWMEURgnG2NGDUk0YZEe99vPsqbklg",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20201121_020736_662.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1605898575",
+    "formatted": "2020年11月20日 UTC 18:56:15"
+  },
+  "photoTakenTime": {
+    "timestamp": "1605892056",
+    "formatted": "2020年11月20日 UTC 17:07:36"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/srLB8QG2WI3Y7eepWUnJXi_M6V_h1r2Tb3pvyN13LdYwAmtfY5uWrQToNkppsSuy1qao2Bfp5AUC528EPEhij4QsgKxLdYgXK0IvxMwd",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

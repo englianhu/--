@@ -1,0 +1,41 @@
+{
+  "title": "IMG-20201003-WA0015.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1601947153",
+    "formatted": "2020年10月6日 UTC 01:19:13"
+  },
+  "photoTakenTime": {
+    "timestamp": "1601733715",
+    "formatted": "2020年10月3日 UTC 14:01:55"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }, {
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/rEpA0tVmiGmv4otE5iZB8rBvLlKLufQOimSmWZTyVAMzg52P9mNUVZpj6cRDZy_UT4sECbM0tO5pIXBdMsa_dYW8CF5yj9yWcX9WssQl",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WhatsApp Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

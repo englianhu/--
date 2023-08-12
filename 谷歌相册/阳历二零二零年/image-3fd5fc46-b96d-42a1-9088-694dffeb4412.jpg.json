@@ -1,0 +1,39 @@
+{
+  "title": "image-3fd5fc46-b96d-42a1-9088-694dffeb4412.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1605356685",
+    "formatted": "2020年11月14日 UTC 12:24:45"
+  },
+  "photoTakenTime": {
+    "timestamp": "1605355992",
+    "formatted": "2020年11月14日 UTC 12:13:12"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/C8fQwa2gPjATdS_ahEMd4ETkiIqFbDRkPhUUgme6Ewx4u5ly84BRIpEEJ_cqQ5iBlvaJeQOo5VwIc9_jeHCZ5aM0sPnOVxFiHJqMRw4-",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

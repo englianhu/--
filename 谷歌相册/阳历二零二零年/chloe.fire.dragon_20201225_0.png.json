@@ -1,0 +1,39 @@
+{
+  "title": "chloe.fire.dragon_20201225_0.png",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1608880324",
+    "formatted": "2020年12月25日 UTC 07:12:04"
+  },
+  "photoTakenTime": {
+    "timestamp": "1608860089",
+    "formatted": "2020年12月25日 UTC 01:34:49"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/zngOXRYTQZx0kp1gcmaPuZ2jO1hOUta4CbrFYRDsoRQz1AkLz0T8xkMzrakgSbVboAoFAzdPvQNUPkYcVxcPmwc9DECNYEMKHvUEyTW3",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "driving license front.jpg",
+  "description": "",
+  "imageViews": "10",
+  "creationTime": {
+    "timestamp": "1600624456",
+    "formatted": "2020年9月20日 UTC 17:54:16"
+  },
+  "photoTakenTime": {
+    "timestamp": "1600613948",
+    "formatted": "2020年9月20日 UTC 14:59:08"
+  },
+  "geoData": {
+    "latitude": 3.0083229,
+    "longitude": 101.6605988,
+    "altitude": 85.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.0083229,
+    "longitude": 101.6605988,
+    "altitude": 85.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/fv8JUDeYA1qkmC4o-Ky94vg0osIQz1iITNPgUp6JZT5Qfea4YSZBsvgSqx9GIxmpsIFC2rBmtZZmgb1_oK9_xKzXr4Fl2BYF8DyAWv92",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

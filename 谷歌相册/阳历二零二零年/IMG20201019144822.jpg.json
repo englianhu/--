@@ -1,0 +1,39 @@
+{
+  "title": "IMG20201019144822.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1603096703",
+    "formatted": "2020年10月19日 UTC 08:38:23"
+  },
+  "photoTakenTime": {
+    "timestamp": "1603086505",
+    "formatted": "2020年10月19日 UTC 05:48:25"
+  },
+  "geoData": {
+    "latitude": 2.909291,
+    "longitude": 101.65573119999999,
+    "altitude": 27.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 2.909291,
+    "longitude": 101.65573119999999,
+    "altitude": 27.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/muKcbNwihv74xK-DWc4Ag7U7IzVKqlg8HNrvfaR8tAClIqVXIX_9vu0cqqmBQiYmgQfMNHsXbiEIfqps4lMEJhdS60lSuK4tNoVot8_G",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

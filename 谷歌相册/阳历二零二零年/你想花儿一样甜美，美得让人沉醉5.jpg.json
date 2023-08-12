@@ -1,0 +1,39 @@
+{
+  "title": "你想花儿一样甜美，美得让人沉醉5.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1608187758",
+    "formatted": "2020年12月17日 UTC 06:49:18"
+  },
+  "photoTakenTime": {
+    "timestamp": "1605960640",
+    "formatted": "2020年11月21日 UTC 12:10:40"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/2B-7Go-Xk-aiGWL923DquJbMyKW6NAKWp_AzM8Iq8-Z6fCcusGO-M8FGgcRdjCiVc9vg_D3VxiZT7j26TEnaL-7vP4Ytk_Jpyw_sCXQ4",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

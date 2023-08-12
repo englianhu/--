@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20220425_175930.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1688605461",
+    "formatted": "2023年7月6日 UTC 01:04:21"
+  },
+  "photoTakenTime": {
+    "timestamp": "1650877170",
+    "formatted": "2022年4月25日 UTC 08:59:30"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/nHpCttUvkB1yx76AgsFK1JHqhOgj1lEj2rTd9_e4V6lylqHczeYYmki5iwN5XdzqOQ6ck1nRdEDc1oz1-DwbiDCdDVPUxAbJYfSSoK4V",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

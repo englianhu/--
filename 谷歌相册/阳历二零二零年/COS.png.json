@@ -1,0 +1,36 @@
+{
+  "title": "COS.png",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1645953222",
+    "formatted": "2022年2月27日 UTC 09:13:42"
+  },
+  "photoTakenTime": {
+    "timestamp": "1645600049",
+    "formatted": "2022年2月23日 UTC 07:07:29"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/ASmPNd9WJboIZI6uNOW0dAIMzT6bukyn3lmXTAZFRO6iVtbmkH5mAf3z9uqCZVXg3VAm-8I_kp7rRxC9wL_ixTJm5wmcTO-GWx9aJDkh",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

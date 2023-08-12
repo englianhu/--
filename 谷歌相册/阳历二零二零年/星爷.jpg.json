@@ -1,0 +1,36 @@
+{
+  "title": "星爷.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1688605377",
+    "formatted": "2023年7月6日 UTC 01:02:57"
+  },
+  "photoTakenTime": {
+    "timestamp": "1646138156",
+    "formatted": "2022年3月1日 UTC 12:35:56"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/rp5O0E5iOZiQ_htMwHAj3c8T8Z1ZsVTg_0qYzoUFkQjQffUdNaTeTJqzo0Ia9DmG8KPZA1_a3jyQvhmJ7g-Pvdt-QG9J1HRliDbYgKUc",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

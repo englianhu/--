@@ -1,0 +1,36 @@
+{
+  "title": "下载 (1).jpeg",
+  "description": "",
+  "imageViews": "10",
+  "creationTime": {
+    "timestamp": "1649149062",
+    "formatted": "2022年4月5日 UTC 08:57:42"
+  },
+  "photoTakenTime": {
+    "timestamp": "1648706837",
+    "formatted": "2022年3月31日 UTC 06:07:17"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/gnjjj1VSvnF-K00-SDCo7E2LWN0-FOW68F-19T3x48IjCOB2fsJ5B0w4CmVGgkzPZ1GCTOM7_CcZJ5kMTIIhALk2TxyE-iedtXyFmYNn",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

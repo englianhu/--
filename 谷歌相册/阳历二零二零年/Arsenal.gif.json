@@ -1,0 +1,36 @@
+{
+  "title": "Arsenal.gif",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1668688209",
+    "formatted": "2022年11月17日 UTC 12:30:09"
+  },
+  "photoTakenTime": {
+    "timestamp": "1666453478",
+    "formatted": "2022年10月22日 UTC 15:44:38"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/r7UvVzldq02lv90ZOAWWDanW62b7_3qtynK9PhnPfzrBW9-Oy-049eDOiiKZ8j-VOI5kuLFM4MjMoNXsYPhrPNHzxEXZEGddKX2zIubL",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

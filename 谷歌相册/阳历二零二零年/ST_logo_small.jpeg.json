@@ -1,0 +1,36 @@
+{
+  "title": "ST_logo_small.jpeg",
+  "description": "",
+  "imageViews": "10",
+  "creationTime": {
+    "timestamp": "1647534643",
+    "formatted": "2022年3月17日 UTC 16:30:43"
+  },
+  "photoTakenTime": {
+    "timestamp": "1647519666",
+    "formatted": "2022年3月17日 UTC 12:21:06"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/9NzCeYE3pXlO3HazSHWWLl0V8R11g8OC-3RotGyi6rcuXRwIudt2ROn1tPrzVpsQQtco_aGfFmXv6cyn9VyFFIx533VTd-nA6T520-oe",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

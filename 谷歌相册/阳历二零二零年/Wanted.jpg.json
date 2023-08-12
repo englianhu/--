@@ -1,0 +1,36 @@
+{
+  "title": "Wanted.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1644228422",
+    "formatted": "2022年2月7日 UTC 10:07:02"
+  },
+  "photoTakenTime": {
+    "timestamp": "1644110953",
+    "formatted": "2022年2月6日 UTC 01:29:13"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/1PhBmHldhRG1SQO0iebDj4lZo7kqXYIxSFfE-F-dDDqFZSO6QH3uaYT8CaqhxfaIuuI9io82FeY1kAPmyLF4AdN5ENhJ5EmYQprb_DhL",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

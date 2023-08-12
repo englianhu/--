@@ -1,0 +1,36 @@
+{
+  "title": "11-25-55-61191.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1688605447",
+    "formatted": "2023年7月6日 UTC 01:04:07"
+  },
+  "photoTakenTime": {
+    "timestamp": "1650819520",
+    "formatted": "2022年4月24日 UTC 16:58:40"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/rNTqcvCousb8BrNi73QnjejSx4-U9xfBsegqERj0oscWr1ApUNwKuUnenVf0YqF5uodunjGAdnz0CwP5NQ0x0tFFrEh_9iZRT7EAsd6d",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

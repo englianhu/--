@@ -1,0 +1,36 @@
+{
+  "title": "flower garden floating 1.jpeg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1632145498",
+    "formatted": "2021年9月20日 UTC 13:44:58"
+  },
+  "photoTakenTime": {
+    "timestamp": "1632142760",
+    "formatted": "2021年9月20日 UTC 12:59:20"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/FuE_2FwJh5zOMD7kaG5ZYw0WDCPHf3JLT77m093WqYkyQ4QeV3zbY1UhqFfVRr7dPaToe3Zv5fR6WvlX6DFO-7RxTS8NCDTMMTBjqKyF",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

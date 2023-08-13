@@ -1,0 +1,36 @@
+{
+  "title": "wx_camera_1636218767916.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1636334823",
+    "formatted": "2021年11月8日 UTC 01:27:03"
+  },
+  "photoTakenTime": {
+    "timestamp": "1636218767",
+    "formatted": "2021年11月6日 UTC 17:12:47"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/fF9GMSTl4cN3Zg8lfZyy6zDED6WyZrLE3VxcHPzdk2KQ9Kn-K5xD6sPcHmnrdpg94nP1dMcGauaQ0aZluIri58meHjWDlgqsE4pKwjLE",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

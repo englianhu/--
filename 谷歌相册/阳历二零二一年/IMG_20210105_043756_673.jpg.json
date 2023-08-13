@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20210105_043756_673.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1609826244",
+    "formatted": "2021年1月5日 UTC 05:57:24"
+  },
+  "photoTakenTime": {
+    "timestamp": "1609789077",
+    "formatted": "2021年1月4日 UTC 19:37:57"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/xtFB-615Bvk6b8-37YXYRYwTyGysvUnyQImRkA4YmkmgkzbJom5Lf4E1FuoOE-ybiMZz7ZpC2UqzFL7hwEl2NSVOAWXp8lmMrz8JfFkQ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

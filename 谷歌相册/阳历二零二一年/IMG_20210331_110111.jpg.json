@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20210331_110111.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1617164969",
+    "formatted": "2021年3月31日 UTC 04:29:29"
+  },
+  "photoTakenTime": {
+    "timestamp": "1617156072",
+    "formatted": "2021年3月31日 UTC 02:01:12"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/zL7Zke3jHaMkwgwOBISw4ArDkeP6nP2FN4Ka1ekqdix9FQrJ4pQM0pxO-J6a_V5fqxDyy4LPLI9X73dKY5raAM9ys_RvZFc4bCLxXZtA",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Twitter"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

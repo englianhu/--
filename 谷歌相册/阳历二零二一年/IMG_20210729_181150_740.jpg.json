@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20210729_181150_740.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1627549940",
+    "formatted": "2021年7月29日 UTC 09:12:20"
+  },
+  "photoTakenTime": {
+    "timestamp": "1627549911",
+    "formatted": "2021年7月29日 UTC 09:11:51"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/ZjvJbOOxd8Gy9a06wvpNlm1EN47fK03AIA5uzTnQjU6V8u4M-eeOSuUadkBWg5LESo1oxcmJU92rB37usBz7h8JQSrwdhb4KI8ZAjTfe",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

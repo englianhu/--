@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20210215_102246_974.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1613369137",
+    "formatted": "2021年2月15日 UTC 06:05:37"
+  },
+  "photoTakenTime": {
+    "timestamp": "1613352168",
+    "formatted": "2021年2月15日 UTC 01:22:48"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/05Vv3LLVzDUR3xLqYGOp9S23OZGzBuLlZroChbpoK_Hh0Nsc6xgSe89BaIlh7fPNmKZTw-RVw5qqBw-M8qI8oYqmbUDR43ffmVbft_jI",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20211104_133056.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1636030763",
+    "formatted": "2021年11月4日 UTC 12:59:23"
+  },
+  "photoTakenTime": {
+    "timestamp": "1636003857",
+    "formatted": "2021年11月4日 UTC 05:30:57"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/3sqHnPZbGgE1PaAOuItVe5LhHBfiU9hRGBNNRr3_WXcUYCRTcA0bATus9f0Ec85O97OUfbnyVvsZu7YhOxaHTS-gpLGhUtxC0pFYG5YU",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

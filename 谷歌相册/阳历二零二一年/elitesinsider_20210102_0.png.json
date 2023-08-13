@@ -1,0 +1,36 @@
+{
+  "title": "elitesinsider_20210102_0.png",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1609543981",
+    "formatted": "2021年1月1日 UTC 23:33:01"
+  },
+  "photoTakenTime": {
+    "timestamp": "1609520500",
+    "formatted": "2021年1月1日 UTC 17:01:40"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/7y8lAEVeKpv1tGnbpIsEijb0I-m05opJ-sW7L4Bnn9UXEyhwOvJwtj79CXq7PLV3XfMONGyxrFaAEc9jdTnP4PMoASFrrCG5u41psrS7",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

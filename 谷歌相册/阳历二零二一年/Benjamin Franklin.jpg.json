@@ -1,0 +1,36 @@
+{
+  "title": "Benjamin Franklin.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1636216707",
+    "formatted": "2021年11月6日 UTC 16:38:27"
+  },
+  "photoTakenTime": {
+    "timestamp": "1636208689",
+    "formatted": "2021年11月6日 UTC 14:24:49"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/w7XW9iKFI_0VHMYm5Wv7SoDKjElt6bkrx6zplKQoG81M1RSl2HtJvwtYjLXuHTsRbdQCdgf2jRB4z2530VHrJM-V_w0Gk5L58SLBvr2w",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

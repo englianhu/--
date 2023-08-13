@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20210404_132339.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1617511471",
+    "formatted": "2021年4月4日 UTC 04:44:31"
+  },
+  "photoTakenTime": {
+    "timestamp": "1617510038",
+    "formatted": "2021年4月4日 UTC 04:20:38"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/aoVVZpuMYmZmIaovmo6jK13K6Nuqs_Vgrmqpy25orCTsHXXTF2IFeHi-pRof4qL2mPl_NmnLEQBzR6u-IpnCznO-NLn7UfnegpOaQNRu",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Facebook"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

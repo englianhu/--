@@ -1,0 +1,36 @@
+{
+  "title": "dogcat.star_20211212_9.png",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1639321505",
+    "formatted": "2021年12月12日 UTC 15:05:05"
+  },
+  "photoTakenTime": {
+    "timestamp": "1639312818",
+    "formatted": "2021年12月12日 UTC 12:40:18"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/qep2ui5aJNNBuTtIaVrl9pfujbRUQGkd9spD62W8Fv-uNTFNB6sS5LZmzxIAMsS3G75CID0VCNToVvwhKS9q8bnL1le0R1JYxY8WA8rE",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

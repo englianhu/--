@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20211109_183114.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1636466090",
+    "formatted": "2021年11月9日 UTC 13:54:50"
+  },
+  "photoTakenTime": {
+    "timestamp": "1636453874",
+    "formatted": "2021年11月9日 UTC 10:31:14"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/H5T7sbZV25kP1fdyCIKKZS7HQoY1V1RPeThr1NDAF4Eonm1AKe2yyiL18wIG9sZeHrIbiNhHWmCbN5Tbqn9gM9IQWpAMw67YWSocdGEI",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

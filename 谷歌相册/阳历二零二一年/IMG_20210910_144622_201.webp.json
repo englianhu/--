@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20210910_144622_201.webp",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1631270917",
+    "formatted": "2021年9月10日 UTC 10:48:37"
+  },
+  "photoTakenTime": {
+    "timestamp": "1631252784",
+    "formatted": "2021年9月10日 UTC 05:46:24"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/4OFVCP0q7WSeVMEEfDapWPeX_3CAm5uNd3ADJexzrADrfjsZpFgJJ9SHqXXGM6GbvjBAQTZWzg8GQsMNScsOseEk5ZZva8oVt97SWoIh",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

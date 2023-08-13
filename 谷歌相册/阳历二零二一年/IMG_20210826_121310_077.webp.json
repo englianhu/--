@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20210826_121310_077.webp",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1629952181",
+    "formatted": "2021年8月26日 UTC 04:29:41"
+  },
+  "photoTakenTime": {
+    "timestamp": "1629947591",
+    "formatted": "2021年8月26日 UTC 03:13:11"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/ZpMCaUd2MT2EvSkhUPUzprKMmUiPPLkwf8C5VdM8NowOg-yZ-eHiVt0wmvNFhiE2tN_2H7-7i2GXiS6TRh6DrGawub2_zBsdnx9O-Zxb",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

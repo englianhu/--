@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20210910_144719_443.webp",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1631270920",
+    "formatted": "2021年9月10日 UTC 10:48:40"
+  },
+  "photoTakenTime": {
+    "timestamp": "1631252840",
+    "formatted": "2021年9月10日 UTC 05:47:20"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/cM5HMltAJh8NTa6GNFSn-gP9qEhYfEbts8IBLwuifEiR52zBoRfrBKMQUQH9B2aH6yaCeQzoDsoVCBGTgzfZYQw10mjQo_0T9mU_bG5R",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

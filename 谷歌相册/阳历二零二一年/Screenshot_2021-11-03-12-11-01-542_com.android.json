@@ -1,0 +1,39 @@
+{
+  "title": "Screenshot_2021-11-03-12-11-01-542_com.android.chrome.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1636216714",
+    "formatted": "2021年11月6日 UTC 16:38:34"
+  },
+  "photoTakenTime": {
+    "timestamp": "1636213620",
+    "formatted": "2021年11月6日 UTC 15:47:00"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/mvrnyBTRpCvNfz6JQDnKD7Kf4rtWXLp7C_Cy4jYzbeuoqEcJD0zVd-ghBCAFrziQKwSyQYRGNuMD2i8gJt-_JlkHK5r2wDvwMo1PtZ0M",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

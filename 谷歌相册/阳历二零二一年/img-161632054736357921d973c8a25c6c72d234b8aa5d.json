@@ -1,0 +1,39 @@
+{
+  "title": "img-161632054736357921d973c8a25c6c72d234b8aa5d8cd.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1616322665",
+    "formatted": "2021年3月21日 UTC 10:31:05"
+  },
+  "photoTakenTime": {
+    "timestamp": "1616320547",
+    "formatted": "2021年3月21日 UTC 09:55:47"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/ys5KvcA2af4dHOaC5OK5Zt2MvhAHo4hKTLCGOYnzlCBkUCU8T47yuGFV-NWWbJenzNLnd4nf2ScHXrN2ZvL2rLWmSM4e3BQPDok4w-RJ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "weibo"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

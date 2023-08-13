@@ -1,0 +1,36 @@
+{
+  "title": "weixin.png",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1626589805",
+    "formatted": "2021年7月18日 UTC 06:30:05"
+  },
+  "photoTakenTime": {
+    "timestamp": "1622342282",
+    "formatted": "2021年5月30日 UTC 02:38:02"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/KbybenOl-SBThz75jTrvmdILhmLsMJTRpdONb0QOHJIs2kR7WyhZlsONot3SWEGsec4VSoKDGc4PnmdPwY0PEbSMVXE4eG2oTdlrImGk",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

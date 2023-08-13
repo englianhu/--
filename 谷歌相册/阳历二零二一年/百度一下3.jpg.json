@@ -1,0 +1,36 @@
+{
+  "title": "百度一下3.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1628796105",
+    "formatted": "2021年8月12日 UTC 19:21:45"
+  },
+  "photoTakenTime": {
+    "timestamp": "1628765048",
+    "formatted": "2021年8月12日 UTC 10:44:08"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/X3YNIAsGIpRlzJK2M-g3QpAA2VjvYe029_ZM_XwnF-GnMKKfFqwL4iTr6iLj3Yk-Q6b0HIZRYWdK4yhVO2yu98KHnfpVUa-I0trGsSDD",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

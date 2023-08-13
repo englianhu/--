@@ -1,0 +1,36 @@
+{
+  "title": "godzilla3.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1626589782",
+    "formatted": "2021年7月18日 UTC 06:29:42"
+  },
+  "photoTakenTime": {
+    "timestamp": "1622184038",
+    "formatted": "2021年5月28日 UTC 06:40:38"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Hx1AmSW4ueHZf_v3NM5fiPI8XF3XBGjK4_ssouWnYjDgMwQ0OW3ACrtawweMJ_unl26UpUeu8RXwCCKaBFrVWo7_sD1l8pofXb2pSYJN",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

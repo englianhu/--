@@ -1,0 +1,36 @@
+{
+  "title": "J Hyogo-ken.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1626588928",
+    "formatted": "2021年7月18日 UTC 06:15:28"
+  },
+  "photoTakenTime": {
+    "timestamp": "1618725516",
+    "formatted": "2021年4月18日 UTC 05:58:36"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/XvezfN3R4nIq4nsQcgJZs9vHy54bnFUTasm6eO0cnFJDXZcNH1pmZM0WFcFXmGEq7PXvgzwT7fZ1zgXYcvAetOO3QWEoe0KIH7GLzTms",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "HSBC.png",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1636030801",
+    "formatted": "2021年11月4日 UTC 13:00:01"
+  },
+  "photoTakenTime": {
+    "timestamp": "1635987413",
+    "formatted": "2021年11月4日 UTC 00:56:53"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/pGAgLXfKT02NAIMXXswNJkbXeWEO1W_ihf17ExVJ7RwC0r8iKBar3Ce46Ea_tPpYxjPfMR4D9xWjdc8q0hwf7JjBmPkYlWPcRyn6jLnR",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

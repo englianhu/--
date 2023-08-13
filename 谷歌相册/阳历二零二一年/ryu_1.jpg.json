@@ -1,0 +1,36 @@
+{
+  "title": "ryu_1.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1636173355",
+    "formatted": "2021年11月6日 UTC 04:35:55"
+  },
+  "photoTakenTime": {
+    "timestamp": "1636170307",
+    "formatted": "2021年11月6日 UTC 03:45:07"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/n7GxzDJMZBI9Y8flzH_bWinMNpX5FiyNXqDhlfLweqS39gciZ_yzOVEU_kFnOdAoof2fv04FpKhNC7Rjw9Jf3GEVyVbH_brfWxPPyZxP",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

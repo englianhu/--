@@ -1,0 +1,36 @@
+{
+  "title": "Scibrokes.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1688605369",
+    "formatted": "2023年7月6日 UTC 01:02:49"
+  },
+  "photoTakenTime": {
+    "timestamp": "1635360886",
+    "formatted": "2021年10月27日 UTC 18:54:46"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/XR_a4bd22GLJHsyfzbIv-KF8N5FFB2liEZswHDF6Hfl1yKBdLVOHnR_ngVfSYJeKnRodCYKjzBsBxGeU0u2KzCa4OBkBaJHcw8ruNz6j",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

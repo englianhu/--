@@ -1,0 +1,36 @@
+{
+  "title": "大红花 2.jpeg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1632145486",
+    "formatted": "2021年9月20日 UTC 13:44:46"
+  },
+  "photoTakenTime": {
+    "timestamp": "1632041180",
+    "formatted": "2021年9月19日 UTC 08:46:20"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/ARaCVSbwuYit5tpWFpj4dzI8BalP-NMJ6tb94oSkNp_tTPzMpCZ21d4jdwEAD_g3TKH3K4W22CzPLb2uCbu9kEFt7ggcj1LrK4nsSUUT",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

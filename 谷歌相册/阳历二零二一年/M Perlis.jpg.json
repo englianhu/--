@@ -1,0 +1,36 @@
+{
+  "title": "M Perlis.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1626589073",
+    "formatted": "2021年7月18日 UTC 06:17:53"
+  },
+  "photoTakenTime": {
+    "timestamp": "1618729329",
+    "formatted": "2021年4月18日 UTC 07:02:09"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/1EZ1NTImf-FbWPUMugcHeNqD36OUWObwJLJksIPWZ5nAtEmkelKjvJhlb1QcwXe5dluN8Q5Et4cB1LjTnAy3tn4u4afctRXrmMF-BDMM",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

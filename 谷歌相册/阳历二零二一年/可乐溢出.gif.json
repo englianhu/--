@@ -1,0 +1,36 @@
+{
+  "title": "可乐溢出.gif",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1629297493",
+    "formatted": "2021年8月18日 UTC 14:38:13"
+  },
+  "photoTakenTime": {
+    "timestamp": "1629297293",
+    "formatted": "2021年8月18日 UTC 14:34:53"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/pcyQLFFUwz8jcpkqj3UG2Vuk2AG3c7lhF597suAcQ2NJXAUlwdQzhNtl4b_wFKDEe1qwAGqMUIwIoFBTfJHYFWcTC-VNogmlN6h4fOOA",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

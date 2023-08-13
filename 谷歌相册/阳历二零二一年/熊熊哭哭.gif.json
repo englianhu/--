@@ -1,0 +1,36 @@
+{
+  "title": "熊熊哭哭.gif",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1628039189",
+    "formatted": "2021年8月4日 UTC 01:06:29"
+  },
+  "photoTakenTime": {
+    "timestamp": "1627972750",
+    "formatted": "2021年8月3日 UTC 06:39:10"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/ALEtdDMyxAVMBp2ijDHyBrAfHsRx2bRIOrq57PUpifzPaSUoRO1Ce-BV2R4vyrQoEL01QDhmTo1-n5TPW6XvyjIh3HcDtJVgMqiOsGO7",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

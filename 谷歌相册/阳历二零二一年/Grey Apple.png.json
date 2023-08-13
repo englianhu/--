@@ -1,0 +1,36 @@
+{
+  "title": "Grey Apple.png",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1628796091",
+    "formatted": "2021年8月12日 UTC 19:21:31"
+  },
+  "photoTakenTime": {
+    "timestamp": "1628594016",
+    "formatted": "2021年8月10日 UTC 11:13:36"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/QBX2-bC6NRijVQ7bTB31UMWL3WBSEAqang3Ot22Pq4pa4GjYCiWvzBl0rdLuVEnwslWkX4EK8GBYwB5jccfoV9MBc1ydk-XGiXRx3VB0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Kiwi.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1688605348",
+    "formatted": "2023年7月6日 UTC 01:02:28"
+  },
+  "photoTakenTime": {
+    "timestamp": "1630663108",
+    "formatted": "2021年9月3日 UTC 09:58:28"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/LgkOx5UEZ3XVgjT5-sMhO43Ulc3XmfAUaaWP3670ETwc3ryGHM5O6WMvVm8tezGV2bMuIgLdprNDL6pDh5kJwp53ps_giWj5vHEYjAKI",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

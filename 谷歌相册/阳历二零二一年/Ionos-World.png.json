@@ -1,0 +1,36 @@
+{
+  "title": "Ionos-World.png",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1638369386",
+    "formatted": "2021年12月1日 UTC 14:36:26"
+  },
+  "photoTakenTime": {
+    "timestamp": "1638282551",
+    "formatted": "2021年11月30日 UTC 14:29:11"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/PJZfJIWSiQFKV47z81KE83x4SUWkl0V8JCRgtgETuGuWl2NJEQPqglPrwZOiSwK3kWhFrLl--a_njEVa-yvsTXNewYEXwo_QMjFHkIdI",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

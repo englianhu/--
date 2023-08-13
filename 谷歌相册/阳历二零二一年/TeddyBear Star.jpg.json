@@ -1,0 +1,36 @@
+{
+  "title": "TeddyBear Star.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1628644658",
+    "formatted": "2021年8月11日 UTC 01:17:38"
+  },
+  "photoTakenTime": {
+    "timestamp": "1628572019",
+    "formatted": "2021年8月10日 UTC 05:06:59"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/jswiU1t4tUp1hxlKkaJBEelE1XiGPim4yxh5q1oD4kIrUwtiGsT28UwGDegGTAY-M3Wpp8zb--_Mi5633Vj02ung1hDkZsIVLQZlrSWq",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

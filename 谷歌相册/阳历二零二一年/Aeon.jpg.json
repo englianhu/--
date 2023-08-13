@@ -1,0 +1,36 @@
+{
+  "title": "Aeon.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1634617517",
+    "formatted": "2021年10月19日 UTC 04:25:17"
+  },
+  "photoTakenTime": {
+    "timestamp": "1633845108",
+    "formatted": "2021年10月10日 UTC 05:51:48"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/7sztLj4yGGelaWi0HDJAWnMWZhEoyUXIRogWmemBPad-RkbV7jsWgKtDJD6YrVjFIyodMPr3gqgfH7gQpzDY4BL1a09n4ziPEmqkLf_U",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

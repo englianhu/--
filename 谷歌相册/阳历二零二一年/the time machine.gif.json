@@ -1,0 +1,36 @@
+{
+  "title": "the time machine.gif",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1631195020",
+    "formatted": "2021年9月9日 UTC 13:43:40"
+  },
+  "photoTakenTime": {
+    "timestamp": "1631191297",
+    "formatted": "2021年9月9日 UTC 12:41:37"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/PiVyyY6qK3jW4ALNunWWsI1sJJHdKiegpHQ2auy1sw9LjQMrWQeXWuZzpL-SAwLFmHyC0hhyHRwxFLnNUbN40FKjA-Xj4uvv_7bx8qpn",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "flower garden 1.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1632145494",
+    "formatted": "2021年9月20日 UTC 13:44:54"
+  },
+  "photoTakenTime": {
+    "timestamp": "1632142584",
+    "formatted": "2021年9月20日 UTC 12:56:24"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/_IPnoa6XvmSqyxIOM3l5lirJUdlJu4e-DVX62M7FcvMqEihuGPb6v-ckUfRu7IwL860yUIO-fuabCZMrxfcqQ6KFve49txV81OUM8mvR",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

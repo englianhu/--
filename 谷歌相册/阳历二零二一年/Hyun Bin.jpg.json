@@ -1,0 +1,36 @@
+{
+  "title": "Hyun Bin.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1626590343",
+    "formatted": "2021年7月18日 UTC 06:39:03"
+  },
+  "photoTakenTime": {
+    "timestamp": "1624309066",
+    "formatted": "2021年6月21日 UTC 20:57:46"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/M5D2Ws5PVD_rq8xhRd27m38h4dZ2BftURZPb4NQwWYj38wydQtvxfVIJ8Wejp1o7MS7M582YxSDUOiZIKHvxZV7iIYyCB-SWgIA8H4dI",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

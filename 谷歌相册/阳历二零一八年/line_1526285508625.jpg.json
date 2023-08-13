@@ -1,0 +1,36 @@
+{
+  "title": "line_1526285508625.jpg",
+  "description": "",
+  "imageViews": "19",
+  "creationTime": {
+    "timestamp": "1526281671",
+    "formatted": "2018年5月14日 UTC 07:07:51"
+  },
+  "photoTakenTime": {
+    "timestamp": "1526285520",
+    "formatted": "2018年5月14日 UTC 08:12:00"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/SZnv1CdvXGldRwOEw2_ApA9GltGNxCFzhwa1X2wqngvjT-tco0rh8-I2gEuU_WiYn5gqF1QgQxWfwtosOTBKDal13j9Ih9NYE3Xli-oR",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

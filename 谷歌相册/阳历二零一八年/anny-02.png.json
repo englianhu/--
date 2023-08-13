@@ -1,0 +1,36 @@
+{
+  "title": "anny-02.png",
+  "description": "",
+  "imageViews": "12",
+  "creationTime": {
+    "timestamp": "1534685757",
+    "formatted": "2018年8月19日 UTC 13:35:57"
+  },
+  "photoTakenTime": {
+    "timestamp": "1534586054",
+    "formatted": "2018年8月18日 UTC 09:54:14"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/dbfwNd4YohXiOkRSFsg9nDA6ixwl0MzIuV1O73NZYs3tmT5HIdIhWWdUkP0VNsArljzHPi-UUzJL-rB0UYeqE9MWS6HCO5StNUG2sNox",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Facebook"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

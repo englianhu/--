@@ -1,0 +1,36 @@
+{
+  "title": "gambler.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1600171236",
+    "formatted": "2020年9月15日 UTC 12:00:36"
+  },
+  "photoTakenTime": {
+    "timestamp": "1527731586",
+    "formatted": "2018年5月31日 UTC 01:53:06"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/SvZiQMpVz8N0y53iDlK1OgEglFsUxu1I2pmYLllpqLsEnllv0Zt7f2oQ_YCxNYZlVKvuCnL0H65z_NR-Ku9moN3x6DaC4pfuIIG2I9yt",
+  "googlePhotosOrigin": {
+    "driveDesktopUploader": {
+      "version": "BACKUP_AND_SYNC"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20180920_202049_667.jpg",
+  "description": "",
+  "imageViews": "13",
+  "creationTime": {
+    "timestamp": "1537446145",
+    "formatted": "2018年9月20日 UTC 12:22:25"
+  },
+  "photoTakenTime": {
+    "timestamp": "1537442450",
+    "formatted": "2018年9月20日 UTC 11:20:50"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/4b1IBv0s5RA9ep75paiSAwjKzXPFLr3nzjFIj-Toh0gqvz4_wjnd3oVaakHvhEZURDiiuK8O9KhfX3fP3Vb0Xjq4t21z5vpaCqvyBBuH",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

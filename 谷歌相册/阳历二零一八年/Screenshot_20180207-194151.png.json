@@ -1,0 +1,36 @@
+{
+  "title": "Screenshot_20180207-194151.png",
+  "description": "",
+  "imageViews": "23",
+  "creationTime": {
+    "timestamp": "1518058297",
+    "formatted": "2018年2月8日 UTC 02:51:37"
+  },
+  "photoTakenTime": {
+    "timestamp": "1518032879",
+    "formatted": "2018年2月7日 UTC 19:47:59"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/xo1PqHpU3g7HB2R-k2ePduuqmV8nLXVerxVbHvAwEmTkfKrftBfBcmGoqkGhMRZbRZcX9HeNrYBOR-9pJwKrR2cR2N8hibrb6wmn5Xzh",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

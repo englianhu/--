@@ -1,0 +1,36 @@
+{
+  "title": "DSC_0002_3.JPG",
+  "description": "",
+  "imageViews": "23",
+  "creationTime": {
+    "timestamp": "1529057655",
+    "formatted": "2018年6月15日 UTC 10:14:15"
+  },
+  "photoTakenTime": {
+    "timestamp": "1528608601",
+    "formatted": "2018年6月10日 UTC 05:30:01"
+  },
+  "geoData": {
+    "latitude": 3.3164575,
+    "longitude": 101.2745209,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.3164575,
+    "longitude": 101.2745209,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/VYV8gyTAQiVT4-Pe2be7iCT15AsoCO2BkrCoQt3lwh8ayDcl3B3mfoHA1miWcsoJq5haVZaY9OfumhYEpIuPg4ufid7lcBnz_N4xSq-K",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

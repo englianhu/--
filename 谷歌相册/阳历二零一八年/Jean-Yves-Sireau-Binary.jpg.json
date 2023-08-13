@@ -1,0 +1,36 @@
+{
+  "title": "Jean-Yves-Sireau-Binary.jpg",
+  "description": "",
+  "imageViews": "21",
+  "creationTime": {
+    "timestamp": "1522057614",
+    "formatted": "2018年3月26日 UTC 09:46:54"
+  },
+  "photoTakenTime": {
+    "timestamp": "1522061375",
+    "formatted": "2018年3月26日 UTC 10:49:35"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/lj38vQlTiFY4mgu5vuIVJEZueaXMbn16DfbTe4KiTcXIkb38EKCY7TYCcnQku82Gie_842iPbZjiiwugEFC0_R4j6xXY63Gx1PexWBzK",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

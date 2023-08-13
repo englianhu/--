@@ -1,0 +1,36 @@
+{
+  "title": "wx_camera_1528787536870.jpg",
+  "description": "",
+  "imageViews": "14",
+  "creationTime": {
+    "timestamp": "1529057685",
+    "formatted": "2018年6月15日 UTC 10:14:45"
+  },
+  "photoTakenTime": {
+    "timestamp": "1528787536",
+    "formatted": "2018年6月12日 UTC 07:12:16"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/CDeDRK_m670FEZ7Sgt8yzsB7iCnXWnU4lNGAXGF21VIfgQhPGtM11qlb9kNQM8lQIQHSZlgRgzpWXuKGQT1zbAUZiuSU24wHpsvam4-x",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WeChat"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

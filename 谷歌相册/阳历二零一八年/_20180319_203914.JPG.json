@@ -1,0 +1,36 @@
+{
+  "title": "_20180319_203914.JPG",
+  "description": "",
+  "imageViews": "19",
+  "creationTime": {
+    "timestamp": "1521897802",
+    "formatted": "2018年3月24日 UTC 13:23:22"
+  },
+  "photoTakenTime": {
+    "timestamp": "1521466754",
+    "formatted": "2018年3月19日 UTC 13:39:14"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/3kFaDiRZB6HC1AI7fExkCW7eHa3TBplcZ0o2nZLFpblxJpd9FYnZHa7coui1A8xoy-3oYS1JPTx6x1h4xJrZfECL8FcmUcf1iDwim6bk",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "吉利汽车标志.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1633678677",
+    "formatted": "2021年10月8日 UTC 07:37:57"
+  },
+  "photoTakenTime": {
+    "timestamp": "1633501606",
+    "formatted": "2021年10月6日 UTC 06:26:46"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/d82zOoiycLeFEp2SVmn0Bsg5m0j4DRtTMMk3LbqQgWWbbUJIyapFcEe_YEwnXV3feL_NPl842loZiQ7lTYyhIaH5NHW3StruGKfOTNf_",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

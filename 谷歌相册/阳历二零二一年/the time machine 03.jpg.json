@@ -1,0 +1,36 @@
+{
+  "title": "the time machine 03.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1631195014",
+    "formatted": "2021年9月9日 UTC 13:43:34"
+  },
+  "photoTakenTime": {
+    "timestamp": "1631190597",
+    "formatted": "2021年9月9日 UTC 12:29:57"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/bfOpbLtyK_AKrT8qLGz4sGW-QTMD457QSIeahL_umoUHLqCBAIHSVOjf0UVrSC-RSuUZoY2zPU7Rl2i8ZLdA_WiJIYom7Sq4K2SuBtPr",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

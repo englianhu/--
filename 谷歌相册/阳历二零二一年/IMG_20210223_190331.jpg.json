@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20210223_190331.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1614086561",
+    "formatted": "2021年2月23日 UTC 13:22:41"
+  },
+  "photoTakenTime": {
+    "timestamp": "1614074594",
+    "formatted": "2021年2月23日 UTC 10:03:14"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/RABTo517jjritKNB785ulx28OLCkyVSDVJsiXQ-syWXl4twIIE8_Uwz7VvPDEHqTrfbm14rRUOVuKPsMgneI_ybtrr2Qfav0R9dbrHbU",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

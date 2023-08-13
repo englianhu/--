@@ -1,0 +1,36 @@
+{
+  "title": "modeltime_ecosystem.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1630837251",
+    "formatted": "2021年9月5日 UTC 10:20:51"
+  },
+  "photoTakenTime": {
+    "timestamp": "1630818719",
+    "formatted": "2021年9月5日 UTC 05:11:59"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/11rHA-QLdcBBDSi4XSzzusE8z2O4btz3MHHk9pTI4bsENB4XQ2fQhqgis2EIOQbJRHXqz7nIxo6YvO0gyEWQqehqTyU33VXRiL5tvCBY",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

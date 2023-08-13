@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20210319_143541.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1616144529",
+    "formatted": "2021年3月19日 UTC 09:02:09"
+  },
+  "photoTakenTime": {
+    "timestamp": "1616132141",
+    "formatted": "2021年3月19日 UTC 05:35:41"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/_rNEsHjotEOSudpFMlppxiIJx5Z5VRStiBec1jJu6Ff-Fd8REnjrAaeIPeMz-oWqjTrPfvRwnQNO7UQd9idfmvLhGM_2YNVvgZTPkbM2",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Twitter"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

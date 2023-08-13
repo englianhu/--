@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20210210_152307_966.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1612954512",
+    "formatted": "2021年2月10日 UTC 10:55:12"
+  },
+  "photoTakenTime": {
+    "timestamp": "1612938187",
+    "formatted": "2021年2月10日 UTC 06:23:07"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/B8H17DPz1kXtvomScoclh9psDX5QskLROMf3-GOuRNuzVmeo_DCiocJUjrDkxFU7nwOXDJtKh0AaJt8qffBeydSfoBzBjy0TlTtpPycL",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

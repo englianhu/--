@@ -1,0 +1,39 @@
+{
+  "title": "wanna._b_20210914_14.png",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1631638045",
+    "formatted": "2021年9月14日 UTC 16:47:25"
+  },
+  "photoTakenTime": {
+    "timestamp": "1631631260",
+    "formatted": "2021年9月14日 UTC 14:54:20"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/cDK1dHIstFaNQ55TMFctb5KlpvBbfwxltO_aJ96dfigVwZRWqr6WW0eOi7rt9f5PUUkMGvXCcLmkZRG3VZdsL7dbjYqtxkEBOFcZjcM3",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

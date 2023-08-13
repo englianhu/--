@@ -1,0 +1,39 @@
+{
+  "title": "forczyqq8_20211211_2.png",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1639233384",
+    "formatted": "2021年12月11日 UTC 14:36:24"
+  },
+  "photoTakenTime": {
+    "timestamp": "1639226213",
+    "formatted": "2021年12月11日 UTC 12:36:53"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/b6AYMSazy8AqDOe8o7-Zr0R1p5mD3fqArRfTtg2uXqtLwZaNtYb2BV2tXLRY90T_PoAW70AD17z2Ga6zL9A6ok8HBfU7IvGB5E-jj4oc",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "dalinlingg_20210813_8.png",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1628867189",
+    "formatted": "2021年8月13日 UTC 15:06:29"
+  },
+  "photoTakenTime": {
+    "timestamp": "1628855503",
+    "formatted": "2021年8月13日 UTC 11:51:43"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/doh7gSCNHj1KRe-GE9Uwd28tlP2Nu8Nzfu5QWG4iuNnsL6STYdd-AH0Auw_lKXhvHjaOKlrSAwgSbnJqEgNTncoAVwikl2bs5FKm_GLC",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

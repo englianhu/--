@@ -1,0 +1,39 @@
+{
+  "title": "蔡卓宜 - 胸有大痣5.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1626953728",
+    "formatted": "2021年7月22日 UTC 11:35:28"
+  },
+  "photoTakenTime": {
+    "timestamp": "1626597825",
+    "formatted": "2021年7月18日 UTC 08:43:45"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/hlLgDi9cuDcZTdZYhHF7jzqw8-xeDBXLDnrUrldtkai-OHuWTtQUUaisrP9ivlCBKZ4oqjhsna0QyiDE6BvzG2DTaiz2RZ5sd27Yr3rz",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

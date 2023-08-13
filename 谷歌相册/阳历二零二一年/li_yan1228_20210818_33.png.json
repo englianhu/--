@@ -1,0 +1,39 @@
+{
+  "title": "li_yan1228_20210818_33.png",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1630063458",
+    "formatted": "2021年8月27日 UTC 11:24:18"
+  },
+  "photoTakenTime": {
+    "timestamp": "1629276628",
+    "formatted": "2021年8月18日 UTC 08:50:28"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/f2RURElLlX2DrX4aQE9RGO51RrRIuFos3W85m-muawBsAT3s2KMIdY1D4cjnmOvkRcIBvUI2zAhGT5tCQaHnD1RaFhztJZ9WmDtxqkUz",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

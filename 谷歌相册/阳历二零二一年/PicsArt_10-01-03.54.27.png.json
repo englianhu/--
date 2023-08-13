@@ -1,0 +1,39 @@
+{
+  "title": "PicsArt_10-01-03.54.27.png",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1633072246",
+    "formatted": "2021年10月1日 UTC 07:10:46"
+  },
+  "photoTakenTime": {
+    "timestamp": "1633071267",
+    "formatted": "2021年10月1日 UTC 06:54:27"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/y-rRgFxlUR9_Z26r60eAT2VW_Si3d63XddY4kF-4OSnHjDFOh7kS99vPbpToiJn0yJTQU6jp2amVxMaFpP3lVhU14xMBMOjRoJeoApIb",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "PicsArt"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

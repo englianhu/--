@@ -1,0 +1,39 @@
+{
+  "title": "ran.joey0408_20210127_0.png",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1611686646",
+    "formatted": "2021年1月26日 UTC 18:44:06"
+  },
+  "photoTakenTime": {
+    "timestamp": "1611673460",
+    "formatted": "2021年1月26日 UTC 15:04:20"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/tWQh0DkkfgL6__FuaLX9c1ss5oiGOR66UDjg0F-JS_Jb2xAYvS-4At25nFXQBfddmTi_-Qi-kS16Ce6yKsv481HSIKXJcU5xaHo4bwrq",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

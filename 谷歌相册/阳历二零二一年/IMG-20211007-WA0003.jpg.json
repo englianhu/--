@@ -1,0 +1,39 @@
+{
+  "title": "IMG-20211007-WA0003.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1633678686",
+    "formatted": "2021年10月8日 UTC 07:38:06"
+  },
+  "photoTakenTime": {
+    "timestamp": "1633591780",
+    "formatted": "2021年10月7日 UTC 07:29:40"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/IjuwHC2UXKLgXUpegKS6msV4Z6AQavKlWasdSm5cR8P--meB2UvaC5KlUHoxmR3NxwSvX9hKGyOu6KjCBVPYdUYczzelDL8OfrF9ftr9",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "angels.pages_20210413_1.png",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1618624881",
+    "formatted": "2021年4月17日 UTC 02:01:21"
+  },
+  "photoTakenTime": {
+    "timestamp": "1618271326",
+    "formatted": "2021年4月12日 UTC 23:48:46"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/wobZvLenrIfztkMR8I8wP62hZSBDKlX7cV8j44twQ-AnTVvk-ZW438O0zhYr2pjwJ0WsPT2E1UVW3wThV30YR8JgK2HdPGXNLBDwjebS",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

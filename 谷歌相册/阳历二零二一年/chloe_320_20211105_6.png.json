@@ -1,0 +1,39 @@
+{
+  "title": "chloe_320_20211105_6.png",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1636130201",
+    "formatted": "2021年11月5日 UTC 16:36:41"
+  },
+  "photoTakenTime": {
+    "timestamp": "1636108123",
+    "formatted": "2021年11月5日 UTC 10:28:43"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/CuNJFKLJBMFyJOR7NfFfUMT5eb2dN63ca5j8RQtfm-DotrVKtye4D6CRvCWNKYEtLUqgUOj1A33BvueFefXJ_80Q7Ma9ghg0omEoTn8X",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "sisikam_x_20210813_5.png",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1628796113",
+    "formatted": "2021年8月12日 UTC 19:21:53"
+  },
+  "photoTakenTime": {
+    "timestamp": "1628790044",
+    "formatted": "2021年8月12日 UTC 17:40:44"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/bS5ygJqR-MzC6y_2IajvXsIqNpC-x4jQ3Nm3pQNMebqK5Iwl7whArVrSENQmX_hDwQRwUVExuvdMnmtu_Rcg5vLz89IxbpOhqm_6rufX",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

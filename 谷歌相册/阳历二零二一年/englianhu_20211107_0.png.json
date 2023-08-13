@@ -1,0 +1,39 @@
+{
+  "title": "englianhu_20211107_0.png",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1636334804",
+    "formatted": "2021年11月8日 UTC 01:26:44"
+  },
+  "photoTakenTime": {
+    "timestamp": "1636296734",
+    "formatted": "2021年11月7日 UTC 14:52:14"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/9yT_SR0D0P-NfIRUbl6TzC-WV1_rJeXVVrbujmBG3w_mNc5FejWZQ2gorjbbA4lhzjhHI0vi-ofonOSbdk_dy4AXFh0QAunIrjNMvooJ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

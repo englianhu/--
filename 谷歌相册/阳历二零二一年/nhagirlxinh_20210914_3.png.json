@@ -1,0 +1,39 @@
+{
+  "title": "nhagirlxinh_20210914_3.png",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1631638009",
+    "formatted": "2021年9月14日 UTC 16:46:49"
+  },
+  "photoTakenTime": {
+    "timestamp": "1631631109",
+    "formatted": "2021年9月14日 UTC 14:51:49"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/xp3Zu7XEGjVA07Hp7Ldz-2QpgejwP8_Aj_TKgpjxzWIdhfwdpWuUSIYGNfIV9FVSJDiyUopLjORLaGzydDAWGXK4KgpaOjjf5f449eLm",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "imusic0928_20211113_3.png",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1636766996",
+    "formatted": "2021年11月13日 UTC 01:29:56"
+  },
+  "photoTakenTime": {
+    "timestamp": "1636763978",
+    "formatted": "2021年11月13日 UTC 00:39:38"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/1iOIlGN3LJtJeulvj5KYGT9UEUGc0W3LNeWEoabwbD2A3ONjc5Sf9sq25P04r9Q1xi2ENXKIc4zFdOdM_4XzmVc_pBCr1ScVaw77DTzQ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

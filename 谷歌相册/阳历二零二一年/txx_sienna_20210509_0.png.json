@@ -1,0 +1,39 @@
+{
+  "title": "txx_sienna_20210509_0.png",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1626589565",
+    "formatted": "2021年7月18日 UTC 06:26:05"
+  },
+  "photoTakenTime": {
+    "timestamp": "1620569983",
+    "formatted": "2021年5月9日 UTC 14:19:43"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/JQO7tgkzTRgUsmfUxYWIESXVmOq80UNlzc-t5jvu-Nt2byNsn1bO4e-hw5n1AnvsSmn4cdr0D3Y9l-zwImhZZkap-0L1SIxSiR1C5l4Z",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

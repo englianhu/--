@@ -1,0 +1,39 @@
+{
+  "title": "TnG - Watsons.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1633880998",
+    "formatted": "2021年10月10日 UTC 15:49:58"
+  },
+  "photoTakenTime": {
+    "timestamp": "1633868598",
+    "formatted": "2021年10月10日 UTC 12:23:18"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/bv8q9lzM35MuClUZoGW19xPtTFYkmsB_KbMuZNJZIuIbPD-aPECOLd0xA2q98YcO6tw9qK22TUm_c9fRUwsQF5ljr_IfuoKa-HCkUNkU",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "PicsArt"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

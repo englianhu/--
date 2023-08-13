@@ -1,0 +1,39 @@
+{
+  "title": "aboutczy_qq8_20210520_8.png",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1626589689",
+    "formatted": "2021年7月18日 UTC 06:28:09"
+  },
+  "photoTakenTime": {
+    "timestamp": "1621494590",
+    "formatted": "2021年5月20日 UTC 07:09:50"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/h-67399gfVDfNLcCQxPqbJB537WQCXGHppKxWJxfJzTs2EQcF5lXx5-RlDIr_dR7rgSWFQl3wOsF9wmjdB4TUz_bR0B6s4vh7maisUk5",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

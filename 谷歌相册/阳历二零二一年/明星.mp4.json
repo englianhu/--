@@ -1,0 +1,39 @@
+{
+  "title": "明星.mp4",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1614086578",
+    "formatted": "2021年2月23日 UTC 13:22:58"
+  },
+  "photoTakenTime": {
+    "timestamp": "1614080360",
+    "formatted": "2021年2月23日 UTC 11:39:20"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://video-downloads.googleusercontent.com/AMBNGE0dPioSkA-GRc43-k64VK9ndqDi8Ro-B1-LjlFwF2VLMFiIFgVI9NAuoIG07r8ZjkfhK9vbBC2RIJXGHpzTfLupXf4t2hPURstckaAoNSG0N4lkrtblv--rDWKxylpOoZVw-sttatP4YdOBgnvXZjSb494CuBQfm4b-Xx9SSL-YkEYFiaDYtwv5-Ugo0ac_EuckHj0uizhDM0oetXkrUGu-lZ_GzoLhUcLScU_8ARfH7QcEyw9uNeODeq1Xsq5oa4KQHe1yV09bOqgRcmTNmr1HtRrQ5dvGmRibDo9jO84glSpqnIrRErpd-vhBOqzeiIFjohLl2iCuwH4lcVXyw2MOYTlzBz-4dXG9G2poCM5yqB4zLwkZfZ5G1z-Ip3rvWy1Z84IJ4Kng1pk5zJPxJwtDrCbncwl6Ie7dT0Hqnl8cN8at4mjOZX_d6OiCgTZ6kqemxmhDJ4PJ-eHfRlkfWKXLc3-df6OEiuASSjdYNDtiX5LC4zD9O2Ynkc8_XsH9wK0waCHBRrRCFs0myBsCRasmyatG-rE0ZMZROm_gIpc_5dYa42Wv8mpslDZWqHgpb_GI_i3ACIHRCvzd5W_7UiXH05AwLvDgeTzqAzTOZhfPTRfMHOHNcA3EekdDTpfDiKp5530qqUGHs0J2LrmyI-cyfFbI5zhKRVPrmts6mc31sWQ9xdDqYhj3T2tLQrlPLs3Lvc2i9PSGYiXGKV5u2VjVcV1hnU2HdloVp1qLeyrKwQHr_YXvsrnQYs11-OScHhEyL4melZS_GNQU9z1YAAsoYn3ghv4Goe8P240CxV_0pS04kAu4ysLEt7K2rgJaln_D0GiX4QFAA9cGI_N-fiIG0qAUH4QRQE7MltXW-dq6_Os1pArcJ-ZXRnDo6eI1FSnBZpZ7iDn9bwZu66MyU1qL_7fcEf-rNB-wzfGWEN8CR1bxm2T-CBTFbL7aju_BkYrZdRaOhkEdpGMYvVFcB1M8CpaCtzrFkIwjXaXxrbT8qPULG0TBrHBjkt_ywlVYHEQbN7q088QkaWI6-Th2XaOuzYeXSRuxHTm9SI7tO9H1fcGdghf9aMXcjWjGCHTHoVA_IFuUMZVt5HTTl2heWbOoo6TZQ5QFDXK8AzlBTOHChfieIETDgbd6wsBlr-EU1EDvNU_HuoIMId6pudedZK69Lboi7_zQSpCDW1YT3ZUxXekzc6Y",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

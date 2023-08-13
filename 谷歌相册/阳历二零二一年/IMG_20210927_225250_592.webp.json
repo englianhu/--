@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20210927_225250_592.webp",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1632750808",
+    "formatted": "2021年9月27日 UTC 13:53:28"
+  },
+  "photoTakenTime": {
+    "timestamp": "1632750772",
+    "formatted": "2021年9月27日 UTC 13:52:52"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/ASKOgGK8XiYwtav4KM-NNkhCcJcODC0_EVRd92jwYbmKAmnEiWEk7vcm94NfUGZ3GcgPhz2ZU5cQbSunS6wPpPxxXFbFYrsU0r3oK0QI",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

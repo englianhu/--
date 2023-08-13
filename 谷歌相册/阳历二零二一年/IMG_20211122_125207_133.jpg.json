@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20211122_125207_133.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1637563182",
+    "formatted": "2021年11月22日 UTC 06:39:42"
+  },
+  "photoTakenTime": {
+    "timestamp": "1637553127",
+    "formatted": "2021年11月22日 UTC 03:52:07"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/ap73zYE49i2FHIA6d2rPi8PEmgTgQOEB5r9Okt5tZZOP3apM5U6ohdw1_N4dEhlqQYzf6GJfW6qN3RG0SZW-co9-57ScYcNdEcbE4hpB",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

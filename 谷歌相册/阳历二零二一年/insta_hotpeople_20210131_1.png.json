@@ -1,0 +1,36 @@
+{
+  "title": "insta_hotpeople_20210131_1.png",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1612100086",
+    "formatted": "2021年1月31日 UTC 13:34:46"
+  },
+  "photoTakenTime": {
+    "timestamp": "1612100066",
+    "formatted": "2021年1月31日 UTC 13:34:26"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/YGwRzBWZiGJ4J1e1pbnW--IBP6PDjhib4rOXc8fgt60EwBjpOkQ0BpUJZ2JfLL_21gHUoYrM5c_8FClyVQzs4r6lJvxDyYQeYESEAL9J",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

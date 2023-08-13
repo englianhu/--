@@ -1,0 +1,39 @@
+{
+  "title": "1638804325171.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1638815497",
+    "formatted": "2021年12月6日 UTC 18:31:37"
+  },
+  "photoTakenTime": {
+    "timestamp": "1638804325",
+    "formatted": "2021年12月6日 UTC 15:25:25"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/URgAnj4LAry8jIveNH-UREquVI4pcOIwEM9HNaPrzyIYGdisOLjAJxyBCdLJZ1Z4TvsrJHSDmsuLPItgOe7jV0aYuQN7PUuf9-AMthaC",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WeChat"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

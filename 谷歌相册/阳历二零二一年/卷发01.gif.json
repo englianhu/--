@@ -1,0 +1,39 @@
+{
+  "title": "卷发01.gif",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1632358747",
+    "formatted": "2021年9月23日 UTC 00:59:07"
+  },
+  "photoTakenTime": {
+    "timestamp": "1632271522",
+    "formatted": "2021年9月22日 UTC 00:45:22"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/jsqmO5z9-eGIZAruuVXQGJOAp0p0OKSibQS2KITJGzoPK6BE9FhssrnfH2yIfUNILWzdeqjr7-8SC3G_jSZQdrQ1ghsFa5n4GqHs88ye",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

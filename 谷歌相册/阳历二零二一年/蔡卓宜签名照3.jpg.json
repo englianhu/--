@@ -1,0 +1,39 @@
+{
+  "title": "蔡卓宜签名照3.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1633427980",
+    "formatted": "2021年10月5日 UTC 09:59:40"
+  },
+  "photoTakenTime": {
+    "timestamp": "1633406609",
+    "formatted": "2021年10月5日 UTC 04:03:29"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/jIsx2ojHaD5tY72ThIBko1vG-rvjmCEHwWrcm-yGPC1EI-tmMUEgUShMXJrJ4IvLnG1C2p__-cVq0dcVZWMkafyhYkkIl3kKzMX8EAc9",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

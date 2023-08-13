@@ -1,0 +1,39 @@
+{
+  "title": "蔡卓宜 侠女1.png",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1633700293",
+    "formatted": "2021年10月8日 UTC 13:38:13"
+  },
+  "photoTakenTime": {
+    "timestamp": "1633681482",
+    "formatted": "2021年10月8日 UTC 08:24:42"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/2OWY9jvFh4UMK8Ft9BiHzT2jlMKfna1sqBDC0NzP1qm79a3zxR0dEdodgBBmetgksqoKri_J9BfJj5VHoqJqgGZTfENFfwWYI4MyO0Ja",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

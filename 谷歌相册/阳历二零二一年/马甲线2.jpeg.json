@@ -1,0 +1,39 @@
+{
+  "title": "马甲线2.jpeg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1626590126",
+    "formatted": "2021年7月18日 UTC 06:35:26"
+  },
+  "photoTakenTime": {
+    "timestamp": "1623379054",
+    "formatted": "2021年6月11日 UTC 02:37:34"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/oMJgDUwfIyI4iZWpXa0oJXIuyLUMC5SmmB0x2aExCGLpFEEl1YgK0eZj3wGPMlqoPi7E_BiCoqjA0rLS_EqjEg6MPVuy9Fq-FMDJR1j3",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

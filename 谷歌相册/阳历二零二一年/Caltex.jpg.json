@@ -1,0 +1,39 @@
+{
+  "title": "Caltex.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1631194899",
+    "formatted": "2021年9月9日 UTC 13:41:39"
+  },
+  "photoTakenTime": {
+    "timestamp": "1631178303",
+    "formatted": "2021年9月9日 UTC 09:05:03"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/0nA33uXzgwS1xuBIeWtIerQdEUgKkEgLukRq9mPWRXw31vG75vWMPWQztEZPCMILL-WKRKyXsc-5IA06KrDnGGqqpb_ti5L6Cu1XggcY",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "PicsArt"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

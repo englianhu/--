@@ -1,0 +1,39 @@
+{
+  "title": "登鹤楼2.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1633180172",
+    "formatted": "2021年10月2日 UTC 13:09:32"
+  },
+  "photoTakenTime": {
+    "timestamp": "1633071434",
+    "formatted": "2021年10月1日 UTC 06:57:14"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/xtUdR-Nk0BlyqEOOeO5PBhDZ4ABCYCFWbQU0Fdsj1u4zQ4DSBdVubbiFXkzd3VyZOyHHybwZp-vlbSrbz4SFOJeuLvWC-0JWe0t8W7B7",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "PicsArt"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "旗袍春丽.jpeg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1626590132",
+    "formatted": "2021年7月18日 UTC 06:35:32"
+  },
+  "photoTakenTime": {
+    "timestamp": "1623379692",
+    "formatted": "2021年6月11日 UTC 02:48:12"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/9A6sgNd76LV1mUcO43bg_FZoZ08BogEWhSsgvyoHtYFeSGETh8VcbfeqkKX07UJcBnCJPiWISo3UuEidOc42GRaTknBIbFO5ir3V7Skz",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

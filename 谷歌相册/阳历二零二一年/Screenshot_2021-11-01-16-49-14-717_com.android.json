@@ -1,0 +1,36 @@
+{
+  "title": "Screenshot_2021-11-01-16-49-14-717_com.android.chrome.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1636216726",
+    "formatted": "2021年11月6日 UTC 16:38:46"
+  },
+  "photoTakenTime": {
+    "timestamp": "1636213654",
+    "formatted": "2021年11月6日 UTC 15:47:34"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/AcVOStWClIh8bLEQShW043GHYMgkF5UuUFlR94xhsat8j65xBGQSl0gxCLsQa7DpCgTu_juG_-3cKw-kTUQbBFdMpEpZLIw2Ia0eBjpk",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

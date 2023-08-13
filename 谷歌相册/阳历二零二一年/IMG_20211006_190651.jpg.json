@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20211006_190651.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1634231974",
+    "formatted": "2021年10月14日 UTC 17:19:34"
+  },
+  "photoTakenTime": {
+    "timestamp": "1633514812",
+    "formatted": "2021年10月6日 UTC 10:06:52"
+  },
+  "geoData": {
+    "latitude": 3.407466,
+    "longitude": 101.784886,
+    "altitude": 1221.575,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.407466,
+    "longitude": 101.784886,
+    "altitude": 1221.575,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/eIwpfEIIhMXh8vYyFBHCjrcGbckJb1UZNGRVTMAzzrfrch7UAcUn98apF3poLkHVAVPLAo2V0pYFVh5zuDsW7JlLmz_1iG8ArtJiZKgy",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

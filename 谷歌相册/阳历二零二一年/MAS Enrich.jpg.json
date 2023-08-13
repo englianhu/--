@@ -1,0 +1,39 @@
+{
+  "title": "MAS Enrich.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1631249276",
+    "formatted": "2021年9月10日 UTC 04:47:56"
+  },
+  "photoTakenTime": {
+    "timestamp": "1631247847",
+    "formatted": "2021年9月10日 UTC 04:24:07"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/USSveQYTGN6stJc5hXQzmbBxFcXcXQo1NPUVYhGb20m9jmiUBWibTJxOf_KK0W-Vka8fATlS8mJiUcMKjK5U0VkroJ5YGOPu-2wrnttH",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

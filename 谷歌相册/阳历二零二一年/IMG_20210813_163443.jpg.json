@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20210813_163443.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1630667239",
+    "formatted": "2021年9月3日 UTC 11:07:19"
+  },
+  "photoTakenTime": {
+    "timestamp": "1628843684",
+    "formatted": "2021年8月13日 UTC 08:34:44"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/-1FQevLawh6y0t-qfKH-BelhP7ZHJukgykHXMIwEhdSRuplczDFDTHEYGDD_Xq8Cyi_U50Hj17qm7qT3Co3Q-2_w3YqXuSaWMetvn0PM",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

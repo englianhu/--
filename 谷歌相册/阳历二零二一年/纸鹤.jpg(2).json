@@ -1,0 +1,39 @@
+{
+  "title": "纸鹤.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1629096896",
+    "formatted": "2021年8月16日 UTC 06:54:56"
+  },
+  "photoTakenTime": {
+    "timestamp": "1629079071",
+    "formatted": "2021年8月16日 UTC 01:57:51"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/9W1wsHfxFfzsugv2h2PyevD25M_Lo8M329a8ncVgFkxwmX0AV-7ffS6016LoHSpPEgFHgYddMvR5Tlp78H6OPNgzuKonAX4kqG5xgtf7",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

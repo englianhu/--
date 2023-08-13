@@ -1,0 +1,39 @@
+{
+  "title": "img-0079Q9hmly1frs6tyykhsg308w06ohdy.gif",
+  "description": "",
+  "imageViews": "18",
+  "creationTime": {
+    "timestamp": "1538625632",
+    "formatted": "2018年10月4日 UTC 04:00:32"
+  },
+  "photoTakenTime": {
+    "timestamp": "1538236383",
+    "formatted": "2018年9月29日 UTC 15:53:03"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/khZIA3Ie-25hRjj2uAanVk4frRK9Jb8-1VXkkx4WIHfovCNBrrKjS4DMyZE13wRjQAUvF05DLtBQz3dekL9tMauo9ZOw-56ud_1Nmrkb",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "微博动图"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

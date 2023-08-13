@@ -1,0 +1,39 @@
+{
+  "title": "DSC_0026.JPG",
+  "description": "",
+  "imageViews": "19",
+  "creationTime": {
+    "timestamp": "1525870402",
+    "formatted": "2018年5月9日 UTC 12:53:22"
+  },
+  "photoTakenTime": {
+    "timestamp": "1525875741",
+    "formatted": "2018年5月9日 UTC 14:22:21"
+  },
+  "geoData": {
+    "latitude": 11.074854799999999,
+    "longitude": 106.1703568,
+    "altitude": 16.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 11.074854799999999,
+    "longitude": 106.1703568,
+    "altitude": 16.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/fpfu-6ypnq9_fDueIG8eUelufv4xnjxn6AB87HR2BWD9i7XzoVM0YGG0dVPeKfBfQFvGpf1VyXZHZQrj_I5HSVrkesbcCgiaVQ2C-lYx",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

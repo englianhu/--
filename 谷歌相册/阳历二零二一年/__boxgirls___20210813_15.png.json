@@ -1,0 +1,39 @@
+{
+  "title": "__boxgirls___20210813_15.png",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1628867193",
+    "formatted": "2021年8月13日 UTC 15:06:33"
+  },
+  "photoTakenTime": {
+    "timestamp": "1628855505",
+    "formatted": "2021年8月13日 UTC 11:51:45"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/UlDoWnKr-b4m8HUu23BzRp1yC6ubgWjCkn4Wkbe71FEg0qt6QXutHcGijKZnTlLVQzS-cEn8KdSYgjv-s-F53Z5XffHJnDNxEXI26gQK",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

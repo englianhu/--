@@ -1,0 +1,39 @@
+{
+  "title": "asean.boxgirl_20210813_13.png",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1628867196",
+    "formatted": "2021年8月13日 UTC 15:06:36"
+  },
+  "photoTakenTime": {
+    "timestamp": "1628855505",
+    "formatted": "2021年8月13日 UTC 11:51:45"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/mXSh1MK8Cq-BAgGRd14_JjARH3IteMxj-mGO796Qzc9z9G5Wb90-DbjCzIecWeHZ4AuGljBxG_-I3098aFZy7VG-TwEyUKOs6u5ro2ea",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

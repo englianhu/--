@@ -1,0 +1,39 @@
+{
+  "title": "joeychua.fanpage_20210821_6.png",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1629516959",
+    "formatted": "2021年8月21日 UTC 03:35:59"
+  },
+  "photoTakenTime": {
+    "timestamp": "1629516918",
+    "formatted": "2021年8月21日 UTC 03:35:18"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/ck0LL5-mUq_JY8XBQfVZeVFMM9NzsQd84RuuFes6VzMFr3dVX-6lrdPYDxyam9l_QoxCMbkb5_7AZ40gCckHFE-szR_9ko-KKTRjtzUw",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "pansypuck_joey_20210909_71.png",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1631194940",
+    "formatted": "2021年9月9日 UTC 13:42:20"
+  },
+  "photoTakenTime": {
+    "timestamp": "1631175012",
+    "formatted": "2021年9月9日 UTC 08:10:12"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/XUlSHzoBSApYC-FJRjcNUfESLYCgBGHToZ7wxjsEyCcaSif2XtGJsob9dZVh4NbjOywsKPW-Z2YgpfiZ186HPGnz_qqn-TSMHjKq2xJl",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

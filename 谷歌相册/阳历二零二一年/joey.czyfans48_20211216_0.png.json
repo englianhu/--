@@ -1,0 +1,39 @@
+{
+  "title": "joey.czyfans48_20211216_0.png",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1639626786",
+    "formatted": "2021年12月16日 UTC 03:53:06"
+  },
+  "photoTakenTime": {
+    "timestamp": "1639624320",
+    "formatted": "2021年12月16日 UTC 03:12:00"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/riFqznX4lj980vc9c77rcUhy0baGOIKGrFIQaIOY_YXxKBFu_82cw5B3xbL1-vrznvR5w2iQ8lJyqfb1aLdUVLKHV6HEwVo7vZ7cQyvg",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

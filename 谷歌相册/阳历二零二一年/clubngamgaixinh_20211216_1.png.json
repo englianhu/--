@@ -1,0 +1,39 @@
+{
+  "title": "clubngamgaixinh_20211216_1.png",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1639626794",
+    "formatted": "2021年12月16日 UTC 03:53:14"
+  },
+  "photoTakenTime": {
+    "timestamp": "1639626164",
+    "formatted": "2021年12月16日 UTC 03:42:44"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/Y-4tim-3PdrAkHRwXih4_94LtyCGIqnW6Ef_DYGdhy8Fh4an-6VSfjPsVx62Wju4HEgglb1BgcSak9ZxAYs6NVT8QKxXewvJCq-g62li",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

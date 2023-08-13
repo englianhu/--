@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20211122_125207_268.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1637563175",
+    "formatted": "2021年11月22日 UTC 06:39:35"
+  },
+  "photoTakenTime": {
+    "timestamp": "1637553127",
+    "formatted": "2021年11月22日 UTC 03:52:07"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/WlpxnnMT-c21PkydLbyyGSfal9wr9iRmRXTedLKGfGGZdsWn9F5F58u10H4Z6WSSViWXkMLkz7_j8yCUzfyltnc64oyNt_fRSP9Q44l8",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

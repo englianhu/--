@@ -1,0 +1,39 @@
+{
+  "title": "zhuoyiforever08_20210209_4.png",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1612889157",
+    "formatted": "2021年2月9日 UTC 16:45:57"
+  },
+  "photoTakenTime": {
+    "timestamp": "1612879017",
+    "formatted": "2021年2月9日 UTC 13:56:57"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/nzFI-wn_pLZBwILsNkqOno0dg4stwEwJRtjCBYW8JiBKrcXOW3_X__vNH8uEOjmjFHs6FWlUjuJOrNLjujst27lcMJQd9oh0h_Ug1NlE",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

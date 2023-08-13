@@ -1,0 +1,39 @@
+{
+  "title": "girlsxinh_plus_20211120_0.png",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1637472481",
+    "formatted": "2021年11月21日 UTC 05:28:01"
+  },
+  "photoTakenTime": {
+    "timestamp": "1637340574",
+    "formatted": "2021年11月19日 UTC 16:49:34"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/RAaP_F1cL3jpuPaMsrzrroPzL_3eBRR-j73ZXRwhA4dhQyPJN81Z22yF8kQVXcJvFbaVFD5YrgF9lHU6qCF7l5VFfVJkPmCN1Y_s3yHF",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

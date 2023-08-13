@@ -1,0 +1,39 @@
+{
+  "title": "staywith0408_20211211_1.png",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1639211977",
+    "formatted": "2021年12月11日 UTC 08:39:37"
+  },
+  "photoTakenTime": {
+    "timestamp": "1639196504",
+    "formatted": "2021年12月11日 UTC 04:21:44"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/WINfQkZf38xLnar34ASlro_id0wENBLfg_LBmMYiSUYPg4TWajQyWNVEaJ1nykywgjP5fmoFrI6H5cLoxgCqHhCs1VoNlBPYfDGsm4El",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

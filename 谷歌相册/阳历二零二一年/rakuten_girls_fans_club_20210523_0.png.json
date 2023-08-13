@@ -1,0 +1,39 @@
+{
+  "title": "rakuten_girls_fans_club_20210523_0.png",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1626589717",
+    "formatted": "2021年7月18日 UTC 06:28:37"
+  },
+  "photoTakenTime": {
+    "timestamp": "1621752641",
+    "formatted": "2021年5月23日 UTC 06:50:41"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/3s8IZKii0l8U_lvMLkG2ZowqIiLTc3bvl91INMGYZ0O_Iu8aFI8XtEes8Xsz0m8guTUUF5xIz5yQmTmokqdhRhljXTwP4yjCpU16sM8I",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "lovediary_joey_20210316_13.png",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1615868363",
+    "formatted": "2021年3月16日 UTC 04:19:23"
+  },
+  "photoTakenTime": {
+    "timestamp": "1615825682",
+    "formatted": "2021年3月15日 UTC 16:28:02"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/JFxSduv3MEWBbTExL5uoFxUrTuuuOphHUaRaskJBy7tOUyFkyWGpixYngXXjttqq5GztQ_dLEsl45olpzK8Y1-lKtTbaaCS6NPpJPar3",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

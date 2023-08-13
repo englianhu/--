@@ -1,0 +1,39 @@
+{
+  "title": "蔡卓宜の纸鹤1 - 鹤立鸡群.jpeg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1633180148",
+    "formatted": "2021年10月2日 UTC 13:09:08"
+  },
+  "photoTakenTime": {
+    "timestamp": "1632879894",
+    "formatted": "2021年9月29日 UTC 01:44:54"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/zcvmfuk6dgYEPCWbSlFLFFFRPW2EFpWwvWw17wlCBIvbrbWMfntRkrEJ63lUjEopuZq4wfD6F7-_ZyV-doFjDaiJTBgqQYxs7FJyV6Yq",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "lovekiddy1219_20210813_17.png",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1628867196",
+    "formatted": "2021年8月13日 UTC 15:06:36"
+  },
+  "photoTakenTime": {
+    "timestamp": "1628855505",
+    "formatted": "2021年8月13日 UTC 11:51:45"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/PrTpGK3BKsI-aSUaJj2UCpa4pxmfIDoyfk2_4A9QrX-NNESGXyPcgj9ZNwWzGdqzV-Pnc3gq0P7U4H0EyX4oAXi97fumvTrlFLq9n6jV",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

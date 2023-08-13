@@ -1,0 +1,39 @@
+{
+  "title": "sparklegirls___20210914_7.png",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1631638037",
+    "formatted": "2021年9月14日 UTC 16:47:17"
+  },
+  "photoTakenTime": {
+    "timestamp": "1631631221",
+    "formatted": "2021年9月14日 UTC 14:53:41"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/aGap_BVWJGzmIOJ-Dh3Bh9xfKAtZSAXvTd0y6jJ6mGW1hi-pnX_-vq1gpyN9G1hprIHirmh5G4qTEuM1HbVnpG07Zmo4G9ob8awkVM3K",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

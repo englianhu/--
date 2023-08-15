@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20230621_151812_887.webp",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1688605605",
+    "formatted": "2023年7月6日 UTC 01:06:45"
+  },
+  "photoTakenTime": {
+    "timestamp": "1687331894",
+    "formatted": "2023年6月21日 UTC 07:18:14"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/PH2fj9G_K-MUf_XaymdMXnxTvPnwSO0ia3dIixdOgDHbnSoF3cRcH7Ht8tYzpZgg5M3G3y6mv_0i2cZHDqqIb9sGaMg8pFkXNXJKP0Uh",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

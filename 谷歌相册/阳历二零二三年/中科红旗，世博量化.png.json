@@ -1,0 +1,39 @@
+{
+  "title": "中科红旗，世博量化.png",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1685929566",
+    "formatted": "2023年6月5日 UTC 01:46:06"
+  },
+  "photoTakenTime": {
+    "timestamp": "1685926777",
+    "formatted": "2023年6月5日 UTC 00:59:37"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/ZoZsoedB1tbV16kh6dZ0P7cr3Y0PG8SotOojVDWe6gy-mkqRjXJ3ET3bP-Y43luWD3td-iMlgDc7HFyoJEwc4V_-0gjz4_Ybr3aigQ1u",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

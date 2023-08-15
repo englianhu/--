@@ -1,0 +1,36 @@
+{
+  "title": "Picsart_23-06-26_10-01-53-033.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1688605672",
+    "formatted": "2023年7月6日 UTC 01:07:52"
+  },
+  "photoTakenTime": {
+    "timestamp": "1687744913",
+    "formatted": "2023年6月26日 UTC 02:01:53"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/6Ld17-q0wy0bYX5oS32Bd3JTX0GPuFAfFpbReJI4aNR9C-RntgdM81UhdmhDHj-mPHckmXbdIvRcCUdfNLsE_jiq6C65UbnduFiAcb2H",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Picsart"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

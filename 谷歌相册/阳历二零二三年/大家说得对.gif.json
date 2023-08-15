@@ -1,0 +1,39 @@
+{
+  "title": "大家说得对.gif",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1680619231",
+    "formatted": "2023年4月4日 UTC 14:40:31"
+  },
+  "photoTakenTime": {
+    "timestamp": "1678172549",
+    "formatted": "2023年3月7日 UTC 07:02:29"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/KIF8W6jz30CID_236VkuSPx-PwpXMubkwd2-l5VM6guy8NffVYtgUhT1jPmU6VeTGqPJF0pYCMEmtUhWqNxSnaGvx1CdCILszr8WgTVd",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

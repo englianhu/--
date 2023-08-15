@@ -1,0 +1,36 @@
+{
+  "title": "警察同志.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1680619057",
+    "formatted": "2023年4月4日 UTC 14:37:37"
+  },
+  "photoTakenTime": {
+    "timestamp": "1678172329",
+    "formatted": "2023年3月7日 UTC 06:58:49"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/qRCYJ9h7eJWdXx8tKRCDNX_KdqNB2kjq1vjmyUxSMC6QmoVav3J4wl_F4epUTAwa4LzNJ_2hgNDPt1ODu9XJtk2tZ4xDnWCj0vMjT_jr",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

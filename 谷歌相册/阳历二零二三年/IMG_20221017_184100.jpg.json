@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20221017_184100.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1680619010",
+    "formatted": "2023年4月4日 UTC 14:36:50"
+  },
+  "photoTakenTime": {
+    "timestamp": "1678172271",
+    "formatted": "2023年3月7日 UTC 06:57:51"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/OegCCdr7ftgsJ8R3u63cnf3voR4Wpdgz6MvIAYC0D3fnaRFz1Ac1BqbDyk1SpGtGDvgHb7i_ppbEEK0MtdKvHyUCoBng6Upo9meKCNtz",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

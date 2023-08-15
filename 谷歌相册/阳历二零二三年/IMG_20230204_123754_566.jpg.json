@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20230204_123754_566.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1676133021",
+    "formatted": "2023年2月11日 UTC 16:30:21"
+  },
+  "photoTakenTime": {
+    "timestamp": "1675485474",
+    "formatted": "2023年2月4日 UTC 04:37:54"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/H9IWWyJKQT-xcj0OBYFSqLAcVlkqyxP6n0uoCbFjHOzFmRCPoH0IYS08Gjhk83IQYimSQwS0eLjHxBPMbvxInXN1jRESiV2U7ltMwN0A",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

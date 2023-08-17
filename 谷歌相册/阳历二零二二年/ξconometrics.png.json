@@ -1,0 +1,39 @@
+{
+  "title": "ξconometrics.png",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1647534635",
+    "formatted": "2022年3月17日 UTC 16:30:35"
+  },
+  "photoTakenTime": {
+    "timestamp": "1647519514",
+    "formatted": "2022年3月17日 UTC 12:18:34"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/tcxnDABbYv1abzc-CYGaspJFXrxhTfRYzjqaXCOc8VKVayE1hBMF4YSxVcmWbID5v3OzpBwW_lOPEtESzzgqa4WuxyY0hxYXu6wjxvtG",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

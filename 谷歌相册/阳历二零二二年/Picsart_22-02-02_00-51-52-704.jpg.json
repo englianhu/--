@@ -1,0 +1,36 @@
+{
+  "title": "Picsart_22-02-02_00-51-52-704.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1643743363",
+    "formatted": "2022年2月1日 UTC 19:22:43"
+  },
+  "photoTakenTime": {
+    "timestamp": "1643734312",
+    "formatted": "2022年2月1日 UTC 16:51:52"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/iFDlqqK8fGvoCvl1r6zwOHv7pjeN2z_DQCfft08qtpaN0CVGiR86Lui3Z0Dpq_2h6Og0XAn0OmVCnsbcpe1mH1GZNtoyeFKkIOZC719d",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Picsart"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

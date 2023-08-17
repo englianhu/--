@@ -1,0 +1,36 @@
+{
+  "title": "Screenshot_2022-11-23-13-29-08-904_com.sina.weibo.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1671479418",
+    "formatted": "2022年12月19日 UTC 19:50:18"
+  },
+  "photoTakenTime": {
+    "timestamp": "1671477884",
+    "formatted": "2022年12月19日 UTC 19:24:44"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/a-MsCwlf41Z_APuYzxnz87hxDgONg8Cf-zgezCrWoiw40YHNdNTYMI8xSX17OP1DaQqvKWpkGCa2si1GK1vcCqqkJ_6DZTrMq5qOENeJ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

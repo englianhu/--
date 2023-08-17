@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20220128_021517_384.webp",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1643307571",
+    "formatted": "2022年1月27日 UTC 18:19:31"
+  },
+  "photoTakenTime": {
+    "timestamp": "1643303718",
+    "formatted": "2022年1月27日 UTC 17:15:18"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/AOVgp2YzKz0IyH-3rrjuoJZq32yGKFWc-LTNPoGCu0fSSzCCC61k8yyqpWp31TzYiIFTwpez-ZDftHzt6Y2EbuFs5GZvyOJxMmORV6sa",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20221016_192903_327.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1668687904",
+    "formatted": "2022年11月17日 UTC 12:25:04"
+  },
+  "photoTakenTime": {
+    "timestamp": "1665919743",
+    "formatted": "2022年10月16日 UTC 11:29:03"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/dHmM8NT8rNZOYH5sVoyBrvOs_P75UfRIeuWVsgvvbILVGgcXmonEVNMPw_HCyN-GQBMUuQKpDqFcEji2tgR-R7pIT7pfnlRso-oXXXwr",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

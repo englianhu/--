@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20220514_132527_973.webp",
+  "description": "",
+  "imageViews": "11",
+  "creationTime": {
+    "timestamp": "1652515497",
+    "formatted": "2022年5月14日 UTC 08:04:57"
+  },
+  "photoTakenTime": {
+    "timestamp": "1652502334",
+    "formatted": "2022年5月14日 UTC 04:25:34"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/TB4GzNMVrZ-V1MDjnKJ1l1iQ2lYsnDvRBxeNwb0BoOFfDlOUSEWQT5DRcHNutUTg2eua0mNKddEFReP3m7WVPZ2ahwpcOdpM0G68-FdZ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

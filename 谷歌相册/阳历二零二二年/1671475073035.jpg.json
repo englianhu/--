@@ -1,0 +1,36 @@
+{
+  "title": "1671475073035.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1671479418",
+    "formatted": "2022年12月19日 UTC 19:50:18"
+  },
+  "photoTakenTime": {
+    "timestamp": "1669284775",
+    "formatted": "2022年11月24日 UTC 10:12:55"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/-UwxFvW896Axbf1Hr9UGwnF5xB8ZZJoc1dWzMiE6JQnsGK7UMm2dqyaqrXt-xfjOwQrOre5dzJgYQJdxJJVVGst8FG8fY4RK1wl1nKcq",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

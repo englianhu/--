@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20221120_115622.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1671479476",
+    "formatted": "2022年12月19日 UTC 19:51:16"
+  },
+  "photoTakenTime": {
+    "timestamp": "1671477922",
+    "formatted": "2022年12月19日 UTC 19:25:22"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/eSRvgAFzW1xals2E92gZiP-zVGp0SHQ1lUy8eM8kb-we-B0805k-94B-qMUx7MvKCcJ55lYNJ7PtiTuJt32xUNCcHUtS-ydMdrxbUaMk",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

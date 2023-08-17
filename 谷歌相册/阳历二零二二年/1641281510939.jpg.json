@@ -1,0 +1,39 @@
+{
+  "title": "1641281510939.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1641383860",
+    "formatted": "2022年1月5日 UTC 11:57:40"
+  },
+  "photoTakenTime": {
+    "timestamp": "1641281511",
+    "formatted": "2022年1月4日 UTC 07:31:51"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/-6bn_OM67pQNsYYShFydpIEfpu_hfxg6dm4oSyIvslwLitI8iQfXcFR3v97uCUFXq1bsfPq70xUw6zT_0qOPg1DKiDSEG59c0szxHX2M",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WeChat"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

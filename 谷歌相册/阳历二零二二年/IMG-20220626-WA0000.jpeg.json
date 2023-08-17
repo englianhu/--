@@ -1,0 +1,39 @@
+{
+  "title": "IMG-20220626-WA0000.jpeg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1664443451",
+    "formatted": "2022年9月29日 UTC 09:24:11"
+  },
+  "photoTakenTime": {
+    "timestamp": "1656216765",
+    "formatted": "2022年6月26日 UTC 04:12:45"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/ixrjKiGdBR53nobxBwoomrR3r3Xf_Gx-yIlT1FZsvBoRvceBT-Bb_YJ9-r1m1BfoOvBUlh1tqTm4h633JSed_QXk3_q9VQEYy6T9eSEJ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WhatsApp Business Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

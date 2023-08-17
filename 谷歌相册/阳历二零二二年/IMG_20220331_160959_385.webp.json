@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20220331_160959_385.webp",
+  "description": "",
+  "imageViews": "10",
+  "creationTime": {
+    "timestamp": "1648727231",
+    "formatted": "2022年3月31日 UTC 11:47:11"
+  },
+  "photoTakenTime": {
+    "timestamp": "1648710600",
+    "formatted": "2022年3月31日 UTC 07:10:00"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/OHDRYwfrmJtGdzVOdqsWhDINgKDssy758FP2IBuxIxkkEW8IND5Q6202zTyJiHHna6Dw0PzZuT7S_OevbQ1Go1kWKl53oJbIftEBLPgj",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

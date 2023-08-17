@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20221122_172645_684.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1669522110",
+    "formatted": "2022年11月27日 UTC 04:08:30"
+  },
+  "photoTakenTime": {
+    "timestamp": "1669109206",
+    "formatted": "2022年11月22日 UTC 09:26:46"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/EOBPCg_O0EawuNB253rhHPdb0Tr1K-aS2h2no8HDiZdpHvR898QpSJpfNvIo3ruW5xRqGAQ_-L1gdiDVSdLmJD-9MnXACXWRTyN3SwkH",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

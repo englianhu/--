@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20220217_154705_872.webp",
+  "description": "",
+  "imageViews": "25",
+  "creationTime": {
+    "timestamp": "1645090016",
+    "formatted": "2022年2月17日 UTC 09:26:56"
+  },
+  "photoTakenTime": {
+    "timestamp": "1645080427",
+    "formatted": "2022年2月17日 UTC 06:47:07"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/MjaBtq1WflUcQelDD5wj-BkrYzjIkZlUgBZ42mP-CPH1jWAx_wcHglO5pNh54ovnHyzdrg_dmMVAKpDZYfPMuPtRjyrHrj2MpOdQkxyd",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

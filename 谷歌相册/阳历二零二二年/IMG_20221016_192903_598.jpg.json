@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20221016_192903_598.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1668687952",
+    "formatted": "2022年11月17日 UTC 12:25:52"
+  },
+  "photoTakenTime": {
+    "timestamp": "1665919743",
+    "formatted": "2022年10月16日 UTC 11:29:03"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/GQML_z313vd_9rg8sS6O0egXlVGPjG0G9MCyI7PTg29z0JzS_KYr-xun3la2C-e230m07Q5HmC5zX0t3VycWV-ngYg_UvacW7tOU5tL_",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

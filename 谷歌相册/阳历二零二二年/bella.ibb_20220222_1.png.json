@@ -1,0 +1,39 @@
+{
+  "title": "bella.ibb_20220222_1.png",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1645459816",
+    "formatted": "2022年2月21日 UTC 16:10:16"
+  },
+  "photoTakenTime": {
+    "timestamp": "1645456421",
+    "formatted": "2022年2月21日 UTC 15:13:41"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/fT-YiRFtZCNkZor9MuMfyXf5J5Ir80CscBKex_EYEbI4ip38R5w63mRj7VK4xe-ytM2FetSwlZWIN6IPb2VGISLc5DXJhA9YAYZXd9uw",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "StorySaver"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

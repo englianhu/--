@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20220629_174633_935.webp",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1664443474",
+    "formatted": "2022年9月29日 UTC 09:24:34"
+  },
+  "photoTakenTime": {
+    "timestamp": "1656495994",
+    "formatted": "2022年6月29日 UTC 09:46:34"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/QKXWj0shs9L3chmC3KI_npt0fsOY4mfBih4p14esVePJV-EimMOphJD5rbu9eAtw4SHesKcX6gpULmRD3ySN_UvgdGb0ts-CBGt_BC6Z",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

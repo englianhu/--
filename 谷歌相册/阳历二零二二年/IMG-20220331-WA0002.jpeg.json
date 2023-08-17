@@ -1,0 +1,36 @@
+{
+  "title": "IMG-20220331-WA0002.jpeg",
+  "description": "",
+  "imageViews": "12",
+  "creationTime": {
+    "timestamp": "1648711320",
+    "formatted": "2022年3月31日 UTC 07:22:00"
+  },
+  "photoTakenTime": {
+    "timestamp": "1648704036",
+    "formatted": "2022年3月31日 UTC 05:20:36"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/qhi2oEbWx04c64ZRE4js0jvAKe6gEGqSy3UFWBd8uEMrOKfc_B-TKqpKIhTuihG_rZm8cE-eUHZJDxcRjFV640Axma7OmeqrUeHhtULw",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WhatsApp Business Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20220607_142455_444.webp",
+  "description": "",
+  "imageViews": "42",
+  "creationTime": {
+    "timestamp": "1654589313",
+    "formatted": "2022年6月7日 UTC 08:08:33"
+  },
+  "photoTakenTime": {
+    "timestamp": "1654579497",
+    "formatted": "2022年6月7日 UTC 05:24:57"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/TUIZlI0TeaH2gh6c-V0xL7SsvnPmylL7P3OUbunEBYlMufRsohsLr_h6uLW1meI-G4rlEwSUIBjBLWjSxPcxcx_TqHa1PRKu_easvFbO",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG-20221112-WA0011.jpeg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1668688301",
+    "formatted": "2022年11月17日 UTC 12:31:41"
+  },
+  "photoTakenTime": {
+    "timestamp": "1668231274",
+    "formatted": "2022年11月12日 UTC 05:34:34"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Pw4RwYiBOHkneFw9SnKBXM6JC1VU70EiFeVpbuAvi5NCcNm2HWdR7HmWs1BTUqndI4KX5oA7MTck031hoM5Y0n34ytnEuyyIYnGIgHVG",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WhatsApp Business Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

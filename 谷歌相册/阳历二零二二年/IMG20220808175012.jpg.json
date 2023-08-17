@@ -1,0 +1,39 @@
+{
+  "title": "IMG20220808175012.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1664443640",
+    "formatted": "2022年9月29日 UTC 09:27:20"
+  },
+  "photoTakenTime": {
+    "timestamp": "1659952212",
+    "formatted": "2022年8月8日 UTC 09:50:12"
+  },
+  "geoData": {
+    "latitude": 3.3418109,
+    "longitude": 101.24539949999999,
+    "altitude": 39.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.3418109,
+    "longitude": 101.24539949999999,
+    "altitude": 39.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/HLMAfVP0H9F0uOv4RV130T2sCbOMq7YxBmq12ZYNMEdjJKsNAtpX9gQ4U9vZWGYKn4YodxmsB7sW-bheOGhtLuUeYxlV0JEhnqTDzhNP",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

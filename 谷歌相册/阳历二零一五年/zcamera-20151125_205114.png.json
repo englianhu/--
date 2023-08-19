@@ -1,0 +1,39 @@
+{
+  "title": "zcamera-20151125_205114.jpg",
+  "description": "",
+  "imageViews": "35",
+  "creationTime": {
+    "timestamp": "1448452285",
+    "formatted": "2015年11月25日 UTC 11:51:25"
+  },
+  "photoTakenTime": {
+    "timestamp": "1448452277",
+    "formatted": "2015年11月25日 UTC 11:51:17"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/J3PIGmGEGtqDvaPy7XCGhSetOrHMa203vC7g7yO4OTGZCUfNiRCKAjWUrihZXzsr2KkXe0yhK99y_pHRTy-gSrEgMLeekEHlZt5YuoQ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

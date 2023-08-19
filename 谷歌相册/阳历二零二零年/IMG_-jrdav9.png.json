@@ -1,0 +1,36 @@
+{
+  "title": "IMG_-jrdav9.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1610376647",
+    "formatted": "2021年1月11日 UTC 14:50:47"
+  },
+  "photoTakenTime": {
+    "timestamp": "1607676873",
+    "formatted": "2020年12月11日 UTC 08:54:33"
+  },
+  "geoData": {
+    "latitude": 3.1486880999999998,
+    "longitude": 101.7015304,
+    "altitude": 55.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.1486880999999998,
+    "longitude": 101.7015304,
+    "altitude": 55.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/4gXNNGYiCEBZbJZx4Es8KPp-YZHYiDjWMPevOYZ6c40MCEjhjxp2V-KoNmyuPr8bd1HYpjM-hM7oRJ94vLyLtRkHboVu4-Br8dLdnR5J",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Twitter"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

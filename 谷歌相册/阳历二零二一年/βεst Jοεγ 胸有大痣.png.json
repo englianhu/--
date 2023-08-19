@@ -1,0 +1,39 @@
+{
+  "title": "βεst Jοεγ 胸有大痣.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1688605369",
+    "formatted": "2023年7月6日 UTC 01:02:49"
+  },
+  "photoTakenTime": {
+    "timestamp": "1635360866",
+    "formatted": "2021年10月27日 UTC 18:54:26"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/4foUbfwSraYRCfsM74P92wC9htb3F2EqobqmvFuS83KF50Bs24agsT3qCgYETrxNMiE7MM904S3gizlvb2xrC3ZuI0ImOImDHmw3zCVW",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

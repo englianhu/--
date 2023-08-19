@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20150221_195724.jpg",
+  "description": "",
+  "imageViews": "76",
+  "creationTime": {
+    "timestamp": "1424519664",
+    "formatted": "2015年2月21日 UTC 11:54:24"
+  },
+  "photoTakenTime": {
+    "timestamp": "1424516245",
+    "formatted": "2015年2月21日 UTC 10:57:25"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/dM4TKTiHJT2DYt4dV2el9BytUB2gfLia_hdyRY_XD_TZZh_putTgKcQ7IMYjUyWgJ465Ir8B5xcarR_PURG1AbF79piz49IEk1_C5kQ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

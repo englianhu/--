@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20150604_123116.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1603734100",
+    "formatted": "2020年10月26日 UTC 17:41:40"
+  },
+  "photoTakenTime": {
+    "timestamp": "1433388676",
+    "formatted": "2015年6月4日 UTC 03:31:16"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/myF8VeUr9LcAX_98Dd3ZJ19lWKz26IGHrgzefSULIMEnneSTuV-FoRZgBXo6_j7j7AiAbiSd5Vy4iVz02Tzjr1gHIf3W4g-y-dfDkjcZ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

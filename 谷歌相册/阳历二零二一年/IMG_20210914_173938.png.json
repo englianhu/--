@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20210914_173938.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1632855543",
+    "formatted": "2021年9月28日 UTC 18:59:03"
+  },
+  "photoTakenTime": {
+    "timestamp": "1631608778",
+    "formatted": "2021年9月14日 UTC 08:39:38"
+  },
+  "geoData": {
+    "latitude": 3.0084549999999997,
+    "longitude": 101.66112,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.0084549999999997,
+    "longitude": 101.66112,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/lZdrZav87TcTSC8Gz8KnMSCIrU_efU5TRbx5509OMMOKSqTAk6Wl85wApBD2kbWKYPC1EV9W9tuOeruLsArT7fw332R1du-EQaZoDDRf",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

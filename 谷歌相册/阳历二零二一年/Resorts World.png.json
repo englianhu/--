@@ -1,0 +1,36 @@
+{
+  "title": "Resorts World.jpeg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1634611055",
+    "formatted": "2021年10月19日 UTC 02:37:35"
+  },
+  "photoTakenTime": {
+    "timestamp": "1633865548",
+    "formatted": "2021年10月10日 UTC 11:32:28"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/no7-4nS9udENRg2FiY8veUBximJa_CisCku4_diAjOzCmd2zY67vj3wOXjPB533tXQkIlEMbkoAaCenMrL-4s2ZwEWWybNpFISz31ZEG",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

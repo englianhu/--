@@ -1,0 +1,36 @@
+{
+  "title": "smartodds.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1600602236",
+    "formatted": "2020年9月20日 UTC 11:43:56"
+  },
+  "photoTakenTime": {
+    "timestamp": "1600589230",
+    "formatted": "2020年9月20日 UTC 08:07:10"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/cdIeEI_ivdH3WlA55jjkBnCctLF_Ipfbel1ZcXSDYR4xZ2Xy_Xs__-_Pb4VTO3Zdtpq0UQJSu6kXfUmFMOOfAVcw7fR2JW3S1gMPOI6l",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

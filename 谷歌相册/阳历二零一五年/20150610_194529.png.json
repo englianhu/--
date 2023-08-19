@@ -1,0 +1,36 @@
+{
+  "title": "20150610_194529.jpg",
+  "description": "",
+  "imageViews": "38",
+  "creationTime": {
+    "timestamp": "1433933137",
+    "formatted": "2015年6月10日 UTC 10:45:37"
+  },
+  "photoTakenTime": {
+    "timestamp": "1433933129",
+    "formatted": "2015年6月10日 UTC 10:45:29"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/_1i05V-zXALUy6sn5CRT5y6shpI97lAehLryojcpyyWvCtKQNdnPGd1BSOwNuiXHRMK_lm4f3RbqSZfW-zJ88Fgv76caLo5mEU_v34w",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

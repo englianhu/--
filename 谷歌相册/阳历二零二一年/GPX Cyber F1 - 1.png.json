@@ -1,0 +1,36 @@
+{
+  "title": "GPX Cyber F1 - 1.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1633298221",
+    "formatted": "2021年10月3日 UTC 21:57:01"
+  },
+  "photoTakenTime": {
+    "timestamp": "1633288952",
+    "formatted": "2021年10月3日 UTC 19:22:32"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/OwrYzUVdiESk924wnq3MzFxnMNXcualmAdrSsy20V1v7kHdfJv9OAq6K_E2kWsUrg1_x1EhYyTV9A8ty9A2IaTcwO836H1K47h0Y-ksM",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

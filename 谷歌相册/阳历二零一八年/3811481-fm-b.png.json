@@ -1,0 +1,36 @@
+{
+  "title": "3811481-fm-b.jpg",
+  "description": "",
+  "imageViews": "14",
+  "creationTime": {
+    "timestamp": "1540813218",
+    "formatted": "2018年10月29日 UTC 11:40:18"
+  },
+  "photoTakenTime": {
+    "timestamp": "1540813203",
+    "formatted": "2018年10月29日 UTC 11:40:03"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/AoqGJXVf9sMhEkNw32lJfYCiiLEbtQcxwr4HbP3qyy99f9ipsBKj3scP7Ou-Ur6FI_W_lZ_onzKjkxL7BrEK8rVmTRmd9oF8-NNNbt8-",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

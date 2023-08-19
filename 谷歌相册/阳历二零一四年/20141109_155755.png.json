@@ -1,0 +1,36 @@
+{
+  "title": "20141109_155755.jpg",
+  "description": "",
+  "imageViews": "61",
+  "creationTime": {
+    "timestamp": "1415516869",
+    "formatted": "2014年11月9日 UTC 07:07:49"
+  },
+  "photoTakenTime": {
+    "timestamp": "1415516274",
+    "formatted": "2014年11月9日 UTC 06:57:54"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Pnw5uFB8OdB_GigKmQIhNIsJtKEMsOJs4xfccXPik_T_zwr3S7cJiWdDTZLoc4gH0FvOTCtF9Qn6MQo8YQ36_TnTiNFPzpZLzBJNIQI",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Citibank debit card (back).jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1604637988",
+    "formatted": "2020年11月6日 UTC 04:46:28"
+  },
+  "photoTakenTime": {
+    "timestamp": "1604609659",
+    "formatted": "2020年11月5日 UTC 20:54:19"
+  },
+  "geoData": {
+    "latitude": 3.0083661,
+    "longitude": 101.6606521,
+    "altitude": 80.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.0083661,
+    "longitude": 101.6606521,
+    "altitude": 80.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/6wpC6i-7GyLxsG-KaFP9y20WyqupkSPtSy4uR3ZkzpQDLdu7snMsPwer5lyYf0I7l2CEz8m0-npRUYygL-GiNAWQz2f-hhBRncnn72yE",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

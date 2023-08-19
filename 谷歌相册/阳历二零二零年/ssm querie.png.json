@@ -1,0 +1,36 @@
+{
+  "title": "ssm querie.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1601406996",
+    "formatted": "2020年9月29日 UTC 19:16:36"
+  },
+  "photoTakenTime": {
+    "timestamp": "1601271553",
+    "formatted": "2020年9月28日 UTC 05:39:13"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/KGOJJIpuWRVCOj8KTXZBHUXG6SFgU-PDAEtZDAZk3hBJsyxDWgP65o946hK8d5E8hyGCDcokJ0Zpbwbyv9oUKB3ip_fBuNwIWU_FLkdw",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20150408_155549.jpg",
+  "description": "",
+  "imageViews": "48",
+  "creationTime": {
+    "timestamp": "1428487088",
+    "formatted": "2015年4月8日 UTC 09:58:08"
+  },
+  "photoTakenTime": {
+    "timestamp": "1428476149",
+    "formatted": "2015年4月8日 UTC 06:55:49"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/yf9NeqCyic0uVn_gvCQHQEKAn8_n_qfoRdk2oUthFvaUdkPFFYWV7kb66_u3f8UjuB67IJ7U9Ykpv_2Pnjjxlmxf0XOualq_xSNMEes",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

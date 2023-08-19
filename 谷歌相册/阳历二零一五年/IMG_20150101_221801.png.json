@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20150101_221801.jpg",
+  "description": "",
+  "imageViews": "67",
+  "creationTime": {
+    "timestamp": "1420118288",
+    "formatted": "2015年1月1日 UTC 13:18:08"
+  },
+  "photoTakenTime": {
+    "timestamp": "1420118282",
+    "formatted": "2015年1月1日 UTC 13:18:02"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Ec4xT-6tBOSeYmIMGDV8RVBR71ADqDXuk57MVxFLo1dKh51ntQPaB7sHZ87rgia27CEZB4js6PZszw7elNw_nfCV9XhtqDpUSgLkoQU",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Yumi Wong.jpeg",
+  "description": "",
+  "imageViews": "33",
+  "creationTime": {
+    "timestamp": "1433796304",
+    "formatted": "2015年6月8日 UTC 20:45:04"
+  },
+  "photoTakenTime": {
+    "timestamp": "1433769767",
+    "formatted": "2015年6月8日 UTC 13:22:47"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/wqrMJRSzzanpOOHlwIdbSr7YXKageQNcf4cbAq531j4hrJKiWr7yEBOLAe6-11gPKjwIiALGvcKWQvSEZyNxPL81bdUBS2mF_HZn2J8",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

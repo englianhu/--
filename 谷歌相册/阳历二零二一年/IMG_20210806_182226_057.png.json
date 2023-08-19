@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20210806_182226_057.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1628243360",
+    "formatted": "2021年8月6日 UTC 09:49:20"
+  },
+  "photoTakenTime": {
+    "timestamp": "1628241746",
+    "formatted": "2021年8月6日 UTC 09:22:26"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/F19LCf4YaxBsQf4iElRkcgZ5BJZOUFT57fT7SZ7CxGoPx5lMaYw10XHaQa06SsMxiReUoswCiTkeqjpcU3gIzgHxiXWHkiMpm_Zxb1UP",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

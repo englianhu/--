@@ -1,0 +1,36 @@
+{
+  "title": "IMG-20210928-WA0001.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1633471284",
+    "formatted": "2021年10月5日 UTC 22:01:24"
+  },
+  "photoTakenTime": {
+    "timestamp": "1632829861",
+    "formatted": "2021年9月28日 UTC 11:51:01"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/EcsuNuQ0-UW38sFA_urWaSPb55los_qOlmCIqzjx7jbPWcG4LxmQKpZ79DHW1L_zLgDCuWskD5H9gMYSJe0IFlk6AZDJ25hKkqFhv-96",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

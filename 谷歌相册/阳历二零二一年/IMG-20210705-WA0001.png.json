@@ -1,0 +1,36 @@
+{
+  "title": "IMG-20210705-WA0001.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1626590565",
+    "formatted": "2021年7月18日 UTC 06:42:45"
+  },
+  "photoTakenTime": {
+    "timestamp": "1625464743",
+    "formatted": "2021年7月5日 UTC 05:59:03"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/gksDUK11sm1Mwiu6o4YLf0DSYboLOPX9NJcOfRsBviiEbtpmP-7uc-ACpilFFOoJpQgMXVrZI_9lmMfY6rbXASsl4R4C2yTUNa1PmRXO",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

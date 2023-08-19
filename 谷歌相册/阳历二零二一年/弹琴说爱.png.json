@@ -1,0 +1,36 @@
+{
+  "title": "弹琴说爱.jpeg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1633406343",
+    "formatted": "2021年10月5日 UTC 03:59:03"
+  },
+  "photoTakenTime": {
+    "timestamp": "1633388560",
+    "formatted": "2021年10月4日 UTC 23:02:40"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/TOGoUN53vRS2y3pVRlrMZStFc-kJBIik2FOQAkhbuoxOQ9i8tNt1RWGVyDUSgk0AmJ8wLMSf2i5JvIADmgp36ASTXqdPR3tj_Nx_eXwt",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

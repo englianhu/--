@@ -1,0 +1,36 @@
+{
+  "title": "mayun 01.jpeg",
+  "description": "",
+  "imageViews": "24",
+  "creationTime": {
+    "timestamp": "1512615086",
+    "formatted": "2017年12月7日 UTC 02:51:26"
+  },
+  "photoTakenTime": {
+    "timestamp": "1511445429",
+    "formatted": "2017年11月23日 UTC 13:57:09"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/h0ucHq4z0JZbnuVUHI0SExQWvdl1y_tFcfopJOQd-bLSftlc8W7CdBCtk79NJvStz2XpjeQcciyWeqTC16ubyXFc1f31inckABBDAl4I",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

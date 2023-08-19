@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20201003_150043.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1601725945",
+    "formatted": "2020年10月3日 UTC 11:52:25"
+  },
+  "photoTakenTime": {
+    "timestamp": "1601703070",
+    "formatted": "2020年10月3日 UTC 05:31:10"
+  },
+  "geoData": {
+    "latitude": 2.9794443999999998,
+    "longitude": 101.6055556,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 2.9794443999999998,
+    "longitude": 101.6055556,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/nfGVFF4BxIHx7AWmgFma1n8sTn7RSCiQ_Opiys-fGiVo6aMWtCGBGneRARkPwckRhDhNQQPGWwAzaxOazrLcDhQwRCdJWP5yAdCfdT61",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20201024_020026.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1603475233",
+    "formatted": "2020年10月23日 UTC 17:47:13"
+  },
+  "photoTakenTime": {
+    "timestamp": "1603472305",
+    "formatted": "2020年10月23日 UTC 16:58:25"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/NafRxwp6O1afgpQaQ_zImOkcGvZXJ89nLD3B_AiTnHHytbZ_0HqIpJIKqJDknI61rQfXUv4hqE5eg2tJu80aT4x4PuLKOV1Ideun_N0o",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

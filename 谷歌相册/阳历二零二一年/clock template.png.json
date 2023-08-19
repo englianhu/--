@@ -1,0 +1,36 @@
+{
+  "title": "clock template.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1634617506",
+    "formatted": "2021年10月19日 UTC 04:25:06"
+  },
+  "photoTakenTime": {
+    "timestamp": "1633690846",
+    "formatted": "2021年10月8日 UTC 11:00:46"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Hhh9rbjd58AhC2NvpjVK9aBemUE_qYjg91xmQVeh4qM_oXt1P9fsPB0fCjmVkCQf6BV3t8M8Eqeb1FgEai59kOWcRD91w5TWxuD3I5j0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

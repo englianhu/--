@@ -1,0 +1,39 @@
+{
+  "title": "timg-5.jpeg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1607441827",
+    "formatted": "2020年12月8日 UTC 15:37:07"
+  },
+  "photoTakenTime": {
+    "timestamp": "1607434290",
+    "formatted": "2020年12月8日 UTC 13:31:30"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/80T9jzjb2_w66HJcyHRjNehKCG_JSqso9SiczihUPM-xjQ9TL2yCH4xYy0F8v_s-mYFaXxJZdt9b77v8BhSKnpNX65KytIUPMvb0hPdD",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

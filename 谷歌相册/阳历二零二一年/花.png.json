@@ -1,0 +1,39 @@
+{
+  "title": "花.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1629445461",
+    "formatted": "2021年8月20日 UTC 07:44:21"
+  },
+  "photoTakenTime": {
+    "timestamp": "1629435738",
+    "formatted": "2021年8月20日 UTC 05:02:18"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/WXqyE9QOaFi1yCxZeS35d_ovMZfCNB0ZNmQynLTL6_CR5P8Rhi1RkeO4nKFeR3gtUgvgY8ulwfxV7dLjgCcfd807A1edjHJ_TQTucz1V",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "weibo"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

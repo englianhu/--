@@ -1,0 +1,39 @@
+{
+  "title": "DSC_0004 - Copy (2).JPG",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1603734084",
+    "formatted": "2020年10月26日 UTC 17:41:24"
+  },
+  "photoTakenTime": {
+    "timestamp": "1528702118",
+    "formatted": "2018年6月11日 UTC 07:28:38"
+  },
+  "geoData": {
+    "latitude": 3.3404578999999996,
+    "longitude": 101.2575149,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.3404578999999996,
+    "longitude": 101.2575149,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/51vY67Lj1mcHJNn4A1CKelSlGzTqUlfBex8yp7xnRKv9F4R6Lrs2C9dk8EjOGjcmmWWbCOTTn-PEER0Njpw2kX_avc7HceaTIh7JYgw6",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

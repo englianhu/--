@@ -1,0 +1,36 @@
+{
+  "title": "IMG-20160725-WA0012.jpg",
+  "description": "",
+  "imageViews": "31",
+  "creationTime": {
+    "timestamp": "1469430974",
+    "formatted": "2016年7月25日 UTC 07:16:14"
+  },
+  "photoTakenTime": {
+    "timestamp": "1469420831",
+    "formatted": "2016年7月25日 UTC 04:27:11"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/TxiACZRQqXPfi5GkjXjK8Xd76sWAEy-gdFfWZe5yv_yXfLB_cIw1lakeXBFYogLqoMmaXvi4o7qWj6nbWo_79EfFRoKYLnE89gkLExFt",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WhatsApp Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

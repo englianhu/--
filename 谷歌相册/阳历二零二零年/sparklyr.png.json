@@ -1,0 +1,36 @@
+{
+  "title": "sparklyr.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1600898624",
+    "formatted": "2020年9月23日 UTC 22:03:44"
+  },
+  "photoTakenTime": {
+    "timestamp": "1600605585",
+    "formatted": "2020年9月20日 UTC 12:39:45"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/BPXTuHM_xjSn3mrPyhDXy7sXM1zUYLFdm39NZ_3_rAv7DUTi3-e4J_jepE-stH6euE3goOAmAwlZfYnJjdJYRSkBQ0AW-OPjcSEI4PJx",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

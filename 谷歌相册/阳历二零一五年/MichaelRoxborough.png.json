@@ -1,0 +1,36 @@
+{
+  "title": "MichaelRoxborough.jpg",
+  "description": "",
+  "imageViews": "44",
+  "creationTime": {
+    "timestamp": "1430063113",
+    "formatted": "2015年4月26日 UTC 15:45:13"
+  },
+  "photoTakenTime": {
+    "timestamp": "1430060085",
+    "formatted": "2015年4月26日 UTC 14:54:45"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/9vmbaAOvdma_bG4kILWrdzjRz67KsVIGxFQ6y7ecK6373sLSpEka6acQ8AsIoNFfmxFt9maPH0hRp5TMW4KmJNW4jOUvc0e-bgZcXb8",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

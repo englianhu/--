@@ -1,0 +1,36 @@
+{
+  "title": "20151030_154900.jpg",
+  "description": "",
+  "imageViews": "24",
+  "creationTime": {
+    "timestamp": "1446190845",
+    "formatted": "2015年10月30日 UTC 07:40:45"
+  },
+  "photoTakenTime": {
+    "timestamp": "1446187740",
+    "formatted": "2015年10月30日 UTC 06:49:00"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/_-n38BcYOhqYIxZ2v8Qn7HQbQYiTpghWeQYsvvC2HYXFatepxuijEIUNFHT4ou6oOb1YC86meapGCLYE4J0Rz3W2nti5aww8BCGnoEc",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

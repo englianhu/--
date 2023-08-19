@@ -1,0 +1,36 @@
+{
+  "title": "20151030_050501.jpg",
+  "description": "",
+  "imageViews": "24",
+  "creationTime": {
+    "timestamp": "1446152592",
+    "formatted": "2015年10月29日 UTC 21:03:12"
+  },
+  "photoTakenTime": {
+    "timestamp": "1446149101",
+    "formatted": "2015年10月29日 UTC 20:05:01"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/DnZzC3D5P88QcgKJsUzq_c0N0PgbQXbjyTqvFGalaBmLJqn0iQu53ynFNzxYU93d1a40j_YTZwNx76WxsJ-XRLE23LRtCQrVw0fBkUc",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

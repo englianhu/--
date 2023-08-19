@@ -1,0 +1,39 @@
+{
+  "title": "Rinoa-FF8-02.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1631724524",
+    "formatted": "2021年9月15日 UTC 16:48:44"
+  },
+  "photoTakenTime": {
+    "timestamp": "1631632536",
+    "formatted": "2021年9月14日 UTC 15:15:36"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/7e4WGkBlhveuC9ZyygcKKBucOVK0fIySYFCHotrgZAK8NohIa3wwSDgZa0MtwWpgiUU_TZfR7nl5pe9s38lO-1STZ96IISFgrFJGdyAh",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

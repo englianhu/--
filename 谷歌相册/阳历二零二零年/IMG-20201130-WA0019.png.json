@@ -1,0 +1,36 @@
+{
+  "title": "IMG-20201130-WA0019.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1606879036",
+    "formatted": "2020年12月2日 UTC 03:17:16"
+  },
+  "photoTakenTime": {
+    "timestamp": "1606725955",
+    "formatted": "2020年11月30日 UTC 08:45:55"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/eTv0YdI_cw5cQ4qXaZj0rtgq92nk9RzTd9b-5yaG8o4PkWG3MdbQJlDgyvseBmZ-dtGRWuZ3-PV9IyNAXMIEuW_Jxk52lKELH3NpEr2Y",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

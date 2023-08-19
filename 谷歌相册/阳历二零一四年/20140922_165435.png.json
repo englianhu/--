@@ -1,0 +1,33 @@
+{
+  "title": "20140922_165435.jpg",
+  "description": "",
+  "imageViews": "55",
+  "creationTime": {
+    "timestamp": "1411372526",
+    "formatted": "2014年9月22日 UTC 07:55:26"
+  },
+  "photoTakenTime": {
+    "timestamp": "1411372475",
+    "formatted": "2014年9月22日 UTC 07:54:35"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/fS8LQwTqv_SltVQNAVnJJVmSmuy0CvZfDxzpflIM52NqIA7Ex-3cVgFqUMRuMDh-mjN9mKnOoKMjTOXhpPaZbrfMWB15vN7hSzr09x0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

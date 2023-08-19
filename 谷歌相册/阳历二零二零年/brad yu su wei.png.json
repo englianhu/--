@@ -1,0 +1,36 @@
+{
+  "title": "brad yu su wei.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1600524516",
+    "formatted": "2020年9月19日 UTC 14:08:36"
+  },
+  "photoTakenTime": {
+    "timestamp": "1600481593",
+    "formatted": "2020年9月19日 UTC 02:13:13"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/qQZLEIveOrnD4ablKwkRntFQ8_afuxVSm6OPkRq3q1g37ZTkP2qodkdgbW-hGfeM01EeNJRJ8L06993fs9jIoM-SQ7zc5rnbArz8RY2K",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

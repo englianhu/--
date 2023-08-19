@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20200919_021447_683.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1600449308",
+    "formatted": "2020年9月18日 UTC 17:15:08"
+  },
+  "photoTakenTime": {
+    "timestamp": "1600449289",
+    "formatted": "2020年9月18日 UTC 17:14:49"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/b3POtzvJ4KnOnL9pGBmuT3b0ThnDxwWpaaWHjeoXyj8xHzK96Yq8HbcxjgtAriXeqNvBy46kroKFqX3SNaaipnDlpaQMynv_rIFMd267",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

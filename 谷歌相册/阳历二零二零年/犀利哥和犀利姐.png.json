@@ -1,0 +1,39 @@
+{
+  "title": "犀利哥和犀利姐.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1599921847",
+    "formatted": "2020年9月12日 UTC 14:44:07"
+  },
+  "photoTakenTime": {
+    "timestamp": "1599921682",
+    "formatted": "2020年9月12日 UTC 14:41:22"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/p1oSnAKHbVC3qVcuEUgsNow2J2ogTIeiyg9qSqHYEmW6U_QnYoXqGlDB9L5x-IcIqOuil7CFkc_nTY71Msmk0xyHoHj3N_iMTf1HKM_D",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

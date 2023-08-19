@@ -1,0 +1,39 @@
+{
+  "title": "U-Mobile 江家孙女若琳.jpeg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1635259140",
+    "formatted": "2021年10月26日 UTC 14:39:00"
+  },
+  "photoTakenTime": {
+    "timestamp": "1635251720",
+    "formatted": "2021年10月26日 UTC 12:35:20"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/Md0yhUSue6oONYRzRDDKyTvVSWCKRjjk5IGn3EyF-Bcp9C1AOPas6arD9tudUAnTjpWcbY28YG22yeDuPmd-E2v_179105eEkyJvfY7C",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

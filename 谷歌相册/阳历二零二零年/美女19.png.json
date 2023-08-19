@@ -1,0 +1,36 @@
+{
+  "title": "美女19.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1605942179",
+    "formatted": "2020年11月21日 UTC 07:02:59"
+  },
+  "photoTakenTime": {
+    "timestamp": "1588404935",
+    "formatted": "2020年5月2日 UTC 07:35:35"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Qh3wGUzDfY5maqZ3xdE-UjiGUWFyPREjdJ4v0dWUADKG3nSiv7vjW5gMM3rvqYrs_Ok8Lp3XAHwwoPzlFTjCnK9CEsprAQx5i_0RAuA5",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

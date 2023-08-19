@@ -1,0 +1,36 @@
+{
+  "title": "hqdefault.jpg",
+  "description": "",
+  "imageViews": "31",
+  "creationTime": {
+    "timestamp": "1460021808",
+    "formatted": "2016年4月7日 UTC 09:36:48"
+  },
+  "photoTakenTime": {
+    "timestamp": "1460021776",
+    "formatted": "2016年4月7日 UTC 09:36:16"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/tTWbXIdO2JZvYSxj7p5QtECjrxa13XZcOOhFAXROrdbJ7GVyxhIWeScnMF4PUba0wHncAIvjK4BO7GTy0SDTGdX4czf5D3BuX3mUHMXn",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

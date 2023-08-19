@@ -1,0 +1,39 @@
+{
+  "title": "800x_100_w-5b026dbb0ce5b.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1608751869",
+    "formatted": "2020年12月23日 UTC 19:31:09"
+  },
+  "photoTakenTime": {
+    "timestamp": "1608728126",
+    "formatted": "2020年12月23日 UTC 12:55:26"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/cnOODQfG5a5plN6I2nptgevTvXBahtqPV_eIn3c7OGwcB-UN4mZPI5yyXUqaNcAmJES-4-KQKwnhPDvdbRXhULwWxarcgiWJQqFdrbtF",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

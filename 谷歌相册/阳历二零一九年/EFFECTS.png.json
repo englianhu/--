@@ -1,0 +1,33 @@
+{
+  "title": "EFFECTS.jpg",
+  "description": "",
+  "imageViews": "24",
+  "creationTime": {
+    "timestamp": "1574332873",
+    "formatted": "2019年11月21日 UTC 10:41:13"
+  },
+  "photoTakenTime": {
+    "timestamp": "1572758720",
+    "formatted": "2019年11月3日 UTC 05:25:20"
+  },
+  "geoData": {
+    "latitude": 3.4238006999999997,
+    "longitude": 101.7937546,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.4238006999999997,
+    "longitude": 101.7937546,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/WRePSyZX77BiDNbOLodBhixXFO6FRmkwHcd0H62Zq7md3ZbSj8kPX5sDmzNk5KoDJxtjFHbEO_sUJd8ZrmGvVtK1_Q7m4XHidWiz0glG",
+  "googlePhotosOrigin": {
+    "composition": {
+      "type": "AUTO"
+    }
+  }
+}

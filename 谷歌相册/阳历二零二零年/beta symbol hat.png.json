@@ -1,0 +1,36 @@
+{
+  "title": "beta symbol hat.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1607212394",
+    "formatted": "2020年12月5日 UTC 23:53:14"
+  },
+  "photoTakenTime": {
+    "timestamp": "1607155978",
+    "formatted": "2020年12月5日 UTC 08:12:58"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/B-TL5oyQdWB55V4P4u3xTXIyjWTEgrYBEUVSqn1zO-FBillI4suDpocKRgE7u3Q5KLdcjYatir-BJYn34AIC1XzKD4lK8eo0UBlg8usi",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

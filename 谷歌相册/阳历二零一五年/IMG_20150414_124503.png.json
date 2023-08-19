@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20150414_124503.jpg",
+  "description": "",
+  "imageViews": "49",
+  "creationTime": {
+    "timestamp": "1429013019",
+    "formatted": "2015年4月14日 UTC 12:03:39"
+  },
+  "photoTakenTime": {
+    "timestamp": "1428983104",
+    "formatted": "2015年4月14日 UTC 03:45:04"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/FCc6u9s2V_WZHcQJENz0X_MJNqAEF255G3zkYxXOi5H-ydcbgEDog9yL2W5oaF-6xGHNK922Fu43iQARG4eOZOpzHUD8E61fEzLVUts",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

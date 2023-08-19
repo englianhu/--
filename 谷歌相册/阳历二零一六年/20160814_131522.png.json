@@ -1,0 +1,39 @@
+{
+  "title": "20160814_131522.jpg",
+  "description": "",
+  "imageViews": "42",
+  "creationTime": {
+    "timestamp": "1471432487",
+    "formatted": "2016年8月17日 UTC 11:14:47"
+  },
+  "photoTakenTime": {
+    "timestamp": "1471148122",
+    "formatted": "2016年8月14日 UTC 04:15:22"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/05n6x6yPTgCivUc7ZukLnOExZAegyyoC57oG5A8L10hIzgjseChi05ujZZOBDl-JPIVlVIOmiXUktK_SjUPvaEEDKnNMKoaAkvk09CQi",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

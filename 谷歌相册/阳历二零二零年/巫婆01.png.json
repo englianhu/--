@@ -1,0 +1,36 @@
+{
+  "title": "巫婆01.jpeg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1664443782",
+    "formatted": "2022年9月29日 UTC 09:29:42"
+  },
+  "photoTakenTime": {
+    "timestamp": "1661672231",
+    "formatted": "2022年8月28日 UTC 07:37:11"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Frl3RasMCzkMlrE2oIrb7_VXAGPwIPkvExVhBd2jazm7z9MP3B2dOIh-J46UWkeCNm4ugvdX1Zkuv1iHWqd0V3VJGHYJHhx7W5dH9FeE",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

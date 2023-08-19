@@ -1,0 +1,34 @@
+{
+  "title": "IMG_20200910_200409.jpg",
+  "description": "",
+  "imageViews": "15",
+  "creationTime": {
+    "timestamp": "1599749289",
+    "formatted": "2020年9月10日 UTC 14:48:09"
+  },
+  "photoTakenTime": {
+    "timestamp": "1599735848",
+    "formatted": "2020年9月10日 UTC 11:04:08"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/m7a-A50dDzKJutw8FsKUnMsz2vuQF14kMFwBPxLtTk6tL16LgB1HsqKAu5570TpahioL26PGocpzhHIM1ls0nH85RDugEvMggYUg6bm6",
+  "googlePhotosOrigin": {
+    "webUpload": {
+      "computerUpload": {
+      }
+    }
+  }
+}

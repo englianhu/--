@@ -1,0 +1,34 @@
+{
+  "title": "Ibis 酒店.jpg",
+  "description": "",
+  "imageViews": "10",
+  "creationTime": {
+    "timestamp": "1599749848",
+    "formatted": "2020年9月10日 UTC 14:57:28"
+  },
+  "photoTakenTime": {
+    "timestamp": "1598925203",
+    "formatted": "2020年9月1日 UTC 01:53:23"
+  },
+  "geoData": {
+    "latitude": 3.223016,
+    "longitude": 101.584464,
+    "altitude": 30.565,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.223016,
+    "longitude": 101.584464,
+    "altitude": 30.565,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/n__nfzACHZKCLo2uvl3Lh2_ksNMGW1XZkAHyfaAnNvx03Ti9e7PMZDhGZ6NHN7Ez5OW5F_Q7WwOeFOyA5kYFe4nPaJiEooKvYXsiJdrF",
+  "googlePhotosOrigin": {
+    "webUpload": {
+      "computerUpload": {
+      }
+    }
+  }
+}

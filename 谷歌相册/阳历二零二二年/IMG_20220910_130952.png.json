@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20220910_130952.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1685972841",
+    "formatted": "2023年6月5日 UTC 13:47:21"
+  },
+  "photoTakenTime": {
+    "timestamp": "1662786593",
+    "formatted": "2022年9月10日 UTC 05:09:53"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/_PyJiEEJIi6dOGrzH0KZXIaBvRIn6ltlN0_196rcE3TlmGFdjcfPM5Ysm89avTEYKLFwhLs7U5xm5mJame0SXIgEFBlLDZ_zN7ftG4Xo",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

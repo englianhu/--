@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20200831_225843.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1599615199",
+    "formatted": "2020年9月9日 UTC 01:33:19"
+  },
+  "photoTakenTime": {
+    "timestamp": "1599478271",
+    "formatted": "2020年9月7日 UTC 11:31:11"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/wlfRx3lI62NcfuEna7Imx0_Z0gJYGuTUsGN6zrK48RQnmNbUl7T3ePkwnAJXVl4cv-94G309NDtLtSOLwn-gKEunuRD0lsLR6mNKDY2T",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

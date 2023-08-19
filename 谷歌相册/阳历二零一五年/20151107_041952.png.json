@@ -1,0 +1,36 @@
+{
+  "title": "20151107_041952.jpg",
+  "description": "",
+  "imageViews": "30",
+  "creationTime": {
+    "timestamp": "1446843472",
+    "formatted": "2015年11月6日 UTC 20:57:52"
+  },
+  "photoTakenTime": {
+    "timestamp": "1446837592",
+    "formatted": "2015年11月6日 UTC 19:19:52"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/hst6suhrmg06TU075BvQBXyNyQ5VMBjBAMV9DwUgG8Pf8qcKs6ABsaxYoE4leZrwUivrvENDBjqPBzyLTDix96C5_8EGpD_aOAzjBLU",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

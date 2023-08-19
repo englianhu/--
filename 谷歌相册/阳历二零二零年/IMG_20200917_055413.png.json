@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20200917_055413.jpg",
+  "description": "",
+  "imageViews": "13",
+  "creationTime": {
+    "timestamp": "1600289660",
+    "formatted": "2020年9月16日 UTC 20:54:20"
+  },
+  "photoTakenTime": {
+    "timestamp": "1600289634",
+    "formatted": "2020年9月16日 UTC 20:53:54"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/C4LQb_Yf4RMPeG1wGSDwSC0gbh5_KiQE45BjZflT8D0FvU-YV3O-KJEO2696WLUt6B5iNw0VrW-Jc9WeBsblwAP7DcSzWTjpct7omdye",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

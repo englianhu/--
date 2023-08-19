@@ -1,0 +1,36 @@
+{
+  "title": "幽灵.jpg",
+  "description": "",
+  "imageViews": "15",
+  "creationTime": {
+    "timestamp": "1650617437",
+    "formatted": "2022年4月22日 UTC 08:50:37"
+  },
+  "photoTakenTime": {
+    "timestamp": "1650604749",
+    "formatted": "2022年4月22日 UTC 05:19:09"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/fPtc3WSnt0DOXLasFcdPFlhXqGchBLZaKWFvaCwwwJSc8Ghs0PlzEGtcNlJJrUh9Op5S4FoZxI5LR8ihKEgV9X0IoxV9hoKU_L1Sc7Y4",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

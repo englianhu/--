@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20210726_160348.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1627302558",
+    "formatted": "2021年7月26日 UTC 12:29:18"
+  },
+  "photoTakenTime": {
+    "timestamp": "1627283008",
+    "formatted": "2021年7月26日 UTC 07:03:28"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/-ccBi2i6Pi1S-UuJrhgdTS4fu9JN0sITwtu1YMgjwKQnFHe14pXP67FBcAX9c_JEChoqspdayS2sNpsPSNMktkLMXFlNjLx_tLEbSIkZ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

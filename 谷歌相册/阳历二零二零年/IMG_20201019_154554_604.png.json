@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20201019_154554_604.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1603096716",
+    "formatted": "2020年10月19日 UTC 08:38:36"
+  },
+  "photoTakenTime": {
+    "timestamp": "1603089956",
+    "formatted": "2020年10月19日 UTC 06:45:56"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/gfjh_vJoZV-2E4J9AKNVQk1sn_iSi_O_iOLAb_FKtFUx9x8gUGC4T4rHGXW2ihFWzI89PbY2PS3doxHKoqnZOdVFdDeucx4gQ9-jOFbk",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

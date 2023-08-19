@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20150426_170302.jpg",
+  "description": "",
+  "imageViews": "52",
+  "creationTime": {
+    "timestamp": "1430051957",
+    "formatted": "2015年4月26日 UTC 12:39:17"
+  },
+  "photoTakenTime": {
+    "timestamp": "1430035383",
+    "formatted": "2015年4月26日 UTC 08:03:03"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/BrpPIplX_T-PAtf-62zekg0GWVpnlDQPG7UqLHtJAXSUrUuP5xQfFe8YbtV0Z_A95mjnVftSzI89JP9-gOWtuRxztZZOEY2PgQZUkxM",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

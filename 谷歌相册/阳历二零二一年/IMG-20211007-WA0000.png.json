@@ -1,0 +1,39 @@
+{
+  "title": "IMG-20211007-WA0000.jpeg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1633601165",
+    "formatted": "2021年10月7日 UTC 10:06:05"
+  },
+  "photoTakenTime": {
+    "timestamp": "1633595184",
+    "formatted": "2021年10月7日 UTC 08:26:24"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/-azHgnr-U33mvB7E3GDXz7O_gJNIbQzouIX_ZaTH1Yl28hvquJ3AmaEx2_vG3MM_h0FX7fg9LzEXBKtEgYt5_o6SEehGi1PGK77njqa0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WhatsApp Business Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

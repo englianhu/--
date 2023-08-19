@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20210226_111554.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1614323334",
+    "formatted": "2021年2月26日 UTC 07:08:54"
+  },
+  "photoTakenTime": {
+    "timestamp": "1614305754",
+    "formatted": "2021年2月26日 UTC 02:15:54"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/KoWtegxD1WyQGGztTMGZpCLCrnBmTPTZhlfTdBSun0ck8YYMGplRLulYTU97aLs7c7vy4xfQkmn60OXqC0Jq5DSV_zcAFqd0YAGVsNqe",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Twitter"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

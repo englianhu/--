@@ -1,0 +1,34 @@
+{
+  "title": "IMG_20200814_081740.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1599749864",
+    "formatted": "2020年9月10日 UTC 14:57:44"
+  },
+  "photoTakenTime": {
+    "timestamp": "1597357906",
+    "formatted": "2020年8月13日 UTC 22:31:46"
+  },
+  "geoData": {
+    "latitude": 14.507006,
+    "longitude": 121.00379799999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 14.507006,
+    "longitude": 121.00379799999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/dJSbaNfr2zgE0GgcUL8qY_IZfutK4qyBChNa_MJTTSKqayFL2NAVCSZkjDlumKbeB4AZy_TpBqke3_QEZ26DB6mGddg53LyanF1OMqEp",
+  "googlePhotosOrigin": {
+    "webUpload": {
+      "computerUpload": {
+      }
+    }
+  }
+}

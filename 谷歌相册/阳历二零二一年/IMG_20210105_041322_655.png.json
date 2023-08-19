@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20210105_041322_655.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1609826244",
+    "formatted": "2021年1月5日 UTC 05:57:24"
+  },
+  "photoTakenTime": {
+    "timestamp": "1609787604",
+    "formatted": "2021年1月4日 UTC 19:13:24"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/q5ju5wCHLfe12FdQSqvqpxdkRrM5y2o8uhuGeFSwXToSte7OpdIoTYq7TFmHVlEa4qsbNltgm-yyAeOem4xPVdrbWVTeUAv50DzwbPHx",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

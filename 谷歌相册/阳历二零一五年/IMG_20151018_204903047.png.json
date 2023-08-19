@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20151018_204903047.jpg",
+  "description": "",
+  "imageViews": "23",
+  "creationTime": {
+    "timestamp": "1445168949",
+    "formatted": "2015年10月18日 UTC 11:49:09"
+  },
+  "photoTakenTime": {
+    "timestamp": "1445168942",
+    "formatted": "2015年10月18日 UTC 11:49:02"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/3CHYHz-9bzvNH5iNmQmfsxkk00jy5EFrpdmjycfeax8Uo4o4WrqXihUYk-QCMTnvuBAjYK02w1CxYm4YMBtV2sTMwNvmbmH5lkEKrXg",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

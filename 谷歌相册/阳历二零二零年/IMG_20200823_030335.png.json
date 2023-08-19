@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20200823_030335.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1599615102",
+    "formatted": "2020年9月9日 UTC 01:31:42"
+  },
+  "photoTakenTime": {
+    "timestamp": "1598119418",
+    "formatted": "2020年8月22日 UTC 18:03:38"
+  },
+  "geoData": {
+    "latitude": 3.162989,
+    "longitude": 101.714641,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.162989,
+    "longitude": 101.714641,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/g42P1V6ZRj5SDzdIyc-UPL_ZjeclvRasARVuGHuqFJdCB3bQKrj4I_t4yU-CfdOYWUUGAA-QsAR6G7aOCChWmYzpQpcQ0_86siZOqHqc",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

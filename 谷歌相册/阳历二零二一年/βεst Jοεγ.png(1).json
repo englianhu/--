@@ -1,0 +1,39 @@
+{
+  "title": "βεst Jοεγ.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1633072241",
+    "formatted": "2021年10月1日 UTC 07:10:41"
+  },
+  "photoTakenTime": {
+    "timestamp": "1629082689",
+    "formatted": "2021年8月16日 UTC 02:58:09"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/SyboJuyxzgfghpzh0K2FQXGWzmPA8qwziz--tsWMJa5ARGTMY7lrE4NWO17D__54FNRrwYQS1m8cr9EN04LmC97rTwZjojQwtWUPkE8j",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "20131215_155233.jpg",
+  "description": "",
+  "imageViews": "21",
+  "creationTime": {
+    "timestamp": "1521449932",
+    "formatted": "2018年3月19日 UTC 08:58:52"
+  },
+  "photoTakenTime": {
+    "timestamp": "1387093952",
+    "formatted": "2013年12月15日 UTC 07:52:32"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/4QXOzf917EMMT3lhmd0D22XecYUgAPMCzY73yIk22yM2BkBIVvEQdq6Rkk6jBVgl_K9aL90_grcy20hJNjhyS7XDwoIdzoP-VvjEBsKD",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

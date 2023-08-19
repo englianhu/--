@@ -1,0 +1,39 @@
+{
+  "title": "quantitative_trader.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1688605312",
+    "formatted": "2023年7月6日 UTC 01:01:52"
+  },
+  "photoTakenTime": {
+    "timestamp": "1607673073",
+    "formatted": "2020年12月11日 UTC 07:51:13"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/UJsqaOtCkl86WjgkzWymtnCVcH_B12JKGr9lgaQGDSoK6_U9ndoOiEi5yZfgrOD9c0849x6HXvjPyhcC16PORD1krTgOAm8ytKSXmh8N",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

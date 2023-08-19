@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20160406_115039060.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1603734091",
+    "formatted": "2020年10月26日 UTC 17:41:31"
+  },
+  "photoTakenTime": {
+    "timestamp": "1459911039",
+    "formatted": "2016年4月6日 UTC 02:50:39"
+  },
+  "geoData": {
+    "latitude": 5.6427778,
+    "longitude": 100.49,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 5.6427778,
+    "longitude": 100.49,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/47rsYmXiBtNchcPBmWgcOnpls677-PyRatVuBXtTSQLOE1s_zUShmtReHKPn8WylWDr_ZohS66UKq0YDTC6AZ74nBOB5T2z65fO7DNMo",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

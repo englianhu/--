@@ -1,0 +1,36 @@
+{
+  "title": "回眸一笑步生花.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1688605353",
+    "formatted": "2023年7月6日 UTC 01:02:33"
+  },
+  "photoTakenTime": {
+    "timestamp": "1631711950",
+    "formatted": "2021年9月15日 UTC 13:19:10"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/-884z30408h2QC61KW5is3p13U6o7wggrEp6q5HyBhEq3P6MnaAoXTJwKZJMTw2c1WGgE-TyF3mk27WM9XDClTH7DDoiCMoiLamNc6v0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20200817_210713.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1599615080",
+    "formatted": "2020年9月9日 UTC 01:31:20"
+  },
+  "photoTakenTime": {
+    "timestamp": "1597666033",
+    "formatted": "2020年8月17日 UTC 12:07:13"
+  },
+  "geoData": {
+    "latitude": 14.507039,
+    "longitude": 121.00374799999999,
+    "altitude": 24.901,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 14.507039,
+    "longitude": 121.00374799999999,
+    "altitude": 24.901,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/EZx6LRllX4iSU3xV0xtHiiKM0hI6M3mGn56zcHJyNYHQVtw_zFuVHEkLF2fOjGzLayocsPNiF1QC2xtCaUJ83RkQvu_Q3bv_toXyqPdf",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG-20160211-WA0006.jpg",
+  "description": "",
+  "imageViews": "29",
+  "creationTime": {
+    "timestamp": "1455168228",
+    "formatted": "2016年2月11日 UTC 05:23:48"
+  },
+  "photoTakenTime": {
+    "timestamp": "1455168156",
+    "formatted": "2016年2月11日 UTC 05:22:36"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/C3DHvdt5A8-24UQ3IjxkBCIn9DH2WeCtu62InrH8FUyB86_kbdjiLOXsAGjA6iv0Efam-h3kEM2iBzPlYx36XOHljjM6CYE3PS6KyGWf",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WhatsApp Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

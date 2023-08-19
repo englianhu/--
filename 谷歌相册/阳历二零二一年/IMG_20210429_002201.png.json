@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20210429_002201.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1626589286",
+    "formatted": "2021年7月18日 UTC 06:21:26"
+  },
+  "photoTakenTime": {
+    "timestamp": "1619623277",
+    "formatted": "2021年4月28日 UTC 15:21:17"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/JqwvLmQyEJ786zUhFfBcKwwuqZyZQBORIGFAu0n2oiNphz6769NVvE6CQrUvqEGrMb5A1MATN8Mcq4YxzFAgR00V4vbXbBZnVugU923U",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

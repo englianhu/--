@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20210421_172723_655.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1626589187",
+    "formatted": "2021年7月18日 UTC 06:19:47"
+  },
+  "photoTakenTime": {
+    "timestamp": "1618993645",
+    "formatted": "2021年4月21日 UTC 08:27:25"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/NQHKbNi2DZS6IySf7ujbPUVv8JVUBjDIuy5HcY20Su7rTbS2e7rM2t3doEnDcFwEDJwLD21X6zwKkvIOnzz59Jdpu8OhXuzYFrE_KN0q",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

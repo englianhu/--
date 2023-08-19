@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20201019_154249_444.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1603096712",
+    "formatted": "2020年10月19日 UTC 08:38:32"
+  },
+  "photoTakenTime": {
+    "timestamp": "1603089771",
+    "formatted": "2020年10月19日 UTC 06:42:51"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/u2cKOrFFrSbHHpSFp2FRcsrk1UA2RB1bd7LoN8kxm7zzLKTK2UJ70zqy7dmSVdb4hx4upy9hiQsiwn80t5UKhAwO9s92HXf0iFbuTyCp",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

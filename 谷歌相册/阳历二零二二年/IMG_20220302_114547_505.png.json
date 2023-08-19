@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20220302_114547_505.jpg",
+  "description": "",
+  "imageViews": "10",
+  "creationTime": {
+    "timestamp": "1646434577",
+    "formatted": "2022年3月4日 UTC 22:56:17"
+  },
+  "photoTakenTime": {
+    "timestamp": "1646189147",
+    "formatted": "2022年3月2日 UTC 02:45:47"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/MqPPlJRJQZb2JzpuUnm90DdUdn-FxJj4222tu-C9E6Y0qTF1eBBAYkll7339S0or5FLCWvUkfT4e3rTomKY4PEm0YqYD3otA2SNh1klY",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

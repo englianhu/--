@@ -1,0 +1,36 @@
+{
+  "title": "20160917_140144.jpg",
+  "description": "",
+  "imageViews": "36",
+  "creationTime": {
+    "timestamp": "1474088554",
+    "formatted": "2016年9月17日 UTC 05:02:34"
+  },
+  "photoTakenTime": {
+    "timestamp": "1474088504",
+    "formatted": "2016年9月17日 UTC 05:01:44"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/NxPn1nFGXaPD2HE9phYu7mc9Dh11WbA_Igy0_moBi36gsecm5ifF1CqgaSuxtVS5U6TTieQjUa4LeQTsydV0b4ynb7pxHCLn_PQpAE9C",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

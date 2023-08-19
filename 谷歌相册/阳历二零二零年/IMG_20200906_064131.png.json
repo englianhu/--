@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20200906_064131.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1599615202",
+    "formatted": "2020年9月9日 UTC 01:33:22"
+  },
+  "photoTakenTime": {
+    "timestamp": "1599478272",
+    "formatted": "2020年9月7日 UTC 11:31:12"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/PG1s4OBKm6tLGfma9eDHy59NH33TbOnsvuUZkPJz--aU--3lfRt5ni5SHjq7Zsz5XF5YYhXIRjX3unx7NZ40_dLX8atKzxGHHxPxU9bE",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "PicsArt_10-01-11.15.52.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1633067979",
+    "formatted": "2021年10月1日 UTC 05:59:39"
+  },
+  "photoTakenTime": {
+    "timestamp": "1633058152",
+    "formatted": "2021年10月1日 UTC 03:15:52"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/2HuXeafShUjyYwehKFZdWY3cFy9SSKo8EQrBF30KZ39M__pfciCNRuANFy-olvhdowXzf3AfzQrILSBaXYXZuCUnvw6c94vkCyi1urlC",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "PicsArt"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

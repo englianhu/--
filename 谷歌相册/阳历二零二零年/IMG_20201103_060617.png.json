@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20201103_060617.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1604351187",
+    "formatted": "2020年11月2日 UTC 21:06:27"
+  },
+  "photoTakenTime": {
+    "timestamp": "1603960287",
+    "formatted": "2020年10月29日 UTC 08:31:27"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/Z5rcX6-9zbtyUTjwOhIzFiSPxpPE3ylX-cdJJPZVG2MKslh_tqsN6-7qva-XdTl9p9johbhssTdXbbVio8FxnIC-h_ucPeQitaazw-U6",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

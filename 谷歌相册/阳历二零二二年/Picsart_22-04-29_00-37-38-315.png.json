@@ -1,0 +1,39 @@
+{
+  "title": "Picsart_22-04-29_00-37-38-315.jpg",
+  "description": "",
+  "imageViews": "13",
+  "creationTime": {
+    "timestamp": "1651169054",
+    "formatted": "2022年4月28日 UTC 18:04:14"
+  },
+  "photoTakenTime": {
+    "timestamp": "1651163858",
+    "formatted": "2022年4月28日 UTC 16:37:38"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/DRgQYGIGFq6H5m-bAYSRuHqJfZPi5198fHfgMv84_Ptmf41-2D8yWso9pgiX3st-lBlhpulr0dyCpt1wMC1QseDYF1MM_rcl1N1dFgMY",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

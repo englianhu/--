@@ -1,0 +1,36 @@
+{
+  "title": "IMG-20230706-WA0007.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1688637254",
+    "formatted": "2023年7月6日 UTC 09:54:14"
+  },
+  "photoTakenTime": {
+    "timestamp": "1688629700",
+    "formatted": "2023年7月6日 UTC 07:48:20"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/dBPR1RwB7Va2NXH8ADvqJq7ht05MwE9qFbe9ws-CKiULAZbkpJF9lbkuVGWeqXtUudiB47y3EvO0Y5IAsIwMXJxNPtwyd6CLT_Ithosk",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WhatsApp Business Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20210813_153228.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1630667236",
+    "formatted": "2021年9月3日 UTC 11:07:16"
+  },
+  "photoTakenTime": {
+    "timestamp": "1628839949",
+    "formatted": "2021年8月13日 UTC 07:32:29"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/pPSi7rdN1Ua6-rerghKhVLGI9kJQXjj8LDOgVdio_wW_pLgMIGMh4WaXYzd2btFVyrQrnvR8ChTNaojc26-G-PW3T_SsVvo0zv_HHzhM",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

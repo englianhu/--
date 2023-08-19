@@ -1,0 +1,36 @@
+{
+  "title": "Screenshot_2021-11-12-11-13-35-63.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1636693404",
+    "formatted": "2021年11月12日 UTC 05:03:24"
+  },
+  "photoTakenTime": {
+    "timestamp": "1636683215",
+    "formatted": "2021年11月12日 UTC 02:13:35"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Fd1ilhFlNSgKefdOk9lrimPDOsclbLq7eAT8Yby050C50GMoXYJvfjJAd-CWyuRZEnYk4XWp4IWxGnO97ByQr5FMK_YmTtFM9rNP2oG4",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Not Enough Time To Do Everything 2.jpg",
+  "description": "",
+  "imageViews": "14",
+  "creationTime": {
+    "timestamp": "1472268212",
+    "formatted": "2016年8月27日 UTC 03:23:32"
+  },
+  "photoTakenTime": {
+    "timestamp": "1444582674",
+    "formatted": "2015年10月11日 UTC 16:57:54"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/YJz9ACrB2rvN-ZmWHlycnp4PK2xCznytXldRWg6OaKbXL8xV6MTKSeF7qvIhbnwrCM2MPIIC1KIAet2R3A0aqY1W9p1By2oM1f_4BpqI",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

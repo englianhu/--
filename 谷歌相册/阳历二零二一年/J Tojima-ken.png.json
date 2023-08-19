@@ -1,0 +1,36 @@
+{
+  "title": "J Tojima-ken.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1626588886",
+    "formatted": "2021年7月18日 UTC 06:14:46"
+  },
+  "photoTakenTime": {
+    "timestamp": "1618725008",
+    "formatted": "2021年4月18日 UTC 05:50:08"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Rt512jsAi4DMzHd-zbZYqKDKaS5c8iflPTpDtSkt0xr9QF0iTTpME3AYEoZL02w3OIN5xQP_TGxtKldQ6wC8CgTdpbJsQaVMcWfupZ4B",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

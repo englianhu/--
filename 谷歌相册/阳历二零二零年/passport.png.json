@@ -1,0 +1,39 @@
+{
+  "title": "passport.jpg",
+  "description": "",
+  "imageViews": "10",
+  "creationTime": {
+    "timestamp": "1600898633",
+    "formatted": "2020年9月23日 UTC 22:03:53"
+  },
+  "photoTakenTime": {
+    "timestamp": "1600681520",
+    "formatted": "2020年9月21日 UTC 09:45:20"
+  },
+  "geoData": {
+    "latitude": 3.0080556000000005,
+    "longitude": 101.6605556,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.0080556000000005,
+    "longitude": 101.6605556,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/78eI2UFSO3_AdNTw2LBlvchEBcmDZHQ-7-1xLsI0e2GDGWlQEF9GXHIKcmarWmH7nPhup-4y5BY0b-EdYScZEuKmAXEZ-9lMA4aUSa_W",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

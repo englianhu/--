@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20210330_035337.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1617078528",
+    "formatted": "2021年3月30日 UTC 04:28:48"
+  },
+  "photoTakenTime": {
+    "timestamp": "1617043848",
+    "formatted": "2021年3月29日 UTC 18:50:48"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/yybj3h27ycJa978Qrcq547H4QsLq4gi3cFfaxmfmbmYx7a0ytMgvNiC8LpWXiGRn9wPR3Q4zVJ_ai8PIE-niYP8sXp2u26r5_J4NfrGj",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

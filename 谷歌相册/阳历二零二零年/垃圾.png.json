@@ -1,0 +1,36 @@
+{
+  "title": "垃圾.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1603884863",
+    "formatted": "2020年10月28日 UTC 11:34:23"
+  },
+  "photoTakenTime": {
+    "timestamp": "1603829398",
+    "formatted": "2020年10月27日 UTC 20:09:58"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/RPugJc-2WvNaafkSMsoKsKjTd0rcX-t3JW6yDv791t_y63sGyNiTMfOLhC30zBvyKmyFUzE0pEYyhrKhMQ8P-qgGzm_pXDTtPpY5xb7-",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

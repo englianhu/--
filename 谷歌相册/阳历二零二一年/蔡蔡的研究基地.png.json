@@ -1,0 +1,39 @@
+{
+  "title": "蔡蔡的研究基地.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1631195010",
+    "formatted": "2021年9月9日 UTC 13:43:30"
+  },
+  "photoTakenTime": {
+    "timestamp": "1631189798",
+    "formatted": "2021年9月9日 UTC 12:16:38"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/EVB7aDj2c0uIWbOOYPI7sobxxPrcoTifps7Z2MrVrH0zdD4jFhXOAx4_KACwY4mgmds0FAAWR-iBsGce7H6D-ZoETAHsfY98yyI_6COc",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

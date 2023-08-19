@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20210724_201343.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1636216622",
+    "formatted": "2021年11月6日 UTC 16:37:02"
+  },
+  "photoTakenTime": {
+    "timestamp": "1627128823",
+    "formatted": "2021年7月24日 UTC 12:13:43"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/JRe_Ubnyh6dwo6ACk0quw8TjvkJcmGMIiBq6OYqU01NnIT0vY1lmYNb1-ieZ3U9jCl90EtQNvtxL_WIK0sEqSb8Se9zI9J6de72KeQmp",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

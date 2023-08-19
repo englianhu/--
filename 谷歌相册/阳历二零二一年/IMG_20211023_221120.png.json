@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20211023_221120.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1635005212",
+    "formatted": "2021年10月23日 UTC 16:06:52"
+  },
+  "photoTakenTime": {
+    "timestamp": "1634998284",
+    "formatted": "2021年10月23日 UTC 14:11:24"
+  },
+  "geoData": {
+    "latitude": 3.009042,
+    "longitude": 101.661889,
+    "altitude": 56.326,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.009042,
+    "longitude": 101.661889,
+    "altitude": 56.326,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/OXkgpi2gYunnCHG6PncYxoxsn3AJIlST1eLTroCyqEZlNx-M1xFnLCTHLM5zj1qqgyBNDKxd_faaK4L0SMrTxgnn2f4WdAs6YW9JIX5J",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

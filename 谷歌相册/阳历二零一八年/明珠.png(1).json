@@ -1,0 +1,39 @@
+{
+  "title": "明珠.jpg",
+  "description": "",
+  "imageViews": "17",
+  "creationTime": {
+    "timestamp": "1526478030",
+    "formatted": "2018年5月16日 UTC 13:40:30"
+  },
+  "photoTakenTime": {
+    "timestamp": "1526481860",
+    "formatted": "2018年5月16日 UTC 14:44:20"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/2NKX46E7Rt_q511Hle2HJLA70MUWgZOfpOi-LWB2BUojjDLUtwdn5o7g1_f2SSh8zTgpfG5RXsv0j2jtMgH7qBlME1f9Hk4wX4ghaSdS",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

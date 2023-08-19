@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20220922_222541_718.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1664443920",
+    "formatted": "2022年9月29日 UTC 09:32:00"
+  },
+  "photoTakenTime": {
+    "timestamp": "1663856741",
+    "formatted": "2022年9月22日 UTC 14:25:41"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/ObiNNbmAqEGYKdmrCRcde6HPS5pLWJw-keixVcXlxtEYdnPYR57nxE5W4QuwMZRJ9RCIgpeuoTptTpWH6Z--PuY9pqypIYWIMZIzNMzF",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

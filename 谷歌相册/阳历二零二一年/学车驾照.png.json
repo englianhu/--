@@ -1,0 +1,36 @@
+{
+  "title": "学车驾照.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1631195002",
+    "formatted": "2021年9月9日 UTC 13:43:22"
+  },
+  "photoTakenTime": {
+    "timestamp": "1631189758",
+    "formatted": "2021年9月9日 UTC 12:15:58"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/VsQz9SCDR0UOQaYY39M2r23LszCVeoUPQaJ057I7Dk04zy6-bSSSIRCyMlJfGz0t2eqPiuyTFDQCMkyRueGEcY-rYA6e5-_7QGXuncIM",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

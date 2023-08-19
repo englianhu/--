@@ -1,0 +1,39 @@
+{
+  "title": "wx_camera_1532085608914.jpg",
+  "description": "",
+  "imageViews": "12",
+  "creationTime": {
+    "timestamp": "1532085640",
+    "formatted": "2018年7月20日 UTC 11:20:40"
+  },
+  "photoTakenTime": {
+    "timestamp": "1532085608",
+    "formatted": "2018年7月20日 UTC 11:20:08"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/fXtpXqMlpfDMMXvf49doivpxEAh332_ZlMzDQoPKP2ja1CjVgcmtCJNqfRTel30uHKbcZGOzLClwBKcVxTXdr_FPIVvIC_Hu7TlS9q3K",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WeChat"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

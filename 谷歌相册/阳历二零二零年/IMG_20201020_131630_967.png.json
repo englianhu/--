@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20201020_131630_967.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1603168895",
+    "formatted": "2020年10月20日 UTC 04:41:35"
+  },
+  "photoTakenTime": {
+    "timestamp": "1603167392",
+    "formatted": "2020年10月20日 UTC 04:16:32"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/X3szPwvL28g82nPjnCzI79vCofwtm8uBs7_KFxgZ4G4YGsK6HD8H-jvlfBT7pKvYhkG1luSFjmMcMmwxmHiXjIqpfRX3QD_7YOL6vDlk",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

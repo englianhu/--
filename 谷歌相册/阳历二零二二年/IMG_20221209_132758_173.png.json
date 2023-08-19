@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20221209_132758_173.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1670566578",
+    "formatted": "2022年12月9日 UTC 06:16:18"
+  },
+  "photoTakenTime": {
+    "timestamp": "1670563679",
+    "formatted": "2022年12月9日 UTC 05:27:59"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Uz0beTYMMw1jrAmNJS2zcB5xjevTePfjwgrREjg4MmtIy1bZBTeRmV1fT9v3WlTY_eOdaxDDB0fbSdNtV3hCrF2oBdAe0xyKs7kCzaR7",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

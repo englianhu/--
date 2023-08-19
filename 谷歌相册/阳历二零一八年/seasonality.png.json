@@ -1,0 +1,33 @@
+{
+  "title": "seasonality.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1600172665",
+    "formatted": "2020年9月15日 UTC 12:24:25"
+  },
+  "photoTakenTime": {
+    "timestamp": "1538697384",
+    "formatted": "2018年10月4日 UTC 23:56:24"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/B42Y4h7_ULQtrf8LwK45RYalUgfknbNDcLyXNRfaKPprLbLfyMCJVJ_pzI5ibck2xE2Hjq4l99LgLPSzPxMNpK2FHd5qJrpQnLl0CUxb",
+  "googlePhotosOrigin": {
+    "driveDesktopUploader": {
+      "version": "BACKUP_AND_SYNC"
+    }
+  }
+}

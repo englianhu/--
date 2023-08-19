@@ -1,0 +1,39 @@
+{
+  "title": "修 驾照证套1（反）.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1633678743",
+    "formatted": "2021年10月8日 UTC 07:39:03"
+  },
+  "photoTakenTime": {
+    "timestamp": "1633680871",
+    "formatted": "2021年10月8日 UTC 08:14:31"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/VpzMuZujbuY-7ewReNV30opssvFUQu9r0S98Z9bbuNEbHYn_Zu_djOCFLh5gy6couEMz5uZruY9bPDJjJWIm2ex_VqFUhXRRmAipmsBC",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

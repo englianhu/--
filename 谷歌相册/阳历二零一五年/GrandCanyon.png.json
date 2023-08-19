@@ -1,0 +1,36 @@
+{
+  "title": "GrandCanyon.jpg",
+  "description": "",
+  "imageViews": "33",
+  "creationTime": {
+    "timestamp": "1433243532",
+    "formatted": "2015年6月2日 UTC 11:12:12"
+  },
+  "photoTakenTime": {
+    "timestamp": "1433237991",
+    "formatted": "2015年6月2日 UTC 09:39:51"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/5OZy-5F4VRQeyUoQmnDOb458XvPxorl_rAszR2lV5OTvviS_OYJYS5DsECDZwoM8Ch6_YgLeu44WVG1dC4xZrKqEow81tUAeNmdTWJE",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

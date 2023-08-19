@@ -1,0 +1,39 @@
+{
+  "title": "蔡蔡双马尾.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1632358712",
+    "formatted": "2021年9月23日 UTC 00:58:32"
+  },
+  "photoTakenTime": {
+    "timestamp": "1632271964",
+    "formatted": "2021年9月22日 UTC 00:52:44"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/Kii5-fOyH-_QXU5GP33ooTNfX1VOy4j8q0nJoFx3qvGWllUA93QWgNqhBzaFF0nVj4hRye25BAt5tjZfPpFgLqCWftdeOKz_wubGeb9H",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

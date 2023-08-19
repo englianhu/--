@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20200928_175436.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1601407003",
+    "formatted": "2020年9月29日 UTC 19:16:43"
+  },
+  "photoTakenTime": {
+    "timestamp": "1601283209",
+    "formatted": "2020年9月28日 UTC 08:53:29"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Lr1CrB7dqvz_UP9qW4lgvm7qqYlfX-5BNMWDWrJtgujvcVsT-G3039xAXfe1c9UNjf5opocOf23hdNompciU1lSaaK6RTum1f-bLuh1e",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

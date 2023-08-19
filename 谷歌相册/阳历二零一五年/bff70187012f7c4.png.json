@@ -1,0 +1,39 @@
+{
+  "title": "bff70187012f7c4.jpg",
+  "description": "",
+  "imageViews": "52",
+  "creationTime": {
+    "timestamp": "1430898675",
+    "formatted": "2015年5月6日 UTC 07:51:15"
+  },
+  "photoTakenTime": {
+    "timestamp": "1430881765",
+    "formatted": "2015年5月6日 UTC 03:09:25"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/_2ckB0JHYpDrz75qkzU1xT0J_MQS5VidHPEMQFMvHRKj1t9zL1eUZvO4rwo3fXwqOxAq8KKb2hmVloEzhlWPy3h6D1VJi0yxG9IHQ1Y",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "QQi_Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

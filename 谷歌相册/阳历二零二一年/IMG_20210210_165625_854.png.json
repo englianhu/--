@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20210210_165625_854.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1612954523",
+    "formatted": "2021年2月10日 UTC 10:55:23"
+  },
+  "photoTakenTime": {
+    "timestamp": "1612943785",
+    "formatted": "2021年2月10日 UTC 07:56:25"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/30wKV-qxGBmGiIz3LQQ4zX-eou5DTS1NClIHsAHVSUw5wngEwzDSXaZNNwUnVFz6ptMgG-Vd3mzJeN-x8DkLm6TC8FUurZ2WtyGy5FgR",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

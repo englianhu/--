@@ -1,0 +1,36 @@
+{
+  "title": "20160717_175452.jpg",
+  "description": "",
+  "imageViews": "26",
+  "creationTime": {
+    "timestamp": "1468762118",
+    "formatted": "2016年7月17日 UTC 13:28:38"
+  },
+  "photoTakenTime": {
+    "timestamp": "1468745691",
+    "formatted": "2016年7月17日 UTC 08:54:51"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/7sAshLZGvEbhBGq9dRuhzfoQZYC3ODPPgnM_t_44jMo0K6QLIaHX6FRGBC85jZ-60WU2_DaCyNI-v5E1Ig2-fQ_-lJlfjcryQ-31V4UR",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

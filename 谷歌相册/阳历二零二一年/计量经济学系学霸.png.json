@@ -1,0 +1,39 @@
+{
+  "title": "计量经济学系学霸.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1626589305",
+    "formatted": "2021年7月18日 UTC 06:21:45"
+  },
+  "photoTakenTime": {
+    "timestamp": "1619682427",
+    "formatted": "2021年4月29日 UTC 07:47:07"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/gCwh9vrD0BMEmbTg6DwCmDf49n2rLabp3_6tyGjxI2k38_aOm-N5BAAXZEiXOZ6LdsiiF8EHLbUA8KH10rb6XA1vE7LOxjGZC-CpxvUm",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

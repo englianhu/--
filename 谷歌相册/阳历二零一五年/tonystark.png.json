@@ -1,0 +1,36 @@
+{
+  "title": "tonystark.jpg",
+  "description": "",
+  "imageViews": "22",
+  "creationTime": {
+    "timestamp": "1445188757",
+    "formatted": "2015年10月18日 UTC 17:19:17"
+  },
+  "photoTakenTime": {
+    "timestamp": "1445169863",
+    "formatted": "2015年10月18日 UTC 12:04:23"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/tpC53JLEOAUhwyGh-md5Sj4Y8quY9rscnS1vMfREAg6aO2h0-qC3Z4C18nCepIu-2gobVGQKBWqCpsjvzGdARykhhXClEuD_Qz3Xy-U",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

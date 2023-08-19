@@ -1,0 +1,36 @@
+{
+  "title": "IMG-20161211-WA0015.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1533962874",
+    "formatted": "2018年8月11日 UTC 04:47:54"
+  },
+  "photoTakenTime": {
+    "timestamp": "1533962275",
+    "formatted": "2018年8月11日 UTC 04:37:55"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/25huJr23P495T-YD9rvv0zPw0IAHgkWga44Bo-Ns916HaYXSMfM3QXBbEEIOT3Ws4ym-PdCsffXvNNF2lBaE-fRmRiqTJYhXgoDRpfCI",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Steve Jobs Captain Jack.jpeg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1631027943",
+    "formatted": "2021年9月7日 UTC 15:19:03"
+  },
+  "photoTakenTime": {
+    "timestamp": "1631015340",
+    "formatted": "2021年9月7日 UTC 11:49:00"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/fus07uYqK5kbCPmKFW_-9tQ7k8l0LloDe3fd7htnRrytx-e7KNjamMfBjtr_vwY3RYjpPFnFqcLNW8essD2fhoWiAEgdlrzQzId3auzG",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG20210929142825_02.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1632898819",
+    "formatted": "2021年9月29日 UTC 07:00:19"
+  },
+  "photoTakenTime": {
+    "timestamp": "1632893301",
+    "formatted": "2021年9月29日 UTC 05:28:21"
+  },
+  "geoData": {
+    "latitude": 3.5021081,
+    "longitude": 101.09640499999999,
+    "altitude": 1.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.5021081,
+    "longitude": 101.09640499999999,
+    "altitude": 1.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/BD_hnCJ21krtlp44b8YthOg2QDQEQJodLoHHjemlN2xlz2z8SrsSu_X1gHoA48V3BmU4LL80GveKpzfKViqINyoHBeAAfqIM3C_cC7F0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

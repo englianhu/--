@@ -1,0 +1,36 @@
+{
+  "title": "IMG_0779.JPG",
+  "description": "",
+  "imageViews": "43",
+  "creationTime": {
+    "timestamp": "1430055051",
+    "formatted": "2015年4月26日 UTC 13:30:51"
+  },
+  "photoTakenTime": {
+    "timestamp": "1430055047",
+    "formatted": "2015年4月26日 UTC 13:30:47"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/UJ8-lbGYPomuQNWkgMN3L5ux3PCCAidGbXno-x-AsxfixQ3IEjb4KPneqar1pOujbQl3k90JCDueh3HZUvBMLZhd5iOBJok2b5xp8jU",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

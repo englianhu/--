@@ -1,0 +1,33 @@
+{
+  "title": "20140922_170950.jpg",
+  "description": "",
+  "imageViews": "45",
+  "creationTime": {
+    "timestamp": "1411373941",
+    "formatted": "2014年9月22日 UTC 08:19:01"
+  },
+  "photoTakenTime": {
+    "timestamp": "1411373390",
+    "formatted": "2014年9月22日 UTC 08:09:50"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/zQCZqku-9H5N24CzBpJpHpkjwIudQjBtIdpGp1wfNFTMd1Ryl3aldXI4z7ij73UBgey_nEjrGk9TaW5mxYOZn68Th-ncqCtKueMCXLU",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "microMsg.1456894557410.jpg",
+  "description": "",
+  "imageViews": "22",
+  "creationTime": {
+    "timestamp": "1456901312",
+    "formatted": "2016年3月2日 UTC 06:48:32"
+  },
+  "photoTakenTime": {
+    "timestamp": "1456894715",
+    "formatted": "2016年3月2日 UTC 04:58:35"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/xhkek3xqCRUeJR-cVtSUSkmLl9hXx53UmOupkrO9HLtc11DyXZhIEmMEnF-3in2ajdt3tTBzFnDO2aUjWeZtNwhpQlpxOxlmn7llJl1H",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WeChat"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

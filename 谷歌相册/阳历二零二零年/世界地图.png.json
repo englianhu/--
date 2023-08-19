@@ -1,0 +1,36 @@
+{
+  "title": "世界地图.jpeg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1668688177",
+    "formatted": "2022年11月17日 UTC 12:29:37"
+  },
+  "photoTakenTime": {
+    "timestamp": "1666104942",
+    "formatted": "2022年10月18日 UTC 14:55:42"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/N5XGcHavdzpVPGLEZAZrJuOF2AokYRoBpm9MdkAXWiqfuoEubKa-xc6u5-CYWYsHcuVqlSJMEBCBlAk3YotsgavK_uBgUrlrLO4N0X38",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

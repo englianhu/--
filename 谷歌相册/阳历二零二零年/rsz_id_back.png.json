@@ -1,0 +1,36 @@
+{
+  "title": "rsz_id_back.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1601106295",
+    "formatted": "2020年9月26日 UTC 07:44:55"
+  },
+  "photoTakenTime": {
+    "timestamp": "1600633804",
+    "formatted": "2020年9月20日 UTC 20:30:04"
+  },
+  "geoData": {
+    "latitude": 3.0083100999999997,
+    "longitude": 101.6606216,
+    "altitude": 85.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.0083100999999997,
+    "longitude": 101.6606216,
+    "altitude": 85.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/0es8af5klpqz9A3dSS47-TgQo8T8CFWbx84FE09mQ7vzQN7FTo7grrBsK3hF1Sqz-Gxl244YJURFClnO_FTZDwcrjlxo-D2Fq3uBmvaX",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

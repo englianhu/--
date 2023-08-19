@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20220922_222541_810.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1664443930",
+    "formatted": "2022年9月29日 UTC 09:32:10"
+  },
+  "photoTakenTime": {
+    "timestamp": "1663856741",
+    "formatted": "2022年9月22日 UTC 14:25:41"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/Fu893_ThIGG87txGV5uLZQG8XcDDicRRMmEDFp1ghAxgC1rSG6ZXV2qgvI_l1z53Pg3nn0DTzRGaPYZ9QZGA6d18iAI629pVeLqeUq6I",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

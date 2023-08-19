@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20211030_230201_01.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1635645036",
+    "formatted": "2021年10月31日 UTC 01:50:36"
+  },
+  "photoTakenTime": {
+    "timestamp": "1635605923",
+    "formatted": "2021年10月30日 UTC 14:58:43"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/s6660-IEv2tNIRyQ7NkFa_0x5CKkXMN_mFK9Pc11dmomRUKYw1sHVnWS1onatkyEasX4SJ8fLTp58SXypAlJWnWK5dmyoUY7mS0i-Amy",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "rsz_1id_front.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1601106295",
+    "formatted": "2020年9月26日 UTC 07:44:55"
+  },
+  "photoTakenTime": {
+    "timestamp": "1600633792",
+    "formatted": "2020年9月20日 UTC 20:29:52"
+  },
+  "geoData": {
+    "latitude": 3.0083100999999997,
+    "longitude": 101.6606216,
+    "altitude": 85.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.0083100999999997,
+    "longitude": 101.6606216,
+    "altitude": 85.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/LfXF6bPBfB0ElDPJQm_Ay6xAiG_VerAaZN12EK0b-U_2_H1wmDIemP_jdDMGbqiA_Pcq6FOJMOWLXRimYJH30sLv_kaa0gVjlc9HMSjD",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "paris_flowers.jpg",
+  "description": "",
+  "imageViews": "20",
+  "creationTime": {
+    "timestamp": "1476699875",
+    "formatted": "2016年10月17日 UTC 10:24:35"
+  },
+  "photoTakenTime": {
+    "timestamp": "1396971511",
+    "formatted": "2014年4月8日 UTC 15:38:31"
+  },
+  "geoData": {
+    "latitude": 48.8488611,
+    "longitude": 2.3783333,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 48.8488611,
+    "longitude": 2.3783333,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/T3LnGNnI_hYZ0f8Ecd4hzxM7jZ4HiViHvim-4qmK7rQgyJAII4ZZeC8A5WT5RmwXuNj7gAgPYjmhHsxP3kUXWaM2B5266Y_SE38oxHdx",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Pictures"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

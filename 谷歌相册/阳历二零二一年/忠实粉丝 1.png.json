@@ -1,0 +1,39 @@
+{
+  "title": "忠实粉丝 1.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1636052189",
+    "formatted": "2021年11月4日 UTC 18:56:29"
+  },
+  "photoTakenTime": {
+    "timestamp": "1636049109",
+    "formatted": "2021年11月4日 UTC 18:05:09"
+  },
+  "geoData": {
+    "latitude": 3.4250000000000003,
+    "longitude": 101.24444439999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.4250000000000003,
+    "longitude": 101.24444439999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/-OcGBbk5KmET052KfFaKkB99xgLXuwrjkZNm10oGn320toyMVeNYAAsiJCuZF7LlijbtmWfxHUklyGgHAeteOUmTY2qbCRIOUb9N77Xm",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

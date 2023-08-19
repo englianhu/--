@@ -1,0 +1,36 @@
+{
+  "title": "quickpay.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1618624747",
+    "formatted": "2021年4月17日 UTC 01:59:07"
+  },
+  "photoTakenTime": {
+    "timestamp": "1617088772",
+    "formatted": "2021年3月30日 UTC 07:19:32"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/foeyMKgsxnbWWks7lqpwowopvTX7sZMDMOsuUPLqJT5z5YjZzm_MOfqvZ-JkniRDb1x4gYYpMNu15ZLXqKLu2-ro8bCEJEXjzM3BhNBe",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

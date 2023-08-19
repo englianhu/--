@@ -1,0 +1,39 @@
+{
+  "title": "Joey 胸有大痣.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1638373055",
+    "formatted": "2021年12月1日 UTC 15:37:35"
+  },
+  "photoTakenTime": {
+    "timestamp": "1638268638",
+    "formatted": "2021年11月30日 UTC 10:37:18"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/oQFtGZfon4eGt9fSwwR0BAfnm9xGmJovXMR5f9km_BTE2RcdDbzV6n23vT3Ep1jRPPouSQ-EtFB86kJsUOfHlGOpHBBFdcQFp4plnRxW",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Pictures"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20230529_193426_008.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1685864001",
+    "formatted": "2023年6月4日 UTC 07:33:21"
+  },
+  "photoTakenTime": {
+    "timestamp": "1685360066",
+    "formatted": "2023年5月29日 UTC 11:34:26"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Zr7o8P0WkgLosLNvd_MhkAGhxdoRFmfo7p6QyH5FbrOECc1J07OL0yoEAXLOyekVWyelupcNGRtbJ8apXt9EeQTL0ie-Y9wc8NmlMpvE",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

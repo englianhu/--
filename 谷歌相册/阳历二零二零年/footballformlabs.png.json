@@ -1,0 +1,36 @@
+{
+  "title": "footballformlabs.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1600602240",
+    "formatted": "2020年9月20日 UTC 11:44:00"
+  },
+  "photoTakenTime": {
+    "timestamp": "1600589250",
+    "formatted": "2020年9月20日 UTC 08:07:30"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/RjvsiJvwonsw4JQc2rgmc7FFaMKbj_wTZGDvvS1X3H4xCNtXCwvg70lX-1Zc7olE2v9tNRTMF9wGHQjGdDdVZFN5BHqFbmrW2y9xznuq",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

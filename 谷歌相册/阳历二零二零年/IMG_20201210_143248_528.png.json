@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20201210_143248_528.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1607586108",
+    "formatted": "2020年12月10日 UTC 07:41:48"
+  },
+  "photoTakenTime": {
+    "timestamp": "1607578370",
+    "formatted": "2020年12月10日 UTC 05:32:50"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/T_m9xFNFdk8o2U9dtzmovb97Wei5bZOnOqQjAb4w_nuGEw99skX0__e1tvGIkiySUgYO9g6YnM5wh4QMsg4C1pyu3vKm_3BX-WaF6mFO",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

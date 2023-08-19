@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20200913_191016.jpg",
+  "description": "",
+  "imageViews": "21",
+  "creationTime": {
+    "timestamp": "1599991835",
+    "formatted": "2020年9月13日 UTC 10:10:35"
+  },
+  "photoTakenTime": {
+    "timestamp": "1599991476",
+    "formatted": "2020年9月13日 UTC 10:04:36"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/Mg4KZ1fbouL7bVTove4UqkFRcHuA1E462qLlQ-SnvRx6Rs2OsGCxZpGjg6D6CoB1qNEcI57O-CvfXFQ0ep3ZQnXWBM8EjsoGfntUlM53",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

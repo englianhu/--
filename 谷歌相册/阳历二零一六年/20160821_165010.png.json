@@ -1,0 +1,36 @@
+{
+  "title": "20160821_165010.jpg",
+  "description": "",
+  "imageViews": "29",
+  "creationTime": {
+    "timestamp": "1471765986",
+    "formatted": "2016年8月21日 UTC 07:53:06"
+  },
+  "photoTakenTime": {
+    "timestamp": "1471765810",
+    "formatted": "2016年8月21日 UTC 07:50:10"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/xYCoLSnqceevvrdNgm7NDsYJLsjwmXnagaydws_rW5FrmswfnaSelLzz-7cosRVlBN980Ikv3T3_ULR9jpZT_I8YVgC3YBuH-Y3hIKjG",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "received_341020381004964.jpeg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1626590615",
+    "formatted": "2021年7月18日 UTC 06:43:35"
+  },
+  "photoTakenTime": {
+    "timestamp": "1625825194",
+    "formatted": "2021年7月9日 UTC 10:06:34"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/kOsafckTUnpcVC7-ZSYw2qtpUXxj4gs11bBW86fFzJ4hvU3MRh7XL0RfW5pFAv4OZrwh8cnX31gxEQepWNpgFqZh_o0eTTgqpzsSfiJx",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Messenger"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

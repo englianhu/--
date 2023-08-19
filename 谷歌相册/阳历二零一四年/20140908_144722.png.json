@@ -1,0 +1,33 @@
+{
+  "title": "20140908_144722.jpg",
+  "description": "",
+  "imageViews": "48",
+  "creationTime": {
+    "timestamp": "1410160859",
+    "formatted": "2014年9月8日 UTC 07:20:59"
+  },
+  "photoTakenTime": {
+    "timestamp": "1410155241",
+    "formatted": "2014年9月8日 UTC 05:47:21"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/JBZB5bSbvfzoWl53qh_4pZ5InJil_vhgkJtSHcRrcxZl_TIr2C0dr2vduwT4sADVDiIxfKXwAMK6B95LH-8HI0LLy0aFksGGkTkvS5s",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

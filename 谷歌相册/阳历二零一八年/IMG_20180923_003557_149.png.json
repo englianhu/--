@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20180923_003557_149.jpg",
+  "description": "",
+  "imageViews": "11",
+  "creationTime": {
+    "timestamp": "1537630573",
+    "formatted": "2018年9月22日 UTC 15:36:13"
+  },
+  "photoTakenTime": {
+    "timestamp": "1537630558",
+    "formatted": "2018年9月22日 UTC 15:35:58"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/hn_48aEwBFyIsPJKZ3b8dTmN3KsuKbMAP5Rt7FDxsN4uXWGBJup03D53ZunU5Esd7kR0v3pa_ghYHG0UtzAFqU8GrdNww6uiJPwISlxF",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

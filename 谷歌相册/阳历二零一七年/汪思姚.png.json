@@ -1,0 +1,39 @@
+{
+  "title": "汪思姚.jpg",
+  "description": "",
+  "imageViews": "21",
+  "creationTime": {
+    "timestamp": "1512615028",
+    "formatted": "2017年12月7日 UTC 02:50:28"
+  },
+  "photoTakenTime": {
+    "timestamp": "1508952518",
+    "formatted": "2017年10月25日 UTC 17:28:38"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/ipwhEk9K7OCvVXspNc5EeO7kCBHi8lClt-sWiEOny4FRukgVnyIeng8TE5PlsoWa2rjo-wsGPs0Uk9Exq32xxRYK1b3RlAYiWG2Rcy9m",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

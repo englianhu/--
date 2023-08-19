@@ -1,0 +1,39 @@
+{
+  "title": "Shopee_00c0aac66d064cf7a1e71079572a0a3e.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1629887235",
+    "formatted": "2021年8月25日 UTC 10:27:15"
+  },
+  "photoTakenTime": {
+    "timestamp": "1629877756",
+    "formatted": "2021年8月25日 UTC 07:49:16"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/tETOp0FXGBQma9TEjGtykwyjv91Xk4uIPcZQUDxZQ1LudeuqhxTAfcuDp-HWPT23c6rdxXSEa92xA-Sik4Xgch57tX1LyWYWkiER5w85",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

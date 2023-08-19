@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20230529_193425_944.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1685864000",
+    "formatted": "2023年6月4日 UTC 07:33:20"
+  },
+  "photoTakenTime": {
+    "timestamp": "1685360065",
+    "formatted": "2023年5月29日 UTC 11:34:25"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/_6a9BOxxYAMY-qjEoF_oSL_oNgremg4tP869SnMTHtO7D2mg8m0YhmKFm2tTSCoxWb41e62crGsCSfbkG-AXmRavVnswJwQMBpqbJyht",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

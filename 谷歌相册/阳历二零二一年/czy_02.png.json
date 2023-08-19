@@ -1,0 +1,39 @@
+{
+  "title": "czy_02.jpg",
+  "description": "",
+  "imageViews": "16",
+  "creationTime": {
+    "timestamp": "1633180168",
+    "formatted": "2021年10月2日 UTC 13:09:28"
+  },
+  "photoTakenTime": {
+    "timestamp": "1632929592",
+    "formatted": "2021年9月29日 UTC 15:33:12"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/qVzzyCKeyBGrRASFpNtvK0yUc7dZQLsnXUt6Tbe8eHpLOdjZdqSryG02TP4bgIGYL4s29tZnYuHSGtb9eZq_I-FKtO0JcwMHocnbANwr",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

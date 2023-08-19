@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20220507_180204.jpg",
+  "description": "",
+  "imageViews": "24",
+  "creationTime": {
+    "timestamp": "1651919414",
+    "formatted": "2022年5月7日 UTC 10:30:14"
+  },
+  "photoTakenTime": {
+    "timestamp": "1651914125",
+    "formatted": "2022年5月7日 UTC 09:02:05"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/eLIpeEaWrcQ06AWOiotkQp5B7ILj3BC5Sfb4XBEz5HpPAx97-bI0O8lofiFG7M6gTAPbfLq0iVyO-yAKMXZkSI5buxNPkyL4CUF2fq4K",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Twitter"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

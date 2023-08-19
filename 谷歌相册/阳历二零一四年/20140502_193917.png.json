@@ -1,0 +1,33 @@
+{
+  "title": "20140502_193917.jpg",
+  "description": "",
+  "imageViews": "120",
+  "creationTime": {
+    "timestamp": "1399035082",
+    "formatted": "2014年5月2日 UTC 12:51:22"
+  },
+  "photoTakenTime": {
+    "timestamp": "1399027157",
+    "formatted": "2014年5月2日 UTC 10:39:17"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/tY2NBYK7xO-2mAH6WZJVzMwBdtOa3VmKRGQcjYnEGMEEkJHKld-VX8j1BgSd61n-90SFDJRCaRqBzjEm7xbzK1nxvTJCXcKf4IyO3V0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

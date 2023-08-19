@@ -1,0 +1,33 @@
+{
+  "title": "20131215_174102.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1596866788",
+    "formatted": "2020年8月8日 UTC 06:06:28"
+  },
+  "photoTakenTime": {
+    "timestamp": "1387100461",
+    "formatted": "2013年12月15日 UTC 09:41:01"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/FJOuzZ19e-3ShsxuuB0wllt_jf61XdNwe-AKaB-QGjcNTapWJucLNadeFP7MGbtUlAB_aFZD2RqyNxJvTWGzkEdn7iU1v86WUIwxpPdE",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

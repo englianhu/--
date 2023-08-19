@@ -1,0 +1,36 @@
+{
+  "title": "1604639680438.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1604698870",
+    "formatted": "2020年11月6日 UTC 21:41:10"
+  },
+  "photoTakenTime": {
+    "timestamp": "1604639680",
+    "formatted": "2020年11月6日 UTC 05:14:40"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/UyhzjC-IMb96y3OXd8s__ssLXpaZwuFzaCqzho0cIeGIxWkfViIz04Z-HXo4SlhDmCxtFv9dqpufYdNbhx44nR0UyYYE7qCIi64MXOJI",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

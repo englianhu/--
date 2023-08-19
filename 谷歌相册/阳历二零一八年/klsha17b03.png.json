@@ -1,0 +1,36 @@
+{
+  "title": "klsha17b03.jpg",
+  "description": "",
+  "imageViews": "41",
+  "creationTime": {
+    "timestamp": "1516150440",
+    "formatted": "2018年1月17日 UTC 00:54:00"
+  },
+  "photoTakenTime": {
+    "timestamp": "1516154073",
+    "formatted": "2018年1月17日 UTC 01:54:33"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/ha3uO46EJb0VJtsLHWQ7MEF9u7Bj_qNworFn-VjF40PI4LUuIrcuBiwpilGVA8a_Ujxppq7oa04ktEHh0jACJz8HSv4DfJNGfDxQIiJi",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160427_123624850-COLLAGE.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1603734091",
+    "formatted": "2020年10月26日 UTC 17:41:31"
+  },
+  "photoTakenTime": {
+    "timestamp": "1461728197",
+    "formatted": "2016年4月27日 UTC 03:36:37"
+  },
+  "geoData": {
+    "latitude": 3.1572221999999996,
+    "longitude": 101.7091667,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.1572221999999996,
+    "longitude": 101.7091667,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ryo Eng"
+  }],
+  "url": "https://lh3.googleusercontent.com/AhdetCQ9yt25EOnNDtf7mmDC39BW5U2rLXTKVfodu5Ioxz5fsuFZgsPxR_TlAOAdhhHbP2fEYmBfiMNUGY0M5Q5BMDDz9bRrRExY8aZQ",
+  "googlePhotosOrigin": {
+    "composition": {
+      "type": "AUTO"
+    }
+  }
+}

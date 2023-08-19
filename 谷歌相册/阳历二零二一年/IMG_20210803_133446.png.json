@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20210803_133446.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1628039174",
+    "formatted": "2021年8月4日 UTC 01:06:14"
+  },
+  "photoTakenTime": {
+    "timestamp": "1627968886",
+    "formatted": "2021年8月3日 UTC 05:34:46"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/HDEvr5msHrwP20R5BCUJCeTAFWFkh9qcosJebmeg0d-ddIOqoDTtHDwy-3pWQgKYDSOPQ4VxV21FnuJnUiLrdgzfBN70F2tCTbc3aQS4",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

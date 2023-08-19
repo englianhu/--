@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20150520_190551.jpg",
+  "description": "",
+  "imageViews": "41",
+  "creationTime": {
+    "timestamp": "1432116370",
+    "formatted": "2015年5月20日 UTC 10:06:10"
+  },
+  "photoTakenTime": {
+    "timestamp": "1432116351",
+    "formatted": "2015年5月20日 UTC 10:05:51"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/sGel_5FRJlW6p7EQPleaKq5wLmnBem0EaCMoW0orsuQ1PPvHHiXn6V6-__LEPfJKvNpotbWD13uUM0sGuCtqbMTLGmS58GY3RSPkS0s",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

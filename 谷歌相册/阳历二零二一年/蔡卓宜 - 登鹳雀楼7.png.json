@@ -1,0 +1,39 @@
+{
+  "title": "蔡卓宜 - 登鹳雀楼7.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1633180164",
+    "formatted": "2021年10月2日 UTC 13:09:24"
+  },
+  "photoTakenTime": {
+    "timestamp": "1632882948",
+    "formatted": "2021年9月29日 UTC 02:35:48"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/lXetkWQN8ep3XGemLfrPu73qFh_rx7dssKXrC__EeHxbaqV0Zo2ms0XPvt4YPpPFFa4l4TfK1tcixLG4U3rtwFaZAreZnVvPSKylexh9",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

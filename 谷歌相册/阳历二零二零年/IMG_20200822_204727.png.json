@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20200822_204727.jpg",
+  "description": "",
+  "imageViews": "11",
+  "creationTime": {
+    "timestamp": "1599615098",
+    "formatted": "2020年9月9日 UTC 01:31:38"
+  },
+  "photoTakenTime": {
+    "timestamp": "1598096847",
+    "formatted": "2020年8月22日 UTC 11:47:27"
+  },
+  "geoData": {
+    "latitude": 2.75316,
+    "longitude": 101.705461,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 2.75316,
+    "longitude": 101.705461,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/c4xsX_TRjrTmTkC3AxWIwzm_ctAnpDJ2YRAUGTQYK60OE35FgkfokLOTjAEnrPsCHGGA-lq3P0Xr9XWLXPS5SE9SwnWjXExa-80BgOVF",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "20151010_214850.jpg",
+  "description": "",
+  "imageViews": "31",
+  "creationTime": {
+    "timestamp": "1444547251",
+    "formatted": "2015年10月11日 UTC 07:07:31"
+  },
+  "photoTakenTime": {
+    "timestamp": "1444481329",
+    "formatted": "2015年10月10日 UTC 12:48:49"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/OqjUNjzNf5HM6i8pD-V-xrC3VaPMTDZRwMHQPs4Q15IWY845H0batO2BBQR0BFf1m3QQILEKSqJTGOCiC6_nebLP4hVv5bSqEmSFC9g",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

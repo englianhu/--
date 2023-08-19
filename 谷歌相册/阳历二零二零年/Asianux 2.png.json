@@ -1,0 +1,36 @@
+{
+  "title": "Asianux 2.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1668688204",
+    "formatted": "2022年11月17日 UTC 12:30:04"
+  },
+  "photoTakenTime": {
+    "timestamp": "1666437892",
+    "formatted": "2022年10月22日 UTC 11:24:52"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/DfDyZp8QOGvgvbStiysob3bFiagFPLmT8Fkfokgh_97_LBTFLvomz3L4dRA5Dc4OLiG9qjiFRmcwt2aPPAFtKnFU8-5nJt6U-rYmf8PX",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

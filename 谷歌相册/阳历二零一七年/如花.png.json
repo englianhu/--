@@ -1,0 +1,36 @@
+{
+  "title": "如花.jpg",
+  "description": "",
+  "imageViews": "24",
+  "creationTime": {
+    "timestamp": "1514133960",
+    "formatted": "2017年12月24日 UTC 16:46:00"
+  },
+  "photoTakenTime": {
+    "timestamp": "1514137553",
+    "formatted": "2017年12月24日 UTC 17:45:53"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Wl_thKek45M7hNXSpDxp50cjkS5J5savweq2-HDbUMwWaWFr_CuIndB5BeGAt_Y7nlLfNjmkiQWO47dfu8KASR26QUZinOepQ6EfW_xY",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

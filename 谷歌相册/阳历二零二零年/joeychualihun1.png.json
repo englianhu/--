@@ -1,0 +1,39 @@
+{
+  "title": "joeychualihun1.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1609345273",
+    "formatted": "2020年12月30日 UTC 16:21:13"
+  },
+  "photoTakenTime": {
+    "timestamp": "1609165223",
+    "formatted": "2020年12月28日 UTC 14:20:23"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/128LGceYL4PTs12ZbGX473Wf3R7wG_0DKevkbdX1jYNDbYcmXgrTCpJdVQnuIBV4_fKeyLUQc75JABcuIXUs363JAMFxVrvWdWNh1UMz",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

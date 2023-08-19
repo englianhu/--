@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20201008_043653.jpg",
+  "description": "",
+  "imageViews": "13",
+  "creationTime": {
+    "timestamp": "1602163279",
+    "formatted": "2020年10月8日 UTC 13:21:19"
+  },
+  "photoTakenTime": {
+    "timestamp": "1602099397",
+    "formatted": "2020年10月7日 UTC 19:36:37"
+  },
+  "geoData": {
+    "latitude": 3.0083333,
+    "longitude": 101.6608333,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 3.0083333,
+    "longitude": 101.6608333,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/znYoX8T3f8VZ4AvDL3Tr8kKWUm0qbSGxPSHBqql0gtwYZBUmPl_dtjL-Zz1UsSywwoV3Z-30dZWt-Sd7saRENnnFVqO8td2Bww7DVA4g",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

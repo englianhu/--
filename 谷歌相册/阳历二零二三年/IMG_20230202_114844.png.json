@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20230202_114844.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1680618994",
+    "formatted": "2023年4月4日 UTC 14:36:34"
+  },
+  "photoTakenTime": {
+    "timestamp": "1678171143",
+    "formatted": "2023年3月7日 UTC 06:39:03"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/3gNXUyS81Q7fAsIjjuuBmmlVsRK23-I6jOybvY7cUTC0T9Z3-2dVKqrZsTS7X2n7EXVTyqbeOE4-aKyqVZoa4V1pWE3p1rBejTJB89Ne",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Bluetooth"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

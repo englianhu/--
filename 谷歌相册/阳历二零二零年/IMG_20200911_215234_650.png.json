@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20200911_215234_650.jpg",
+  "description": "",
+  "imageViews": "38",
+  "creationTime": {
+    "timestamp": "1599828761",
+    "formatted": "2020年9月11日 UTC 12:52:41"
+  },
+  "photoTakenTime": {
+    "timestamp": "1599828755",
+    "formatted": "2020年9月11日 UTC 12:52:35"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/r8L7V-YFN-qrFz1KYXjCX8RJo7CQheQRD6Ou-4gEGgUYGHT3PTUO5dqeROYabrLpL0g1lth-3tvVRBU8xLWY0Kx-DkI8ckvQ7_yMITEC",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "美女18.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1605942179",
+    "formatted": "2020年11月21日 UTC 07:02:59"
+  },
+  "photoTakenTime": {
+    "timestamp": "1588404849",
+    "formatted": "2020年5月2日 UTC 07:34:09"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/75ULstkkjlerTuJ7hLvb6mA8CyMmScLjYyHJ4LSVozsmDT-8lz1op_B76nrpjGF54_8rgTMqy5WFUa7OthCHs3Rsmu6jMIGeGdvJPimT",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

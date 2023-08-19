@@ -1,0 +1,36 @@
+{
+  "title": "20150610_192526.jpg",
+  "description": "",
+  "imageViews": "37",
+  "creationTime": {
+    "timestamp": "1433931934",
+    "formatted": "2015年6月10日 UTC 10:25:34"
+  },
+  "photoTakenTime": {
+    "timestamp": "1433931925",
+    "formatted": "2015年6月10日 UTC 10:25:25"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/BbsSw4i7cjftLTIaU2PG00dzHPzM4buz4vAGNcADZdfIIjSOFy6unIhzDvO2wGAcIfwegR_Rdy16ybsRI0fw2SQOZyCWdtmcPsoj0ns",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

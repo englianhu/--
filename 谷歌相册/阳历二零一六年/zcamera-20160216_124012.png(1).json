@@ -1,0 +1,36 @@
+{
+  "title": "zcamera-20160216_124012.jpg",
+  "description": "",
+  "imageViews": "27",
+  "creationTime": {
+    "timestamp": "1455597887",
+    "formatted": "2016年2月16日 UTC 04:44:47"
+  },
+  "photoTakenTime": {
+    "timestamp": "1455594013",
+    "formatted": "2016年2月16日 UTC 03:40:13"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/HHma0Rlr8xb3Ttjc4io-YRKCIF85OLJ31mRmnx_Pp_f0cu7haefkdxC-Yx2ggjbU_Sa-g7eiECDRd_FxYIeGo1U0LmrkbVoSBLQ__98c",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

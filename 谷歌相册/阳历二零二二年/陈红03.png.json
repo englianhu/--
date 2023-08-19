@@ -1,0 +1,39 @@
+{
+  "title": "陈红03.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1641162381",
+    "formatted": "2022年1月2日 UTC 22:26:21"
+  },
+  "photoTakenTime": {
+    "timestamp": "1641065172",
+    "formatted": "2022年1月1日 UTC 19:26:12"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/vN5yR4vZXhkOfk6B894sDv4rFqoAWuG8I87NsfUdVJNtV66wPlOga8tvNYodSsjQGI5ZZ4V3zUcqTdVdwmyo8Fn7NWbV3YKeW__kt20b",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

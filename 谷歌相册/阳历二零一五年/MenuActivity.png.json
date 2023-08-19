@@ -1,0 +1,36 @@
+{
+  "title": "MenuActivity.jpg",
+  "description": "",
+  "imageViews": "56",
+  "creationTime": {
+    "timestamp": "1426076583",
+    "formatted": "2015年3月11日 UTC 12:23:03"
+  },
+  "photoTakenTime": {
+    "timestamp": "1425998141",
+    "formatted": "2015年3月10日 UTC 14:35:41"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/wkwveHxKbZWROpOfG8Ljca13dldkC1w0QJIiDT3_seD0ggJTX8LzLJ2PdmZopo00sbLqUIXxkAKVV7a8EQIVV6CD6JnKEoNTdpWcMb0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "HockeyApp"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "一柱香.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1571970195",
+    "formatted": "2019年10月25日 UTC 02:23:15"
+  },
+  "photoTakenTime": {
+    "timestamp": "1542410489",
+    "formatted": "2018年11月16日 UTC 23:21:29"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/wEGNPkTSHhIZm__cB6aRwA7rma8xHmo5xq4qBOuxCTKlBfwdkgMkOlgMfoWU0CVHovBxbIe2cdchXobc5rPlfk0ew4ZWhayvJ2eyGzqg",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

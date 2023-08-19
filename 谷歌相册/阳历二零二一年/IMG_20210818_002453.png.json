@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20210818_002453.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1630063438",
+    "formatted": "2021年8月27日 UTC 11:23:58"
+  },
+  "photoTakenTime": {
+    "timestamp": "1629211796",
+    "formatted": "2021年8月17日 UTC 14:49:56"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/MqjLZw4mPkNlZ6o3Y5NlvHCoT7RBTSzEopZIZL2jNm6l2le7O7Sa9Pq2Ahcukuw8Tn-U_DFD4tKmvefzQbsAOLa3LE4v7JiDK7GEvynu",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "微博动图"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

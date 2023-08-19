@@ -1,0 +1,36 @@
+{
+  "title": "秦王宫.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1685863981",
+    "formatted": "2023年6月4日 UTC 07:33:01"
+  },
+  "photoTakenTime": {
+    "timestamp": "1685186576",
+    "formatted": "2023年5月27日 UTC 11:22:56"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/mav5Q-FzxDBUgMsmZpDFMdoVxd7yLOot0xStJIXVHFIvczzIb4i3I0VVDKc95lhBEYewVbXWet9Ea5Jlu5FHFKk7wOpwKA9FvXtWt6-f",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

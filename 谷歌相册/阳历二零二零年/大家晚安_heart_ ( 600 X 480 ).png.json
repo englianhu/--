@@ -1,0 +1,39 @@
+{
+  "title": "大家晚安_heart_ ( 600 X 480 ).jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1608655510",
+    "formatted": "2020年12月22日 UTC 16:45:10"
+  },
+  "photoTakenTime": {
+    "timestamp": "1608655491",
+    "formatted": "2020年12月22日 UTC 16:44:51"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Joey Chua"
+  }],
+  "url": "https://lh3.googleusercontent.com/SxBoT_AmFd4p1vzlNYBb84QjMm3AYaNj5V0cY5ArPvmewopLr0ccAPujw1Vje0jaz3tTGuLjSLM-iTgSfqSPitUDsOSc_YKSkrM_1guJ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Videoder"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

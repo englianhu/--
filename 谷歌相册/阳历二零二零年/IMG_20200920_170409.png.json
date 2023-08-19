@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20200920_170409.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1600602232",
+    "formatted": "2020年9月20日 UTC 11:43:52"
+  },
+  "photoTakenTime": {
+    "timestamp": "1600589014",
+    "formatted": "2020年9月20日 UTC 08:03:34"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/CHE64YmXjFOUQWqIk5IvdNPYSEuSznvEGhxsGkBh5aQk8t99gJy8zjqmnOsgtm1ozCWjwiR76jioMBDVWTqVEI-AwtRuo13TFB0elgSF",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "20140524_163117.jpg",
+  "description": "",
+  "imageViews": "91",
+  "creationTime": {
+    "timestamp": "1400923176",
+    "formatted": "2014年5月24日 UTC 09:19:36"
+  },
+  "photoTakenTime": {
+    "timestamp": "1400916676",
+    "formatted": "2014年5月24日 UTC 07:31:16"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/QUBNfg4jbirXK04e2pGGu2ACow8je7HIHeH1pYaJdE6SNOnWXrhErjmakOmDjDXB7Dh6DmDnnrJDX-rpb1F-Tutljz11f_meNyWSkD4",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

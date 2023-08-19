@@ -1,0 +1,33 @@
+{
+  "title": "under_construction.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1604160572",
+    "formatted": "2020年10月31日 UTC 16:09:32"
+  },
+  "photoTakenTime": {
+    "timestamp": "1232801533",
+    "formatted": "2009年1月24日 UTC 12:52:13"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Ac3IkHHSSuTz13O9rJLaizUdDXkRkqiZlj_kMhTjFf8C5L1ANf1G3BWnsBYOtvezcaFqd5_VJctTq2nwnmYHoWgbwmu5Bzt_Xz2ZIrD1",
+  "googlePhotosOrigin": {
+    "driveDesktopUploader": {
+      "version": "BACKUP_AND_SYNC"
+    }
+  }
+}

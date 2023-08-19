@@ -1,0 +1,33 @@
+{
+  "title": "miss_value.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1600172682",
+    "formatted": "2020年9月15日 UTC 12:24:42"
+  },
+  "photoTakenTime": {
+    "timestamp": "1540287571",
+    "formatted": "2018年10月23日 UTC 09:39:31"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/wrxiEMzj1X6M9tKb_PjYDH9R74pa8rUy_HOD-4i7ZbOK0UpWh_MQwU9KtODUhh5qDgC8vyZIqD7UJoTJcM4Zzmoo9ibJu9-FctmvEhaG",
+  "googlePhotosOrigin": {
+    "driveDesktopUploader": {
+      "version": "BACKUP_AND_SYNC"
+    }
+  }
+}

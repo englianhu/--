@@ -1,0 +1,21 @@
+{
+  "fitnessActivity": "biking",
+  "startTime": "2022-11-26T01:19:25.966Z",
+  "endTime": "2022-11-26T01:56:55.410Z",
+  "duration": "2249.444s",
+  "segment": [{
+    "fitnessActivity": "biking",
+    "startTime": "2022-11-26T01:19:25.966Z",
+    "endTime": "2022-11-26T01:56:55.410Z"
+  }],
+  "aggregate": [{
+    "metricName": "com.google.heart_minutes.summary",
+    "floatValue": 36.0
+  }, {
+    "metricName": "com.google.calories.expended",
+    "floatValue": 172.45737333333335
+  }, {
+    "metricName": "com.google.active_minutes",
+    "intValue": 36
+  }]
+}

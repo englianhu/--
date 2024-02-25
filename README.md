@@ -1,5 +1,5 @@
 
-<img src='诸子百家考工记/世博量化.png' height='100'> <img src='诸子百家考工记/大秦赋 - 北京大学.png' height='100'>
+<img src='诸子百家考工记/中科红旗，量化对冲；世博量化，点缀全球。/世博量化.png' height='100'> <img src='诸子百家考工记/中科红旗，量化对冲；世博量化，点缀全球。/大秦赋 - 北京大学.png' height='100'>
 
 # 诸子百家
 
@@ -13,5 +13,5 @@
 
 ---
 
-[<img src="诸子百家考工记/Scibrokes.png" height="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
-<span style='color:RoyalBlue'>**[<img src="诸子百家考工记/Scibrokes.png" height="14"/> 世博量化®](http://www.scibrokes.com)企业知识产权及版权所有，盗版必究。**</span>
+[<img src="诸子百家考工记/中科红旗，量化对冲；世博量化，点缀全球。/Scibrokes.png" height="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
+<span style='color:RoyalBlue'>**[<img src="诸子百家考工记/中科红旗，量化对冲；世博量化，点缀全球。/Scibrokes.png" height="14"/> 世博量化®](http://www.scibrokes.com)企业知识产权及版权所有，盗版必究。**</span>

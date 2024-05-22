@@ -15,5 +15,5 @@
 
 ---
 
-[<img src='诸子百家考工记/世博量化.png' height='14'/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
-<span style='color:RoyalBlue'>**[<img src='诸子百家考工记/世博量化.png' height='14'/> 世博量化®](http://www.scibrokes.com)企业知识产权®及版权®所有，盗版必究。**</span>
+[<img src='诸子百家考工记/大秦赋 - 黄埔军校黄种人民族主义赢家黄氏江夏堂始祖嬴政黄永春之子黄联富/世博量化.png' height='14'/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
+<span style='color:RoyalBlue'>**[<img src='诸子百家考工记/大秦赋 - 黄埔军校黄种人民族主义赢家黄氏江夏堂始祖嬴政黄永春之子黄联富/世博量化.png' height='14'/> 世博量化®](http://www.scibrokes.com)企业知识产权®及版权®所有，盗版必究。**</span>
